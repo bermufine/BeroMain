@@ -41,12 +41,13 @@
           "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
           "title": "CITE DE DAVID"
         },
+	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
         {
           "description": "DPK TV est une chaine de television....",
           "sources": [
             "https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"
           ],
-          "subtitle": "By Channel",
+          "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
           "title": "DPK TV"
         },
@@ -127,7 +128,7 @@
           "sources": [
             "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"
           ],
-          "subtitle": "By Channel",
+          "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg",
           "title": "NOVELAS"
         },
@@ -181,7 +182,7 @@
           "sources": [
             "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
           ],
-          "subtitle": "By Channel",
+          "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
           "title": "AFRO MAGIC"
         },
@@ -226,7 +227,7 @@
           "sources": [
             "https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"
           ],
-          "subtitle": "By Channel",
+          "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
           "title": "RL PRO TV"
         },
@@ -244,7 +245,7 @@
           "sources": [
             "https://helga.iptv2022.com/sh/VERITE_TV/tracks-v1a1/mono.m3u8"
           ],
-          "subtitle": "By Channel",
+          "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png",
           "title": "VERITE TV"
         },
@@ -253,7 +254,7 @@
           "sources": [
             "https://helga.iptv2022.com/sh/SYNTY_TV/tracks-v1a1/mono.m3u8"
           ],
-          "subtitle": "By Channel",
+          "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg",
           "title": "SYNTY TV"
         },
