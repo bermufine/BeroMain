@@ -41,16 +41,6 @@
           "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
           "title": "CITE DE DAVID"
         },
-	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
-        {
-          "description": "DPK TV est une chaine de television....",
-          "sources": [
-            "https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
-          "title": "DPK TV"
-        },
         {
           "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "sources": [
@@ -124,68 +114,23 @@
           "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
           "title": "EGG PRO TV"
         },
-	{
-          "description": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+        {
+          "description": "DPK TV est une chaine de television....",
           "sources": [
-            "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"
+            "https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg",
-          "title": "NOVELAS"
+          "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
+          "title": "DPK TV"
         },
         {
-          "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
-          "sources": [
-            "http://69.64.57.208/rtnc/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
-          "title": "RTNC HD"
-        },
-	{
-          "description": "A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....",
-          "sources": [
-            "http://69.64.57.208/atv/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg",
-          "title": "A+ IVOIRE"
-        },
-        {
-          "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone",
-          "sources": [
-            "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg",
-          "title": "CTV AFRICA"
-        },
-        {
-          "description": "???????????????? ???? est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
+          "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
             "https://amigofx.com:1936/championtv/championtv/playlist.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "title": "CHAMPION TV"
-        },
-	{
-          "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
-          "sources": [
-            "http://51.254.199.122:8080/rtnc1/index.m3u8"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
-          "title": "RTNC HD"
-        },
-	 {
-          "description": "Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
-          "sources": [
-            "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
-          "title": "AFRO MAGIC"
         },
         {
           "description": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email ?? hopetvafrica2020@gmail.com contact 0027846809542",
@@ -215,15 +160,6 @@
           "title": "ACTU NGOLO TV HD"
         },
         {
-          "description": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sources": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
-          "title": "SERIES NOVELAS"
-        },
-        {
           "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
           "sources": [
             "https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"
@@ -231,15 +167,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
           "title": "RL PRO TV"
-        },
-        {
-          "description": "Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sources": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg",
-          "title": "SERIE FANTATISQUE"
         },
         {
           "description": "VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929",
@@ -258,15 +185,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg",
           "title": "SYNTY TV"
-        },
-        {
-          "description": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sources": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg",
-          "title": "TELE NOVELAS"
         },
         {
           "description": "Congo Panique TV est une chaine de divertissement",
@@ -299,3 +217,89 @@
     }
   ]
 }
+
+
+
+	{
+          "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+          "sources": [
+            "http://51.254.199.122:8080/rtnc1/index.m3u8"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
+          "title": "RTNC HD"
+        },
+	 {
+          "description": "Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
+          "sources": [
+            "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
+          "title": "AFRO MAGIC"
+        },
+	 {
+          "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+          "sources": [
+            "http://69.64.57.208/rtnc/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
+          "title": "RTNC HD"
+        },
+	{
+          "description": "A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....",
+          "sources": [
+            "http://69.64.57.208/atv/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg",
+          "title": "A+ IVOIRE"
+        },
+        {
+          "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone",
+          "sources": [
+            "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg",
+          "title": "CTV AFRICA"
+        },
+	{
+          "description": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sources": [
+            "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg",
+          "title": "NOVELAS"
+        },
+	 {
+          "description": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sources": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg",
+          "title": "TELE NOVELAS"
+        },
+	 {
+          "description": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sources": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
+          "title": "SERIES NOVELAS"
+        },
+	 {
+          "description": "Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sources": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg",
+          "title": "SERIE FANTATISQUE"
+        },
+	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
+ 
