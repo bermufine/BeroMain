@@ -23,25 +23,7 @@
           "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "title": "KIN DIRECT TV"
         },
-        {
-          "description": "Radio Télé Silo est une chaîne chrétienne",
-          "sources": [
-            "https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg",
-          "title": "RADIO TÉLÉ SILO"
-        },
-        {
-          "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "title": "CITE DE DAVID"
-        },
-        {
+	 {
           "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "sources": [
             "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
@@ -61,6 +43,24 @@
         },
 	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
         {
+          "description": "Radio Télé Silo est une chaîne chrétienne",
+          "sources": [
+            "https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg",
+          "title": "RADIO TÉLÉ SILO"
+        },
+        {
+          "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "title": "CITE DE DAVID"
+        },
+        {
           "description": "Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "sources": [
             "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"
@@ -68,6 +68,33 @@
           "subtitle": "All Channel",
           "thumb": "https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg",
           "title": "CONGO TV"
+        },
+	 {
+          "description": "DPK TV est une chaine de television....",
+          "sources": [
+            "https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
+          "title": "DPK TV"
+        },
+	 {
+          "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+          "sources": [
+            "https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
+          "title": "RL PRO TV"
+        },
+	 {
+          "description": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
+          "sources": [
+            "https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
+          "title": "EGG PRO TV"
         },
         {
           "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
@@ -115,24 +142,6 @@
           "title": "CCPV TV"
         },
         {
-          "description": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
-          "sources": [
-            "https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
-          "title": "EGG PRO TV"
-        },
-        {
-          "description": "DPK TV est une chaine de television....",
-          "sources": [
-            "https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
-          "title": "DPK TV"
-        },
-        {
           "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
             "https://amigofx.com:1936/championtv/championtv/playlist.m3u8"
@@ -167,15 +176,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg",
           "title": "ACTU NGOLO TV HD"
-        },
-        {
-          "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-          "sources": [
-            "https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
-          "title": "RL PRO TV"
         },
         {
           "description": "VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929",
