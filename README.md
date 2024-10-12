@@ -5,6 +5,15 @@
       "name": "Movies",
       "videos": [
 	{
+          "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
+          "title": "GOSPEL CHANNEL"
+        },
+ 	{
           "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
           "sources": [
             "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
@@ -31,15 +40,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
           "title": "CBC TV"
-        },
-	{
-          "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
-          "title": "GOSPEL CHANNEL"
         },
 	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
         {
@@ -159,6 +159,15 @@
           "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
           "title": "HOPE TV EXTRA"
         },
+	 {
+          "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+          "sources": [
+            "http://69.64.57.208/rtnc/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
+          "title": "RTNC HD"
+        },
         {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
@@ -195,40 +204,6 @@
           "thumb": "https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg",
           "title": "SYNTY TV"
         },
-        {
-          "description": "Congo Panique TV est une chaine de divertissement",
-          "sources": [
-            "https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg",
-          "title": "CONGO PANIQUE"
-        },
-        {
-          "description": "Ticia TV est une chaine de divertissement",
-          "sources": [
-            "https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg",
-          "title": "TICIA TV"
-        },
-        {
-          "description": "Spiritas TV est une chaine de divertissement",
-          "sources": [
-            "https://stream.berosat.live:19360/spiritas-tv/spiritas-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg",
-          "title": "SPIRITAS TV"
-        }
-      ]
-    }
-  ]
-}
-
-
-
 	{
           "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "sources": [
@@ -246,15 +221,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
           "title": "AFRO MAGIC"
-        },
-	 {
-          "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
-          "sources": [
-            "http://69.64.57.208/rtnc/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
-          "title": "RTNC HD"
         },
 	{
           "description": "A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....",
@@ -311,4 +277,36 @@
           "title": "SERIE FANTATISQUE"
         },
 	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
+ 	 {
+          "description": "Congo Panique TV est une chaine de divertissement",
+          "sources": [
+            "https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg",
+          "title": "CONGO PANIQUE"
+        },
+        {
+          "description": "Ticia TV est une chaine de divertissement",
+          "sources": [
+            "https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg",
+          "title": "TICIA TV"
+        },
+        {
+          "description": "Spiritas TV est une chaine de divertissement",
+          "sources": [
+            "https://stream.berosat.live:19360/spiritas-tv/spiritas-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg",
+          "title": "SPIRITAS TV"
+        }
+      ]
+    }
+  ]
+}
+
  
