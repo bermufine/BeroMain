@@ -144,7 +144,7 @@
         {
           "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
-            "https://amigofx.com:1936/championtv/championtv/playlist.m3u8"
+            "https://helga.iptv2022.com/sh/Champion_tv/tracks-v1a1/mono.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
