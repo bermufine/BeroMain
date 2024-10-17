@@ -82,7 +82,7 @@
 	 {
           "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
           "sources": [
-            "https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"
+            "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
