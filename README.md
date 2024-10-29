@@ -70,7 +70,7 @@
           "thumb": "https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg",
           "title": "CONGO TV"
         },
-	{"description":"Eglise Primitive du Seigneur Yeshoua TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/epsy-tv/epsy-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"EPSY TV"},
+	{"description":"VEP TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/epsy-tv/epsy-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
 	 {
           "description": "DPK TV est une chaine de television....",
           "sources": [
