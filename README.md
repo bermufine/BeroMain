@@ -161,6 +161,7 @@
           "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "title": "RTNC HD"
         },
+	{"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://69.64.57.208/aforevo/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
         {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
@@ -242,8 +243,31 @@
           "thumb": "https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg",
           "title": "NOVELAS"
         },
-	 {
-          "description": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+
+{"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
+
+{"description":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","title":"NOVELAS 3"},
+
+{"description":"MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili......","sources":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","title":"MADI TV"},
+
+{"description":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili.","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","title":"BONGO TV"},
+
+{"description":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sources":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","title":"CINEMA HAUSA"},
+
+{"description":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","title":"AFRIWOOD BLOCKBUSTER"},
+
+{"description":"True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","title":"TRUE AFRICA"},
+
+{"description":"Afriood Series TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg","title":"AFRIWOOD SERIES"},
+
+{"description":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","title":"AFROLAND TV"},
+
+{"description":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","title":"AFROLAND 2"},
+
+{"description":"Romanza TV est une chaine des films et series pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg","title":"ROMANZA"},
+
+ {
+          "description": "Tele Novelas TV 2 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sources": [
             "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"
           ],
@@ -260,16 +284,13 @@
           "thumb": "https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
           "title": "SERIES NOVELAS"
         },
-	 {
-          "description": "Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sources": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg",
-          "title": "SERIE FANTATISQUE"
-        },
-	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"}
+	{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA TV"},
+ 	{"description":"Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg","title":"MANJARO TV"},
+
+{"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"},
+
+{"description":"KKTV Angola est une chaîne de télévision basée au Angola.","sources":["https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg","title":"KKTV ANGOLA"},
+	{"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"}
       ]
     }
   ]
@@ -314,5 +335,6 @@
           "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
           "title": "HOPE TV EXTRA"
         },
+	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
 
  
