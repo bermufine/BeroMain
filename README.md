@@ -152,15 +152,6 @@
           "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "title": "CHAMPION TV"
         },
-        {
-          "description": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email ?? hopetvafrica2020@gmail.com contact 0027846809542",
-          "sources": [
-            "http://hopetvafrica.com:8084/hls/stream.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
-          "title": "HOPE TV EXTRA"
-        },
 	 {
           "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "sources": [
@@ -278,8 +269,16 @@
           "thumb": "https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg",
           "title": "SERIE FANTATISQUE"
         },
-	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
- 	 {
+	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"}
+      ]
+    }
+  ]
+}
+
+
+
+
+ {
           "description": "Congo Panique TV est une chaine de divertissement",
           "sources": [
             "https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"
@@ -305,10 +304,15 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg",
           "title": "SPIRITAS TV"
-        }
-      ]
-    }
-  ]
-}
+        },
+	{
+          "description": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email ?? hopetvafrica2020@gmail.com contact 0027846809542",
+          "sources": [
+            "http://hopetvafrica.com:8084/hls/stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
+          "title": "HOPE TV EXTRA"
+        },
 
  
