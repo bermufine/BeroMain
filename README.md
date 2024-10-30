@@ -107,6 +107,15 @@
           "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
           "title": "METANOIA TV"
         },
+	 {
+          "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
+          "sources": [
+            "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
+          "title": "ONE TV"
+        },
         {
           "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
           "sources": [
@@ -124,15 +133,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
           "title": "AYA TV"
-        },
-        {
-          "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
-          "sources": [
-            "https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
-          "title": "ONE TV"
         },
         {
           "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
