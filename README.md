@@ -153,7 +153,7 @@
           "title": "CHAMPION TV"
         },
 	 {
-          "description": "Gtv est une chaîne de television",
+          "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions",
           "sources": [
             "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"
           ],
