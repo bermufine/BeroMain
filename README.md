@@ -172,7 +172,7 @@ Email : keurndananetv.sn@gmail.com",
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
-          "title": "KEUR NDANANE"},
+          "title": "KEUR NDANANE TV"},
    {
 "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "sources": [
