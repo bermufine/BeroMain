@@ -168,10 +168,10 @@ Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primair
 Tel : +221 33 871 61 22 /221772082121/+393515993000
 Email : keurndananetv.sn@gmail.com",
           "sources": [
-            "https://livestream.kgsols.com/push/KeurN/playlist.m3u8"
+            "http://livestream.kgsols.com/push/KeurN/playlist.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
+          "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
           "title": "KEUR NDANANE"},
    {
 "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
