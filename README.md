@@ -23,15 +23,6 @@
           "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
           "title": "EVI TV"
         }, 
-	{
-          "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
-          "title": "KIN DIRECT TV"
-        },
 	 {
           "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "sources": [
@@ -69,15 +60,6 @@
           "subtitle": "All Channel",
           "thumb": "https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg",
           "title": "CONGO TV"
-        },
-	 {
-          "description": "DPK TV est une chaine de television....",
-          "sources": [
-            "https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
-          "title": "DPK TV"
         },
 	 {
           "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
@@ -359,5 +341,24 @@ Email : keurndananetv.sn@gmail.com",
 	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
 
  {"description":"VEP TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
+
+ {
+          "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
+          "title": "KIN DIRECT TV"
+        },
+	{
+          "description": "DPK TV est une chaine de television....",
+          "sources": [
+            "https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
+          "title": "DPK TV"
+        },
 
  
