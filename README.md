@@ -24,6 +24,15 @@
           "title": "EVI TV"
         }, 
 	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
+         {
+          "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
+          "title": "KIN DIRECT TV"
+        },
 	{
           "description": "Radio Télé Silo est une chaîne chrétienne",
           "sources": [
@@ -323,16 +332,6 @@ Email : keurndananetv.sn@gmail.com",
 	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
 
  {"description":"VEP TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
-
- {
-          "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
-          "title": "KIN DIRECT TV"
-        },
 	{
           "description": "DPK TV est une chaine de television....",
           "sources": [
