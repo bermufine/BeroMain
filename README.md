@@ -23,15 +23,6 @@
           "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
           "title": "EVI TV"
         }, 
-	 {
-          "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
-          "title": "CBC TV"
-        },
 	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 	{
           "description": "Radio Télé Silo est une chaîne chrétienne",
@@ -359,6 +350,15 @@ Email : keurndananetv.sn@gmail.com",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
           "title": "DPK TV"
+        },
+	 {
+          "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
+          "title": "CBC TV"
         },
 
  
