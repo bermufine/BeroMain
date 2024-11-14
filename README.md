@@ -107,7 +107,7 @@
           "title": "BOSS BROTHER"
         },
 	{
-          "description": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....",
+          "description": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
             "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"
           ],
@@ -125,7 +125,7 @@
           "title": "HOPE CHANNEL TV"
         },
         {
-          "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
+          "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
           "sources": [
             "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
           ],
