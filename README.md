@@ -115,6 +115,15 @@
           "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
           "title": "AYA TV"
         },
+	{
+          "description": "Hope Channel TV est une chaîne généraliste émettant à Kinshasa qui diffuse que des predications, des informations, musiques et autres....",
+          "sources": [
+            "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
+          "title": "HOPE CHANNEL TV"
+        },
         {
           "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
           "sources": [
