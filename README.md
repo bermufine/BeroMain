@@ -121,7 +121,7 @@
             "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
+          "thumb": "https://od.lk/s/NDZfNjg3NzA3MDdf/hope-channel-tv-cd.png",
           "title": "HOPE CHANNEL TV"
         },
         {
