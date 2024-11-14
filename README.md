@@ -52,6 +52,15 @@
           "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
           "title": "BALADE MONDE TV"
         },
+	 {
+          "description": "RTV CBCO Télévision est la première chaine Chretienne Methodiste en République du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/cbco-tv/cbco-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg",
+          "title": "RTV CBCO"
+        },
         {
           "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
           "sources": [
