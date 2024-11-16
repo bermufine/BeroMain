@@ -70,6 +70,15 @@
           "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
           "title": "CITE DE DAVID"
         },
+	 {
+          "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+          "title": "TOP NOVELAS"
+        },
         {
           "description": "Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "sources": [
