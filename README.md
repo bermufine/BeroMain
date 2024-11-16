@@ -80,13 +80,13 @@
           "title": "TOP NOVELAS"
         },
         {
-          "description": "Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
+          "description": "Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "sources": [
             "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"
           ],
           "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg",
-          "title": "CONGO TV"
+          "thumb": "https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg",
+          "title": "BERO TV"
         },
 	 {
           "description": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
