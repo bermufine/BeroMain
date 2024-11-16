@@ -53,9 +53,9 @@
           "title": "BALADE MONDE TV"
         },
 	 {
-          "description": "RTV CBCO Télévision est la première chaine Chretienne Methodiste en République du Congo.",
+          "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/cbco-tv/cbco-tv.m3u8"
+            "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg",
