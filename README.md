@@ -329,7 +329,25 @@ Email : keurndananetv.sn@gmail.com",
 {"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"},
 
 {"description":"KKTV Angola est une chaîne de télévision basée au Angola.","sources":["https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg","title":"KKTV ANGOLA"},
-	{"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"}
+	{"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
+ 	 {
+          "description": "Ticia TV est une chaine de divertissement",
+          "sources": [
+            "https://stream.berosat.live:19360/nollywood-tv/nollywood-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg",
+          "title": "TICIA TV"
+        },
+        {
+          "description": "Spiritas TV est une chaine de divertissement",
+          "sources": [
+            "https://stream.berosat.live:19360/atv-stream/atv-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg",
+          "title": "SPIRITAS TV"
+        },
       ]
     }
   ]
