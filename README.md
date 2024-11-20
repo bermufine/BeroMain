@@ -61,6 +61,15 @@
           "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg",
           "title": "RTV CBCO"
         },
+	{
+          "description": "Vengeance Télévision chaine privée en République du Congo.",
+          "sources": [
+	  "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
+          "title": "VENGEANCE-TV"
+        },
         {
           "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
           "sources": [
