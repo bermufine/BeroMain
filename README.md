@@ -77,7 +77,7 @@
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzM0MTEyMjRf/SMedia.jpg",
-          "title": "S-MEDIA TV"
+          "title": "S-MEDIA TV 3"
         },
         {
           "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
