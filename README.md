@@ -70,6 +70,15 @@
           "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
           "title": "VENGEANCE-TV"
         },
+	 {
+          "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
+          "sources": [
+            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzM0MTEyMjRf/SMedia.jpg",
+          "title": "S-MEDIA TV"
+        },
         {
           "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
           "sources": [
