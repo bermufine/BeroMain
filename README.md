@@ -5,15 +5,6 @@
       "name": "Movies",
       "videos": [
 	{
-          "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
-          "title": "GOSPEL CHANNEL"
-        },
- 	{
           "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
           "sources": [
             "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
@@ -23,16 +14,25 @@
           "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
           "title": "EVI TV"
         }, 
-	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
-         {
-          "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+ 	{
+          "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
           "sources": [
-            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
+            "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
-          "title": "KIN DIRECT TV"
+          "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
+          "title": "GOSPEL CHANNEL"
         },
+	 {
+          "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "title": "S-MEDIA TV 3"
+        },
+	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 	{
           "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
           "sources": [
@@ -68,16 +68,25 @@
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
-          "title": "VENGEANCE-TV"
+          "title": "VENGEANCE TV"
         },
 	 {
-          "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
+          "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "sources": [
-            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+            "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg",
+          "title": "CODIR TV"
+        },
+	 {
+          "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzM0MTEyMjRf/SMedia.jpg",
-          "title": "S-MEDIA TV 3"
+          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
+          "title": "KIN DIRECT TV"
         },
         {
           "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
@@ -96,15 +105,6 @@
           "subtitle": "All Channel",
           "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "title": "TOP NOVELAS"
-        },
-	 {
-          "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg",
-          "title": "CODIR TV"
         },
         {
           "description": "Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
