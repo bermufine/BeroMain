@@ -97,6 +97,15 @@
           "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "title": "TOP NOVELAS"
         },
+	 {
+          "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg",
+          "title": "CODIR TV"
+        },
         {
           "description": "Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "sources": [
