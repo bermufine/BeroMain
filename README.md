@@ -30,7 +30,7 @@
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
-          "title": "S-MEDIA TV 3"
+          "title": "S-MEDIAS TV 3"
         },
 	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 	{
