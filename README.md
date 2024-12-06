@@ -216,6 +216,15 @@
           "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
           "title": "GTV 1"
         },
+	 {
+          "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
+          "sources": [
+            "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
+          "title": "CHAMPION TV"
+        },
 	{
           "description": "KEUR NDANANE TV est une chaîne multiculturelle axée sur
 la diversité des contenus pour répondre aux intérêts variés de notre public.
