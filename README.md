@@ -5,6 +5,15 @@
       "name": "Movies",
       "videos": [
 	{
+          "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+          "sources": [
+            "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
+          "title": "RL PRO TV"
+        },
+         {
           "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
           "sources": [
             "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
@@ -13,7 +22,16 @@
           "direct": "En Direct",
           "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
           "title": "EVI TV"
-        }, 
+        },
+	{
+          "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
+          "title": "BALADE MONDE TV"
+        },
  	{
           "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
           "sources": [
@@ -22,15 +40,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
           "title": "GOSPEL CHANNEL"
-        },
-	{
-          "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-          "sources": [
-            "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
-          "title": "RL PRO TV"
         },
 	 {
           "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
@@ -52,16 +61,8 @@
           "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
           "title": "VENGEANCE TV"
         },
-           {
-          "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
-          "title": "BALADE MONDE TV"
-        },
-	 {"description": "Glory Plus TV est une chaîne chrétienne emettant depuis l'Abidjan et qui diffuse que des predications, des informations, musiques, magazine et autres chretienne....", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU4NTIyODhf/gloryPlus.jpg","title": "GLORY PLUS TV"},
+	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
+	 {"description": "Glory Plus TV est une chaîne Généraliste emettant depuis la côte d'ivoire et qui diffuse que des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Plus TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU4NTIyODhf/gloryPlus.jpg","title": "GLORY PLUS TV"},
 	 {
           "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
@@ -79,16 +80,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzQ4NzczMDhf/luliplustv.jpg",
           "title": "LULI+ TV"
-        },
-	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
-	 {
-          "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg",
-          "title": "CODIR TV"
         },
 	 {
           "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
@@ -376,25 +367,7 @@ Email : keurndananetv.sn@gmail.com",
 {"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"},
 
 {"description":"KKTV Angola est une chaîne de télévision basée au Angola.","sources":["https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg","title":"KKTV ANGOLA"},
-	{"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
- 	 {
-          "description": "Ticia TV est une chaine de divertissement",
-          "sources": [
-            "https://stream.berosat.live:19360/nollywood-tv/nollywood-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg",
-          "title": "TICIA TV"
-        },
-        {
-          "description": "Spiritas TV est une chaine de divertissement",
-          "sources": [
-            "https://stream.berosat.live:19360/atv-stream/atv-stream.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg",
-          "title": "SPIRITAS TV"
-        },
+	{"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"}
       ]
     }
   ]
@@ -402,7 +375,15 @@ Email : keurndananetv.sn@gmail.com",
 
 
 
-
+ {
+          "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg",
+          "title": "CODIR TV"
+        },
  {
           "description": "Congo Panique TV est une chaine de divertissement",
           "sources": [
