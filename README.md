@@ -102,7 +102,7 @@
 	 {
           "description": "Kak Tv, est une chaîne thematique de divertissements",
           "sources": [
-            "https://stream.berosat.live:19360/kak-tv/kak-tv.m3u8"
+            "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
