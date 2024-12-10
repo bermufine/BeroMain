@@ -99,6 +99,15 @@
           "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "title": "KIN DIRECT TV"
         },
+	 {
+          "description": "Kak Tv, est une chaîne thematique de divertissements",
+          "sources": [
+            "https://stream.berosat.live:19360/kak-tv/kak-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
+          "title": "KK TV"
+        },
         {
           "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
           "sources": [
