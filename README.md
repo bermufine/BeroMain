@@ -71,7 +71,7 @@
           "title": "VENGEANCE TV"
         },
 	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
-	 {"description": "Glory Plus TV est une chaîne Généraliste emettant depuis la côte d'ivoire et qui diffuse que des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Plus TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU4NTIyODhf/gloryPlus.jpg","title": "GLORY PLUS TV"},
+	 {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire et qui diffuse que des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Plus TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
 	 {
           "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
@@ -108,15 +108,6 @@
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
         },
-        {
-          "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "title": "CITE DE DAVID"
-        },
 	 {
           "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
           "sources": [
@@ -125,6 +116,15 @@
           "subtitle": "All Channel",
           "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "title": "TOP NOVELAS"
+        },
+	 {
+          "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
+          "sources": [
+            "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
+          "title": "CHAMPION TV"
         },
         {
           "description": "Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
@@ -216,6 +216,15 @@
           "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "title": "CHAMPION TV"
         },
+	  {
+          "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "title": "CITE DE DAVID"
+        },
 	 {
           "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions",
           "sources": [
@@ -224,15 +233,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
           "title": "GTV 1"
-        },
-	 {
-          "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
-          "sources": [
-            "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
-          "title": "CHAMPION TV"
         },
 	{
           "description": "KEUR NDANANE TV est une chaîne multiculturelle axée sur
