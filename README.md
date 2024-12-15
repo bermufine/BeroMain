@@ -207,6 +207,15 @@
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
         },
+	 {
+          "description": "Ndule Television est une chaine musicale avec la musique rumba hipop, zouk, rap, jazz et tant d'autres",
+          "sources": [
+            "https://stream.berosat.live:19360/nduletv/nduletv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzY0MzYxMzhf/nduletv.jpg",
+          "title": "NDULE TV"
+        },
         {
           "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
