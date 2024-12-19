@@ -81,6 +81,15 @@
           "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg",
           "title": "RTV CBCO"
         },
+	{ 
+     "description": "Gospel Agency TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/gospel-agency/gospel-agency.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg",
+          "title": "GOSPEL AGENCY TV"
+        },
 	{
           "description": "LULI+ TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
@@ -90,7 +99,7 @@
           "thumb": "https://od.lk/s/NDZfNzQ4NzczMDhf/luliplustv.jpg",
           "title": "LULI+ TV"
         },
-	 {
+	{
           "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "sources": [
             "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
