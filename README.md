@@ -71,7 +71,8 @@
           "title": "VENGEANCE TV"
         },
 	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
-	 {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire et qui diffuse que des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Plus TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
+  { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" },
+  {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire et qui diffuse que des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Plus TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
 	 {
           "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
@@ -109,13 +110,23 @@
           "title": "KIN DIRECT TV"
         },
 	 {
-          "description": "Kak Tv, est une chaîne thematique de divertissements",
+          "description": "Kk Tv, est une chaîne thematique de divertissements",
           "sources": [
             "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
+        },
+	
+ {
+          "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg",
+          "title": "CODIR TV"
         },
 	 {
           "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
