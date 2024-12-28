@@ -72,6 +72,7 @@
         },
 	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
   { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" },
+{ "description": "HK Today TV est une chaîne privée généraliste pour l'essai patriotique", "sources": [ "https://stream.berosat.live:19360/hk-today/hk-today.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "HK-TODAY TV" },
   {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire et qui diffuse que des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Plus TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
 	 {
           "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
