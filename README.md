@@ -50,6 +50,15 @@
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIAS TV 3"
         },
+	 {
+          "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/tele-province/tele-province.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
+          "title": "TELE PROVINCE"
+        },
 	{
           "description": "Mongala Télévision est la première chaine thematique en République du Congo.",
           "sources": [
