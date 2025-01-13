@@ -59,6 +59,15 @@
           "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
           "title": "TELE PROVINCE"
         },
+	 {
+          "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://vdo.pro-fhi.net:3260/stream/play.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzY4jMTkwNTJf/teleprovincewhithe.jpg",
+          "title": "MAGECO PRODUCTION TV"
+        }, 
 	{
           "description": "Mongala Télévision est la première chaine thematique en République du Congo.",
           "sources": [
