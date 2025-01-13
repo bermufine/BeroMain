@@ -65,7 +65,7 @@
             "https://vdo.pro-fhi.net:3260/stream/play.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzY4jMTkwNTJf/teleprovincewhithe.jpg",
+          "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg",
           "title": "MAGECO PRODUCTION TV"
         }, 
 	{
