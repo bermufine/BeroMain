@@ -208,6 +208,7 @@
           "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
           "title": "AYA TV"
         },
+	{"description":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","sources":["http://51.254.199.122:8080/Mcrtv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","title":"MRC TV "},
 	{
           "description": "Hope Channel TV est une chaîne généraliste émettant à Kinshasa qui diffuse que des predications, des informations, musiques et autres....",
           "sources": [
