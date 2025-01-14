@@ -100,15 +100,6 @@
           "title": "RTV CBCO"
         },
 	{
-          "description": "LULI+ TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live:19360/luli-plus/luli-plus.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzQ4NzczMDhf/luliplustv.jpg",
-          "title": "LULI+ TV"
-        },
-	{
           "description": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "sources": [
             "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
@@ -126,14 +117,25 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
-        }] } ] }
-
- 
-	{
-          "description":"Sacre  TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.","sources": ["https://stream.berosat.live:19360/sacre-tv/sacre-tv.m3u8"],
-          "subtitle": "All Channels","thumb": "https://od.lk/s/NDZfNzcwNDM4OTJf/sacretv.png","title":"SACRE  TV"},
+        },
 {
-  "description":"EDCC-10 TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.","sources": ["https://stream.berosat.live:19360/cdcc-tv/cdcc-tv.m3u8"],"subtitle": "All Channels","thumb": "https://od.lk/s/NDZfNzcxNzA0NDlf/EDCCTV.jpg","title":"CDCC-10  TV"},
+          "description": "SacreTV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/sacre-tv/sacre-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzcwNDM4OTJf/sacretv.png",
+          "title": "SACRE TV"
+        },		
+{
+          "description": "CDCC-10 TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/cdcc-tv/cdcc-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzcxNzA0NDlf/EDCCTV.jpg",
+          "title": "CDCC-10 TV"
+        },
 {
   "description":"Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
