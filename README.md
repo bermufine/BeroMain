@@ -77,7 +77,6 @@
           "thumb": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg",
           "title": "MONGALA TV"
         },
-	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 	{"description":"Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire. Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et africaine, se veut le miroir des populations du continent. Engagée et citoyenne, elle a pour vocation de contribuer à l’éducation des populations, d’impacter positivement la société congolaise et africaine, et de contribuer à la transformation des mentalités. Beb fm s'impose sur le marché comme « la reine du contenu local ». Notre identité : Une chaîne de Radio congolaise décomplexée, originale et positive. Beb fm propose une nouvelle expérience audiovisuelle aux téléspectateurs africains :la télévision sans filtre Une chaîne qui donne la possibilité à son public de parler librement, sans censure et sans tabou. Beb fm entend mettre, au cœur de sa démarche, des sujets qui concernent les populations, qui leur tiennent à cœur, et les traiter sans compromis ni compromission Le positionnement de la chaîne s’articule autour des mots-clés suivants : vraie, positive, engagée, moderne, connectée, drôle, populaire, originale, interactive.","sources":["https://stream.berosat.live:19360/beb-tv/beb-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BEB TV"},
  	{
           "description": "Vengeance Télévision est la Chaîne Mystique.",
@@ -91,7 +90,6 @@
 	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
   { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" },
 { "description": "HK Today TV est une chaîne privée généraliste pour l'essai patriotique", "sources": [ "https://stream.berosat.live:19360/hk-today/hk-today.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY2MzIyODdf/Hktoday.jpg", "title": "HK-TODAY TV" },
-  {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire et qui diffuse que des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Plus TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-plus-stream/glory-plus-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
 	 {
           "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
@@ -100,15 +98,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg",
           "title": "RTV CBCO"
-        },
-	{ 
-     "description": "Gospel Agency TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live:19360/gospel-agency/gospel-agency.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg",
-          "title": "GOSPEL AGENCY TV"
         },
 	{
           "description": "LULI+ TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
@@ -139,25 +128,12 @@
           "title": "KK TV"
         },
 	{
-          "description": "Sacre  TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/sacre-tv/sacre-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzcwNDM4OTJf/sacretv.png",
-          "title": "SACRE  TV"
-        },
+          "description":"Sacre  TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.","sources": ["https://stream.berosat.live:19360/sacre-tv/sacre-tv.m3u8"],
+          "subtitle": "All Channels","thumb": "https://od.lk/s/NDZfNzcwNDM4OTJf/sacretv.png","title":"SACRE  TV"},
 {
-          "description": "EDCC-10  TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/cdcc-tv/cdcc-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzcxNzA0NDlf/EDCCTV.jpg",
-          "title": "CDCC-10  TV"
-        },
-	 {
-          "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
+  "description":"EDCC-10 TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.","sources": ["https://stream.berosat.live:19360/cdcc-tv/cdcc-tv.m3u8"],"subtitle": "All Channels","thumb": "https://od.lk/s/NDZfNzcxNzA0NDlf/EDCCTV.jpg","title":"CDCC-10  TV"},
+{
+  "description":"Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
             "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
           ],
