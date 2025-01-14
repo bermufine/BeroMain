@@ -89,9 +89,7 @@
         },
 	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
   { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" },
-{ "description": "HK Today TV est une chaîne privée généraliste pour l'essai patriotique", "sources": [ "https://stream.berosat.live:19360/hk-today/hk-today.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY2MzIyODdf/Hktoday.jpg", "title": "HK-TODAY TV" }] } ] }
-
-
+{ "description": "HK Today TV est une chaîne privée généraliste pour l'essai patriotique", "sources": [ "https://stream.berosat.live:19360/hk-today/hk-today.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY2MzIyODdf/Hktoday.jpg", "title": "HK-TODAY TV" },
 	 {
           "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
@@ -128,7 +126,9 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
-        },
+        }] } ] }
+
+ 
 	{
           "description":"Sacre  TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.","sources": ["https://stream.berosat.live:19360/sacre-tv/sacre-tv.m3u8"],
           "subtitle": "All Channels","thumb": "https://od.lk/s/NDZfNzcwNDM4OTJf/sacretv.png","title":"SACRE  TV"},
