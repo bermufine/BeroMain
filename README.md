@@ -138,25 +138,24 @@
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
         },
-	
- {
-          "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg",
-          "title": "CODIR TV"
-        },
-	 {
-          "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
-          ],
-          "subtitle": "All Channel",
-          "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
-          "title": "TOP NOVELAS"
-        },
+	{
+          "description": "Sacre  TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/sacre-tv/sacre-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzcwNDM4OTJf/sacretv.png",
+          "title": "SACRE  TV"
+        },
+{
+          "description": "EDCC-10  TV, la chaîne Chrétienne qui pour but de propager la parole de notre Seigneur Jésus Christ à travers le Monde, la chaîne emmet en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/cdcc-tv/cdcc-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzcxNzA0NDlf/EDCCTV.jpg",
+          "title": "CDCC-10  TV"
+        },
 	 {
           "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
