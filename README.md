@@ -67,7 +67,9 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg",
           "title": "MAGECO PRODUCTION TV"
-        }, 
+        }] } ] }
+
+ 
 	{
           "description": "Mongala Télévision est la première chaine thematique en République du Congo.",
           "sources": [
