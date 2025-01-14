@@ -222,15 +222,6 @@
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
         },
-	 {
-          "description": "Ndule Television est une chaine musicale avec la musique rumba hipop, zouk, rap, jazz et tant d'autres",
-          "sources": [
-            "https://stream.berosat.live:19360/nduletv/nduletv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzY0MzYxMzhf/nduletv.jpg",
-          "title": "NDULE TV"
-        },
         {
           "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sources": [
@@ -239,15 +230,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "title": "CHAMPION TV"
-        },
-	  {
-          "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "title": "CITE DE DAVID"
         },
 	 {
           "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions",
