@@ -130,7 +130,7 @@
 {
           "description": "CDCC-10 TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
-            "https://stream.berosat.live:19360/cdcc-tv/cdcc-tv.m3u8"
+            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzcxNzA0NDlf/EDCCTV.jpg",
