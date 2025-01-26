@@ -50,6 +50,7 @@
           "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
           "title": "TELE PROVINCE"
         },
+	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
 	 {
           "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -449,7 +450,7 @@ Email : keurndananetv.sn@gmail.com",
           "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
           "title": "HOPE TV EXTRA"
         },
-	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
+	
 
  {"description":"VEP TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
 	{
