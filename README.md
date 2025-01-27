@@ -119,6 +119,25 @@
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
         },
+	 {
+          "description": "RMTV est une chaîne chretienne",
+          "sources": [
+            "http://51.254.199.122:8080/resTV/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg",
+          "title": "RMTV"
+        },
+	 {
+          "description": "MCRTV est une chaîne chretienne",
+          "sources": [
+            "http://51.254.199.122:8080/Mcrtv/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18zMTI0Njc2NzVf/mcrtv.jpg",
+          "title": "MCRTV"
+        },
+	{"description":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sources":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","title":"JKM CHURCH"},	
 {
           "description": "SacreTV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
@@ -461,15 +480,6 @@ Email : keurndananetv.sn@gmail.com",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
           "title": "DPK TV"
-        },
-	 {
-          "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
-          "title": "CBC TV"
         },
 	
 
