@@ -247,15 +247,6 @@
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
         },
-        {
-          "description": "Champion tv est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
-          "sources": [
-            "https://helga.iptv2022.com/sh/Champion_tv/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
-          "title": "CHAMPION TV"
-        },
 	 {
           "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions",
           "sources": [
