@@ -73,7 +73,7 @@
  {
           "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8"
+            "https://stream.berosat.live:19360/live-tv/live-tv.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
