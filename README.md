@@ -109,6 +109,15 @@
           "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "title": "KIN DIRECT TV"
         },
+	{
+          "description": "Sacré Vision Média TV est une chaîne privée émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
+          "title": "SVTV"
+        },
 	{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 	 {
           "description": "Kk Tv, est une chaîne thematique de divertissements",
