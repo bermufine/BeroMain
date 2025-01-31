@@ -130,6 +130,15 @@
           "title": "KK TV"
         },
 	 {
+          "description": "Kin France Tv, est une chaîne thematique de divertissements",
+          "sources": [
+            "https://stream.berosat.live:19360/kin-france-stream/kin-france-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzc1NzM3OTVf/Kinfrancetv.jpg",
+          "title": "KIN FRANCE TV"
+        },
+	 {
           "description": "RMTV est une chaîne chretienne",
           "sources": [
             "http://51.254.199.122:8080/resTV/index.m3u8"
