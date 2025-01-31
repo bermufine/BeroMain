@@ -109,8 +109,9 @@
           "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "title": "KIN DIRECT TV"
         },
+	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 	{
-          "description": "Sacré Vision Média TV est une chaîne privée émettant à Kinshasa",
+          "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
           "sources": [
             "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
           ],
