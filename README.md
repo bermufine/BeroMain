@@ -4,6 +4,19 @@
     {
       "name": "Movies",
       "videos": [
+      	{
+          "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur
+la diversité des contenus pour répondre aux intérêts variés de notre public.
+Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal.
+Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR
+Tel : +221 33 871 61 22 /221772082121/+393515993000
+Email : keurndananetv.sn@gmail.com",
+          "sources": [
+            "http://livestream.kgsols.com/push/KeurN/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
+          "title": "KEUR NDANANE TV"},
 	{
           "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
           "sources": [
@@ -275,19 +288,6 @@
           "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
           "title": "GTV 1"
         },
-	{
-          "description": "KEUR NDANANE TV est une chaîne multiculturelle axée sur
-la diversité des contenus pour répondre aux intérêts variés de notre public.
-Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal.
-Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR
-Tel : +221 33 871 61 22 /221772082121/+393515993000
-Email : keurndananetv.sn@gmail.com",
-          "sources": [
-            "http://livestream.kgsols.com/push/KeurN/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
-          "title": "KEUR NDANANE TV"},
    {
 "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "sources": [
