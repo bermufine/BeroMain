@@ -123,6 +123,15 @@ Email : keurndananetv.sn@gmail.com",
           "title": "KIN DIRECT TV"
         },
 	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
+ 	 {
+          "description": "Centre Evangeliqu Mahanaim Télévision est la chaine Chretienne en République du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/cem-tv/cem-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzc1ODAyOTBf/cemTV.jpg",
+          "title": "CEM-TV"
+        },
 	{
           "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
           "sources": [
