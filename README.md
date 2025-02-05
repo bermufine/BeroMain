@@ -74,9 +74,8 @@ Email : keurndananetv.sn@gmail.com",
         },
 	{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
   { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" },
-{ "description": "HK Today TV est une chaîne privée généraliste pour l'essai patriotique", "sources": [ "https://stream.berosat.live:19360/hk-today/hk-today.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY2MzIyODdf/Hktoday.jpg", "title": "HK-TODAY TV" },
-	 {
-          "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
+{
+   "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"
           ],
@@ -85,7 +84,7 @@ Email : keurndananetv.sn@gmail.com",
           "title": "RTV CBCO"
         },
 	{
-          "description": "KIN DIRECT TV est télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
+          "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
           "sources": [
             "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
           ],
