@@ -26,6 +26,7 @@ Email : keurndananetv.sn@gmail.com",
           "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
           "title": "RL PRO TV"
         },
+	{"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/luli-plus/luli-plus.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
          {
           "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
           "sources": [
@@ -109,18 +110,7 @@ Email : keurndananetv.sn@gmail.com",
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
-          "title": "SVTV"
-        },
-	 {
-          "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/tele-province/tele-province.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
-          "title": "TELE PROVINCE"
-        },
-	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
+          "title": "SV-TV"},
 	 {
           "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -437,7 +427,17 @@ Email : keurndananetv.sn@gmail.com",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg",
           "title": "MONGALA TV"
-        }
+        },
+	{
+          "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/tele-province/tele-province.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
+          "title": "TELE PROVINCE"
+        },
+	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"}
       ]
     }
   ]
