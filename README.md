@@ -120,7 +120,6 @@ Email : keurndananetv.sn@gmail.com",
           "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
           "title": "TELE PROVINCE"
         },
-	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
 	{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 	{
           "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
@@ -466,7 +465,8 @@ LA  BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA T
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzc1ODAyOTBf/cemTV.jpg",
           "title": "CEM-TV"
-        }
+        },
+	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"}
       ]
     }
   ]
