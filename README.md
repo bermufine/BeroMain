@@ -103,7 +103,7 @@ Email : keurndananetv.sn@gmail.com",
           "title": "KIN DIRECT TV"
         },
 	{
-          "description": "ML PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
+          "description": "ML PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE",
           "sources": [
             "https://stream.berosat.live:19360/mlpro-tv/mlpro-tv.m3u8"
           ],
