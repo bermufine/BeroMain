@@ -108,7 +108,7 @@ Email : keurndananetv.sn@gmail.com",
             "https://stream.berosat.live:19360/mlpro-tv/mlpro-tv.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzc4NzE0MTNf/MLPRO.jpg",
+          "thumb": "https://od.lk/s/NDZfNzc5MTAzNjBf/MLPRO-TV.jpg",
           "title": "ML PRO TV"
         },
 	{
