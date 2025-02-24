@@ -4,7 +4,8 @@
     {
       "name": "Movies",
       "videos": [
-      	{
+      	{"description": "Esaie 45 tv.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TV"},
+       {
           "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur
 la diversité des contenus pour répondre aux intérêts variés de notre public.
 Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal.
