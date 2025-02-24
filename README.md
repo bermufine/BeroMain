@@ -4,7 +4,7 @@
     {
       "name": "Movies",
       "videos": [
-      	{"description": "Esaie 45 tv.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TV"},
+      	{"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ.  ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"},
        {
           "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur
 la diversité des contenus pour répondre aux intérêts variés de notre public.
