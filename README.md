@@ -58,6 +58,15 @@ JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la cultu
           "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
           "title": "GOSPEL CHANNEL"
         },
+	{
+          "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
+          "sources": [
+            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
+          "title": "KIN DIRECT TV"
+        },
 	 {
           "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -97,13 +106,13 @@ JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la cultu
           "title": "RTV CBCO"
         },
 	{
-          "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
+   "description": "MGS Télévision est la première chaine Chretienne Baptistes en République du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
+            "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
-          "title": "KIN DIRECT TV"
+          "thumb": "https://od.lk/s/NDZfNzgzNjI1NDhf/mgstv.jpg",
+          "title": "MGS TV"
         },
 	{
           "description": "ML PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE",
