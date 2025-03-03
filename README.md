@@ -106,7 +106,7 @@ JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la cultu
           "title": "RTV CBCO"
         },
 	{
-   "description": "MGS Télévision est la première chaine Chretienne Baptistes en République du Congo.",
+   "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8"
           ],
