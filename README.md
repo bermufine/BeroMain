@@ -113,7 +113,7 @@ JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la cultu
           "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
           "title": "TELE PROVINCE"
         },
-	{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
+	{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 	{
           "description": "Maurice Kemba Vodo Television, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement  en Republique Democratique du Congo.",
           "sources": [
