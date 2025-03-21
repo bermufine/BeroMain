@@ -39,42 +39,52 @@
 
 { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3260/stream/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
+ {
+     "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "title": "S-MEDIAS TV 3"
+        },
+	{"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
+
+ { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
+
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
-
-{ "description": "Kk Tv, est une chaîne thematique de divertissements", "sources": [ "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg", "title": "KK TV" }, 
-
-{"description":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sources":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","title":"JKM CHURCH"}, 
-
-{ "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
-
-{"description":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","sources":["http://51.254.199.122:8080/Mcrtv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","title":"MRC TV "}, 
-
-{ "description": "RMTV est une chaîne chretienne", "sources": [ "http://51.254.199.122:8080/resTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg", "title": "RMTV" }, 
-
-{ "description": "MCRTV est une chaîne chretienne", "sources": [ "http://51.254.199.122:8080/Mcrtv/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18zMTI0Njc2NzVf/mcrtv.jpg", "title": "MCRTV" }, 
-
-{ "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
 { "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sources": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "title": "GTV 1" }, 
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://69.64.57.208/rtnc/playlist.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
+{"description":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sources":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","title":"JKM CHURCH"}, 
+
+{ "description": "RMTV est une chaîne chretienne", "sources": [ "http://51.254.199.122:8080/resTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg", "title": "RMTV" }, 
+
+{ "description": "MCRTV est une chaîne chretienne", "sources": [ "http://51.254.199.122:8080/Mcrtv/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18zMTI0Njc2NzVf/mcrtv.jpg", "title": "MCRTV" },
+
+{"description":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","sources":["http://51.254.199.122:8080/Mcrtv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","title":"MRC TV "}, 
+
+{ "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
+
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/rtnc1/index.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" }, 
 
 { "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }, 
 
-{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
+{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}] } ] }
+
+
+
+
+
+
+
+
+
+{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA TV"},
 
 { "description": "Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg", "title": "BERO TV" }, 
-
-{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA TV"} ] } ] }
-
-
-
-
-
-
-
  {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
@@ -215,16 +225,7 @@
           "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
           "title": "VENGEANCE TV"
         },
-	 {
-          "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
-          "title": "S-MEDIAS TV 3"
-        },
-	{"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/luli-plus/luli-plus.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
+	
 	{
    "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
           "sources": [
@@ -292,6 +293,7 @@
           "thumb": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
           "title": "DPK TV"
         },
+	{ "description": "Kk Tv, est une chaîne thematique de divertissements", "sources": [ "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg", "title": "KK TV" }, 
 	
 
  
