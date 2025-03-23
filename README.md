@@ -50,6 +50,16 @@
         },
 	{"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
 
+ {
+          "description": "Vengeance Télévision est la Chaîne Mystique.",
+          "sources": [
+	  "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
+          "title": "VENGEANCE TV"
+        },
+
  { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
 
 { "description":"GMC tv est une chaîne de télévision generaliste qui émette en côte d'ivoire avec des emissions politique, culture, sports, musique et autres...", "sources": [ "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzg4ODg5MzFf/gmctv.jpg", "title": "GMC TV" },  
