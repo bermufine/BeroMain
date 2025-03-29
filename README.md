@@ -31,7 +31,7 @@
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
-{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"}, 
+{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"}, 
 
 { "description": "Maurice Kemba Vodo Television, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg", "title": "MKV-TV" }, 
 
