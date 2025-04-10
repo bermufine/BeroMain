@@ -71,6 +71,16 @@
           "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
           "title": "EGG PRO TV"
   },
+  
+   {
+          "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations, musique et Sports et autres,
+          "sources": [
+            "https://vdo.pro-fhi.net:3761/hybrid/play.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
+          "title": "LIGHT ECO TV"
+  },
 
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
