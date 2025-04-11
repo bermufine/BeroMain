@@ -17,6 +17,8 @@
 
 { "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "sources": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "title": "GOSPEL CHANNEL" }, 
 
+{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
+
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
 
 { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
@@ -31,9 +33,7 @@
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" },
 
-{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
-
-{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"}, 
+{"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"}, 
 
 { "description": "Maurice Kemba Vodo Television, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg", "title": "MKV-TV" }, 
 
@@ -71,17 +71,15 @@
           "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
           "title": "EGG PRO TV"
   },
-  
-   {
-          "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations, musique et Sports et autres,
+  {
+     "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
           "sources": [
             "https://vdo.pro-fhi.net:3761/hybrid/play.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
           "title": "LIGHT ECO TV"
-  },
-
+ },
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -91,7 +89,6 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg",
           "title": "KIN24 TV"
  },
-
  {
      "description": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -101,7 +98,6 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg",
           "title": "RTGA"
  },
-
  {
      "description": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
