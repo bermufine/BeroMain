@@ -27,8 +27,6 @@
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
 
-{ "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"}, 
-
 { "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg", "title": "RTV CBCO" }, 
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" },
@@ -41,7 +39,7 @@
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg", "title": "RTNC 3 HD" },
 
-{ "description": "Kongo Kimbangu Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/kongo-kimbangu/kongo-kimbangu.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzkyMjE5MzFf/kongokimbangu.jpg", "title": "KONGO KIMBANGU" }, 
+{ "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
 
@@ -56,7 +54,6 @@
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIAS TV 3"
         },
-	{"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
 
  { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
 
@@ -98,6 +95,7 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg",
           "title": "RTGA"
  },
+ { "description":"AYA tv est une chaîne de télévision generaliste qui émette en côte d'ivoire avec des emissions politique, culture, sports, musique et autres...", "sources": [ "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg", "title": "AYA TV" },  
  {
      "description": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -107,8 +105,6 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
           "title": "RTVS 1"
         },
-
-{ "description":"GMC tv est une chaîne de télévision generaliste qui émette en côte d'ivoire avec des emissions politique, culture, sports, musique et autres...", "sources": [ "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzg4ODg5MzFf/gmctv.jpg", "title": "GMC TV" },  
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
 
@@ -128,8 +124,14 @@
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/rtnc1/index.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" }, 
 
-{ "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }, 
+{ "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }] } ] }
 
+
+
+
+
+
+	{"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg","title": "GLORY CHANNEL"},
  {
           "description": "Vengeance Télévision est la Chaîne Mystique.",
           "sources": [
@@ -138,16 +140,9 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
           "title": "VENGEANCE TV"
-        }] } ] }
-
-
-
-
-
-
-
-
-
+        }
+{ "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"}, 	
+{ "description": "Kongo Kimbangu Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/kongo-kimbangu/kongo-kimbangu.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzkyMjE5MzFf/kongokimbangu.jpg", "title": "KONGO KIMBANGU" }, 
 {"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA TV"},
 
 { "description": "Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg", "title": "BERO TV" }, 
