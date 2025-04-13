@@ -78,6 +78,15 @@
           "title": "LIGHT ECO TV"
  },
  {
+          "description": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email ?? hopetvafrica2020@gmail.com contact 0027846809542",
+          "sources": [
+            "http://hopetvafrica.com:8084/hls/stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
+          "title": "HOPE TV EXTRA"
+        },
+ {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
             "http://51.254.199.122:8080/kin24/index.m3u8"
@@ -143,6 +152,7 @@
         }
 { "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"}, 	
 { "description": "Kongo Kimbangu Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/kongo-kimbangu/kongo-kimbangu.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzkyMjE5MzFf/kongokimbangu.jpg", "title": "KONGO KIMBANGU" }, 
+
 {"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA TV"},
 
 { "description": "Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg", "title": "BERO TV" }, 
@@ -257,6 +267,7 @@
           "title": "TOKO TV"
         },
 	{ "description": "HK Today TV est une chaîne privée généraliste pour l'essai patriotique", "sources": [ "https://stream.berosat.live:19360/hk-today/hk-today.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY2MzIyODdf/Hktoday.jpg", "title": "HK-TODAY TV" },
+ 
 	 {
           "description": "Kin France Tv, est une chaîne thematique de divertissements",
           "sources": [
@@ -266,6 +277,7 @@
           "thumb": "https://od.lk/s/NDZfNzc1NzM3OTVf/Kinfrancetv.jpg",
           "title": "KIN FRANCE TV"
         },
+	
 	{"description":"Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire. Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et africaine, se veut le miroir des populations du continent. Engagée et citoyenne, elle a pour vocation de contribuer à l’éducation des populations, d’impacter positivement la société congolaise et africaine, et de contribuer à la transformation des mentalités. Beb fm s'impose sur le marché comme « la reine du contenu local ». Notre identité : Une chaîne de Radio congolaise décomplexée, originale et positive. Beb fm propose une nouvelle expérience audiovisuelle aux téléspectateurs africains :la télévision sans filtre Une chaîne qui donne la possibilité à son public de parler librement, sans censure et sans tabou. Beb fm entend mettre, au cœur de sa démarche, des sujets qui concernent les populations, qui leur tiennent à cœur, et les traiter sans compromis ni compromission Le positionnement de la chaîne s’articule autour des mots-clés suivants : vraie, positive, engagée, moderne, connectée, drôle, populaire, originale, interactive.","sources":["https://stream.berosat.live:19360/beb-tv/beb-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BEB TV"},
  		
  		{
@@ -323,15 +335,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg",
           "title": "SPIRITAS TV"
-        },
-	{
-          "description": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email ?? hopetvafrica2020@gmail.com contact 0027846809542",
-          "sources": [
-            "http://hopetvafrica.com:8084/hls/stream.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
-          "title": "HOPE TV EXTRA"
         },
 	
 
