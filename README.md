@@ -114,6 +114,15 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
           "title": "RTVS 1"
         },
+	{
+      "description": "Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
+      "sources": [
+        "https://stream.hopetvafrica.com/hls/stream.m3u8"
+      ],
+      "subtitle": "All Channel",
+      "thumb": "https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg",
+      "title": "HOPE TV AFRICA"
+    },
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
 
