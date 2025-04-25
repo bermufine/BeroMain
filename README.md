@@ -78,6 +78,14 @@
           "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
           "title": "LIGHT ECO TV"
  },
+    "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg",
+          "title": "MGS TV"
+        },
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -307,14 +315,6 @@
         },
 	
 	{
-   "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzgzNjI1NDhf/mgstv.jpg",
-          "title": "MGS TV"
-        },
 
  {
           "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
