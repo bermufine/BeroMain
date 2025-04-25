@@ -78,14 +78,15 @@
           "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
           "title": "LIGHT ECO TV"
  },
-    "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
+ {  
+      "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg",
           "title": "MGS TV"
-        },
+ },
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
