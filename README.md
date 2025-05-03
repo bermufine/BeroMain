@@ -114,6 +114,7 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg",
           "title": "RTGA"
  },
+ { "description": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "title": "NEPHTHALI TV" },
  { "description":"AYA tv est une chaîne de télévision generaliste qui émette en côte d'ivoire avec des emissions politique, culture, sports, musique et autres...", "sources": [ "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg", "title": "AYA TV" },  
  {
      "description": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
@@ -162,9 +163,7 @@
 
 
 
-{ "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" }, 
-
-{ "description": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "title": "NEPHTHALI TV" }, 
+{ "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },  
 
 { "description": "Group Elie Tuluka Television est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/get-stream/get-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEwNTc2ODJf/get-tv.jpg", "title": "GET TV" }, 
 
