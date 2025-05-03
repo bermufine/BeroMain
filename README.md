@@ -63,6 +63,8 @@
 
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
 
+{ "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },
+
  { "description": "Radio Television Masonga est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg", "title": "RTV MASONGA" }, 
 { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3057/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
@@ -163,7 +165,7 @@
 
 
 
-{ "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },  
+  
 
 { "description": "Group Elie Tuluka Television est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/get-stream/get-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEwNTc2ODJf/get-tv.jpg", "title": "GET TV" }, 
 
