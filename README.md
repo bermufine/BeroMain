@@ -62,7 +62,6 @@
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
 
  { "description": "Radio Television Masonga est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg", "title": "RTV MASONGA" }, 
-
 { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3057/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
  { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
@@ -115,7 +114,6 @@
           "title": "RTGA"
  },
  { "description": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "title": "NEPHTHALI TV" },
- { "description":"AYA tv est une chaîne de télévision generaliste qui émette en côte d'ivoire avec des emissions politique, culture, sports, musique et autres...", "sources": [ "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg", "title": "AYA TV" },  
  {
      "description": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -236,15 +234,7 @@
           "thumb": "https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg",
           "title": "SYNTY TV"
         },
-	{
-          "description": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
-          "title": "AYA TV"
-        },
+	 { "description":"AYA tv est une chaîne de télévision generaliste qui émette en côte d'ivoire avec des emissions politique, culture, sports, musique et autres...", "sources": [ "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg", "title": "AYA TV" },  
 	{
           "description": "Radio Télé Silo est une chaîne chrétienne",
           "sources": [
