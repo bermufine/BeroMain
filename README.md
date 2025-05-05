@@ -70,6 +70,9 @@
 { "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },
 
  { "description": "Radio Television Masonga est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg", "title": "RTM" }, 
+
+{ "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
+ 
 { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3057/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
  { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
