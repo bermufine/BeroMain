@@ -55,7 +55,7 @@
 
  { "description": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "title": "FIDEDI MOVIE TV" }, 
 
- {"description": "Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
+ {"description": "Destiny Channel TV est une chaîne Généraliste emettant depuis Kinshasa la Capitale de la Republique Democratique du Congo et qui diffuse des films chretiens, gospel, des informations, musiques, magazine biblique et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
 { "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"}, 
 
@@ -65,7 +65,9 @@
 
 { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
-{ "description": "Folk tv est une chaîne 100% culturelle et valorise la tradition africaine dans toutes ses formes , nous sommes là pour redorer l'image du folklore oublié, et la tradition africaine est au centre de notre présence dans le media.  Slogan: *Le folklore c'est Nous*", "sources": [ "https://stream.berosat.live:19360/folk-tv-stream/folk-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc3MDdf/Folktv.jpg", "title": "FOLK TV"}, 
+{ "description": "Folk tv est une chaîne 100% culturelle et valorise la tradition africaine dans toutes ses formes , nous sommes là pour redorer l'image du folklore oublié, et la tradition africaine est au centre de notre présence dans le media.  Slogan: *Le folklore c'est Nous*", "sources": [ "https://stream.berosat.live:19360/folk-tv-stream/folk-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc3MDdf/Folktv.jpg", "title": "FOLK TV"},
+
+{ "description": "Gospel Live HD International, la chaine chrétienne a pour but de faire la promotion des artistes chretiensainsi que la musique gospel universel", "sources": [ "https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE0MzY0MTlf/gospelLiveHD.png", "title": "GOSPEL LIVE HD" }, 
 
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
 
