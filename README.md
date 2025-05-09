@@ -63,7 +63,7 @@
             "https://stream.berosat.live:19360/cem-tv/cem-tv.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzc1ODAyOTBf/cemTV.jpg",
+          "thumb": "https://od.lk/s/NDZfODE0ODIxNTZf/cemtele.jpg",
           "title": "CEM-TV"
         }, 
 
