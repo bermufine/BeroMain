@@ -57,6 +57,16 @@
 
  {"description": "Destiny Channel TV est une chaîne Généraliste emettant depuis Kinshasa la Capitale de la Republique Democratique du Congo et qui diffuse des films chretiens, gospel, des informations, musiques, magazine biblique et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
+ {
+          "description": "Centre Evangeliqu Mahanaim Télévision est la chaine Chretienne en République du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/cem-tv/cem-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzc1ODAyOTBf/cemTV.jpg",
+          "title": "CEM-TV"
+        }, 
+
 { "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"}, 
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://69.64.57.208/rtnc/playlist.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
@@ -285,15 +295,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg",
           "title": "MONGALA TV"
-        },
-	 {
-          "description": "Centre Evangeliqu Mahanaim Télévision est la chaine Chretienne en République du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/cem-tv/cem-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzc1ODAyOTBf/cemTV.jpg",
-          "title": "CEM-TV"
         },
 	{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"};
  		 {
