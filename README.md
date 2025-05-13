@@ -35,6 +35,8 @@
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
+{ "description":"Shavax tv est une chaîne de télévision generaliste émettant en côte d'ivoire avec un programme riche en couleur, musique, sports, documentaires, religion, films et tant d'autres....", "sources": [ "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png", "title": "SHAVAX TV" }, 
+
  {"description": "Télé Église HDTV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres", "sources":["https://stream.berosat.live:19360/tele-eglise-hd/tele-eglise-hd.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNjYxMzFf/TeleEglise.jpg","title": "TÉLÉ ÉGLISE HD"},
 
 {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEyODQ5NDZf/gloryChannel2.jpg","title": "GLORY CHANNEL"},
