@@ -31,8 +31,6 @@
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
 
-{ "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg", "title": "RTV CBCO" }, 
-
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
 { "description":"Shavax tv est une chaîne de télévision generaliste émettant en côte d'ivoire avec un programme riche en couleur, musique, sports, documentaires, religion, films et tant d'autres....", "sources": [ "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png", "title": "SHAVAX TV" }, 
@@ -77,7 +75,7 @@
 
 { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
-{ "description": "Folk tv est une chaîne 100% culturelle et valorise la tradition africaine dans toutes ses formes , nous sommes là pour redorer l'image du folklore oublié, et la tradition africaine est au centre de notre présence dans le media.  Slogan: *Le folklore c'est Nous*", "sources": [ "https://stream.berosat.live:19360/folk-tv-stream/folk-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc3MDdf/Folktv.jpg", "title": "FOLK TV"},
+{ "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa", "sources": [ ""https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png", "title": "LA REUNION TV"}, 
 
 { "description": "Gospel Live HD International, la chaine chrétienne a pour but de faire la promotion des artistes chretiensainsi que la musique gospel universel", "sources": [ "https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE0MzY0MTlf/gospelLiveHD.png", "title": "GOSPEL LIVE HD" }, 
 
@@ -111,15 +109,6 @@
           "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
           "title": "LIGHT ECO TV"
  },
- {  
-      "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg",
-          "title": "MGS TV"
- },
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -138,7 +127,6 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg",
           "title": "RTGA"
  },
- { "description": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "title": "NEPHTHALI TV" },
  {
      "description": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -163,7 +151,6 @@
 
 { "description": "RMTV est une chaîne chretienne", "sources": [ "http://51.254.199.122:8080/resTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg", "title": "RMTV" }, 
 
-
 { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/rtnc1/index.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" }, 
@@ -175,7 +162,7 @@
 
 
 
-  
+ { "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg", "title": "RTV CBCO" },  
 {
       "description": "Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
       "sources": [
@@ -194,7 +181,18 @@
           "thumb": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
           "title": "HOPE TV EXTRA"
         }
+	 {  
+      "description": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg",
+          "title": "MGS TV"
+ },
+ { "description": "Folk tv est une chaîne 100% culturelle et valorise la tradition africaine dans toutes ses formes , nous sommes là pour redorer l'image du folklore oublié, et la tradition africaine est au centre de notre présence dans le media.  Slogan: *Le folklore c'est Nous*", "sources": [ "https://stream.berosat.live:19360/folk-tv-stream/folk-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc3MDdf/Folktv.jpg", "title": "FOLK TV"},
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
+ { "description": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "title": "NEPHTHALI TV" },
 
 { "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg", "title": "MKV-TV" },
 
