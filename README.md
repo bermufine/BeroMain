@@ -117,6 +117,15 @@
           "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
           "title": "LIGHT ECO TV"
  },
+  {
+     "description": "New Image Television est la chaine numerique qui diffusant des informations musique et Sports et autres.",
+          "sources": [
+            "https://vdo.pro-fhi.net:3543/hybrid/play.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE3ODQyOTlf/newImageTV.jpg",
+          "title": "NEW IMAGE TV"
+ },
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
