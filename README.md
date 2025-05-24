@@ -77,7 +77,7 @@
 
 { "description": "Komba Promo Télévision est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/komba-tv-promo/komba-tv-promo.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDE0MjBf/kombapromotv.jpg", "title": "KOMBA PROMO TV"}, 
 
-{ "description": "Ben World Télévision est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDE0NDFf/benworldtv.png", "title": "KOMBA PROMO TV"}, 
+{ "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"}, 
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://69.64.57.208/rtnc/playlist.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
