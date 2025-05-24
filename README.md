@@ -61,7 +61,7 @@
 
  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
  
- { "description": "Balio Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/balio-tv/balio-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE3OTMwNTJf/Baliotv.jpg", "title": "BALIO TV"}
+ { "description": "Balio Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/balio-tv/balio-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE3OTMwNTJf/Baliotv.jpg", "title": "BALIO TV"},
 
  {
           "description": "Centre Evangeliqu Mahanaim Télévision est la chaine Chretienne en République du Congo.",
