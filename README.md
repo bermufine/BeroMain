@@ -33,6 +33,8 @@
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
 
+{"description":"Console 24 Television est la chaîne generaliste emettant depuis la ville de Lubumbashi en Republique Democratique du Congo.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODE4ODU2MjZf/console24tv.jpg","title":"CONSOLE 24 TV"}, 
+
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
 { "description":"Shavax tv est une chaîne de télévision generaliste émettant en côte d'ivoire avec un programme riche en couleur, musique, sports, documentaires, religion, films et tant d'autres....", "sources": [ "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png", "title": "SHAVAX TV" }, 
