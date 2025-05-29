@@ -120,6 +120,8 @@
 
 { "description": "Gospel Live HD International, la chaine chrétienne a pour but de faire la promotion des artistes chretiensainsi que la musique gospel universel", "sources": [ "https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE0MzY0MTlf/gospelLiveHD.png", "title": "GOSPEL LIVE HD" }, 
 
+{ "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg", "title": "MKV-TV" },
+
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
 
 { "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },
@@ -234,8 +236,6 @@
  { "description": "Folk tv est une chaîne 100% culturelle et valorise la tradition africaine dans toutes ses formes , nous sommes là pour redorer l'image du folklore oublié, et la tradition africaine est au centre de notre présence dans le media.  Slogan: *Le folklore c'est Nous*", "sources": [ "https://stream.berosat.live:19360/folk-tv-stream/folk-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc3MDdf/Folktv.jpg", "title": "FOLK TV"},
 
  { "description": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "title": "NEPHTHALI TV" },
-
-{ "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg", "title": "MKV-TV" },
 
 { "description": "Group Elie Tuluka Television est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/get-stream/get-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEwNTc2ODJf/get-tv.jpg", "title": "GET TV" }, 
 
