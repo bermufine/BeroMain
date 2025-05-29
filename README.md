@@ -75,9 +75,17 @@
           "title": "CEM-TV"
         }, 
 
-{ "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"}, 
+{ "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"},
 
-{ "description": "Komba Promo Télévision est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/komba-tv-promo/komba-tv-promo.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDE0MjBf/kombapromotv.jpg", "title": "KOMBA PROMO TV"}, 
+  {
+     "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
+          "sources": [
+            "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
+          "title": "LIGHT ECO TV"
+ },
 
 { "description": "Nour Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTkxNTVf/nourtv.jpg", "title": "NOUR TV"}, 
 
@@ -116,15 +124,6 @@
           "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
           "title": "EGG PRO TV"
   },
-  {
-     "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
-          "sources": [
-            "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
-          "title": "LIGHT ECO TV"
- },
   {
      "description": "New Image Television est la chaine numerique qui diffusant des informations musique et Sports et autres.",
           "sources": [
