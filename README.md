@@ -63,6 +63,16 @@
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
+
+{
+      "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
+          "title": "HORIZON 2000 TV"
+ },
  
 { "description": "Balio Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/balio-tv/balio-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MTE3Nzlf/balioss.jpg", "title": "BALIO TV"},
 
@@ -97,7 +107,7 @@
           "title": "BISO TV"
  },
   {
-      "description": "chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+      "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
             "http://37.187.138.41:80/Sentinelle/index.m3u8"
           ],
@@ -105,6 +115,15 @@
           "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
           "title": "SENTINELLE TV"
  }, 
+   {
+     "description": "Parlons Congo 145 Television est la chaine thematique generaliste emettant depuis la RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/parlons-congo/parlons-congo.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE5Mzg0MjZf/parlonsCongo.jpg",
+          "title": "PARLONS CONGO 145"
+ },
 
 { "description": "Nour Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTkxNTVf/nourtv.jpg", "title": "NOUR TV"}, 
 
