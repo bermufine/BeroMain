@@ -1,5 +1,17 @@
 # BeroMain
-{ "categories": [ { "name": "Movies", "videos": [{ "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
+{ "categories": [ { "name": "Movies", "videos": [{ "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
+
+{
+      "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
+          "title": "HORIZON 2000 TV"
+ },
+
+{ "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
 {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
@@ -31,21 +43,15 @@
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" },
 
-{ "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
-
 {"description":"Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODE4ODU2MjZf/console24tv.jpg","title":"CONSOLE 24 TV"}, 
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
-
-{ "description":"Shavax tv est une chaîne de télévision generaliste émettant en côte d'ivoire avec un programme riche en couleur, musique, sports, documentaires, religion, films et tant d'autres....", "sources": [ "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png", "title": "SHAVAX TV" }, 
 
  {"description": "Télé Église HDTV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres", "sources":["https://stream.berosat.live:19360/tele-eglise-hd/tele-eglise-hd.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNjYxMzFf/TeleEglise.jpg","title": "TÉLÉ ÉGLISE HD"},
 
 {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEyODQ5NDZf/gloryChannel2.jpg","title": "GLORY CHANNEL"},
 
 { "description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!", "sources": [ "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg", "title": "BILILI TV" },  
-
-{ "description": "Couleurs Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/couleur-tv/couleur-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzg4ODg4NTNf/nosignals.jpg", "title": "COULEURS TV"},
 
 { "description": "Gospel Agency Télévision est la première chaine Chretienne Emettant en Abidjan.", "sources": [ "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
 
@@ -67,22 +73,7 @@
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
 
 { "description": "Fl Congo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/flcongo-tv-index/flcongo-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2NTgzNDlf/flcongo.jpg", "title": "FLCONGO TV" },
-
 {
-      "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
-          "title": "HORIZON 2000 TV"
- },
-
-{ "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"}, 
- 
-{ "description": "Balio Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/balio-tv/balio-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MTE3Nzlf/balioss.jpg", "title": "BALIO TV"},
-
- {
       "description": "Centre Evangeliqu Mahanaim Télévision est la chaine Chretienne en République du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/cem-tv/cem-tv.m3u8"
@@ -121,19 +112,8 @@
           "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
           "title": "SENTINELLE TV"
  }, 
-   {
-     "description": "Parlons Congo 145 Television est la chaine thematique generaliste emettant depuis la RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/parlons-congo/parlons-congo.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5Mzg0MjZf/parlonsCongo.jpg",
-          "title": "PARLONS CONGO 145"
- },
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://69.64.57.208/rtnc/playlist.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
-
-{ "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg", "title": "RTNC 3 HD" },
 
 { "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png", "title": "LA REUNION TV"}, 
 
@@ -141,11 +121,7 @@
 
 { "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg", "title": "MKV-TV" },
 
-{ "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
-
-{ "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },
-
- { "description": "Radio Television Masonga est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg", "title": "RTM" }, 
+{ "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
  
 { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3057/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
@@ -171,6 +147,37 @@
           "thumb": "https://od.lk/s/NDZfODE3ODQyOTlf/newImageTV.jpg",
           "title": "NEW IMAGE TV"
  },
+{
+          "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
+          "sources": [
+            "https://stream.dmstream.link/hls/evtele.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
+          "title": "EV TELE"
+        },
+{ "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
+
+{ "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sources": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "title": "GTV 1" }, 
+
+{ "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" },  
+
+{ "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }] } ] }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"}, 
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -198,33 +205,23 @@
           "thumb": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
           "title": "RTVS 1"
         },
-	 {
-          "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
+{ "description": "Radio Television Masonga est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg", "title": "RTM" },
+{ "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/rtnc1/index.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
+{ "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },
+{ "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg", "title": "RTNC 3 HD" },
+{ "description": "RMTV est une chaîne chretienne", "sources": [ "http://51.254.199.122:8080/resTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg", "title": "RMTV" }, 
+   {
+     "description": "Parlons Congo 145 Television est la chaine thematique generaliste emettant depuis la RDCongo.",
           "sources": [
-            "https://stream.dmstream.link/hls/evtele.m3u8"
+            "https://stream.berosat.live:19360/parlons-congo/parlons-congo.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
-          "title": "EV TELE"
-        },
-{ "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
-
-{ "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sources": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "title": "GTV 1" }, 
-
-{ "description": "RMTV est une chaîne chretienne", "sources": [ "http://51.254.199.122:8080/resTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg", "title": "RMTV" }, 
-
-{ "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
-
-{ "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/rtnc1/index.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" }, 
-
-{ "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }] } ] }
-
-
-
-
-
-
-
+          "thumb": "https://od.lk/s/NDZfODE5Mzg0MjZf/parlonsCongo.jpg",
+          "title": "PARLONS CONGO 145"
+ },
+ { "description": "Balio Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/balio-tv/balio-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MTE3Nzlf/balioss.jpg", "title": "BALIO TV"},
+{ "description": "Couleurs Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/couleur-tv/couleur-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzg4ODg4NTNf/nosignals.jpg", "title": "COULEURS TV"},
+{ "description":"Shavax tv est une chaîne de télévision generaliste émettant en côte d'ivoire avec un programme riche en couleur, musique, sports, documentaires, religion, films et tant d'autres....", "sources": [ "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png", "title": "SHAVAX TV" }, 
 { "description": "Nour Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTkxNTVf/nourtv.jpg", "title": "NOUR TV"}, 
 
 { "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},  
