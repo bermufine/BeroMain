@@ -68,6 +68,8 @@
 
 { "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png", "title": "LA REUNION TV"}, 
 
+{ "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/fidedi-movie-streams/fidedi-movie-streams.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyNzI2Mjdf/finesseMondetv.jpg", "title": "FINESSE MONDE TV"}, 
+
 { "description": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "title": "FIDEDI MOVIE TV" }, 
 
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
