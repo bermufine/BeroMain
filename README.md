@@ -74,6 +74,8 @@
 
 { "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"}, 
 
+{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
+
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
 
 { "description": "Fl Congo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/flcongo-tv-index/flcongo-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2NTgzNDlf/flcongo.jpg", "title": "FLCONGO TV" },
@@ -106,9 +108,7 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
           "title": "SENTINELLE TV"
- }, 
-
-{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},  
+ },  
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://69.64.57.208/rtnc/playlist.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
@@ -119,6 +119,8 @@
 { "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
+
+{ "description": "GRAND MEDIA TV, la chaîne d'Excellence dans l'Événementiel et Informations emettant au lualaba en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3514/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyNTUwNzVf/grandMeiaTV.jpg", "title": "GRAND MEDIA TV" }, 
  
 { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3057/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
