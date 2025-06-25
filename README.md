@@ -51,6 +51,8 @@
 
 {"description":"Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODIyMzU3NTFf/console24hd.jpg","title":"CONSOLE 24 TV"}, 
 
+{ "description": "Entertainment Arena, La vie est un voyage, et voyager nécessite une bonne santé pour profiter pleinement de tous les aspects de la vie. C'est pourquoi ATP Entertainment vous propose, sous le nom d'Entertainment Arena, un programme riche en rires, éducation, divertissement, films, documentaires d'actualité et bien plus encore. Nous y interviewerons vos musiciens, footballeurs, danseurs, acteurs préférés et ceux qui émergent, et bien plus encore.", "sources": [ "https://stream.berosat.live:19360/atpe-tv/atpe-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3MTUyNzRf/atpEntertaiment.jpg", "title": "ATP ENTERTAIMENT" },
+
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
 {"description": "Télé Église HDTV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres", "sources":["https://stream.berosat.live:19360/tele-eglise-hd/tele-eglise-hd.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNjYxMzFf/TeleEglise.jpg","title": "TÉLÉ ÉGLISE HD"},
