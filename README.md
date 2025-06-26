@@ -92,6 +92,8 @@
 
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
 
+{ "description": "Hexagone Television est une chaîne generaliste en charactere culturelle émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/hexagone-tv/hexagone-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3NzM2MzVf/hexagone.jpg", "title": "HEXAGONE TV" },
+
 {
      "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
           "sources": [
