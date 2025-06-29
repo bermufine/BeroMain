@@ -1,7 +1,17 @@
 # BeroMain
-{ "categories": [ { "name": "Movies", "videos": [{ "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
+{ "categories": [ { "name": "Movies", "videos": [{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
+
+{ "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
 
 { "description": "Le Monde en 24H, l'autoroute de l'information", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
+
+ { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg", "title": "FINESSE MONDE TV"}, 
+
+{ "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
+
+{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
+
+{"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
 
 {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
@@ -13,17 +23,7 @@
           "title": "HORIZON 2000 TV"
  },
 
- { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg", "title": "FINESSE MONDE TV"}, 
-
-{ "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
-
-{"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
-
-{"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
-
-{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
-
-{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" }, 
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, 
 
 {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"}, 
 
