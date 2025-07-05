@@ -74,7 +74,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Congo Santé télévision , une chaîne d'Excellence pour la santé en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/cstv-index/cstv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMDhf/cstv.jpg", "title": "CS-TV" },
 
-{ "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMjhf/mvcprotv.jpg", "title": "MVC PRO TV" },
+{ "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMjhf/mvcprotv.jpg", "title": "MC PRO TV" },
 
 { "description": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "title": "FIDEDI MOVIE TV" }, 
 
