@@ -115,8 +115,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
  },
  { "description": "GRAND MEDIA TV, la chaîne d'Excellence dans l'Événementiel et Informations emettant au lualaba en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3514/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyNTUwNzVf/grandMeiaTV.jpg", "title": "GRAND MEDIA TV" }, 
  
-{ "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo2.pro-fhi.net:3415/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
-
 { "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
   {
@@ -186,8 +184,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "thumb": "https://od.lk/s/NDZfODE0ODIxNTZf/cemtele.jpg",
           "title": "CEM-TV"
  },
- { "description": "Hexagone Television est une chaîne generaliste en charactere culturelle émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/hexagone-tv/hexagone-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3NzM2MzVf/hexagone.jpg", "title": "HEXAGONE TV" },
-{ "description": "Infoslight television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/infolight-tv/infolight-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMxMTcyMjJf/infolighttv.jpg", "title": "INFOSLIGHT-TV" },
+ { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo2.pro-fhi.net:3415/hybrid/play.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
 { "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }] } ] }
 
@@ -211,6 +208,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 { "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"},
 { "description": "Radio télé sans limite FM émettant à Lubumbashi sur la route kafubu dans la commune de kampemba non loin du terminus, Megastore arrêt de bus bubu dans les installations de l'école source du savoir à côté de l'église roche d'horeb, Nous sommes une chaine de proximité sans couleurs politique , tribal ni ethnique, Nous avons comme principe sans limite FM la chaîne de proximité. Pour toute information complémentaire n'hésitez surtout en composant +243 993 664 538 / +243 844 522 503 et Pour la direction technique / +243 999 871 406  / +243 991 017 504", "sources": [ "https://stream.berosat.live:19360/sans-limite/sans-limite.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI0MTc3NjRf/sansLimiteTV.jpg", "title": "SANS LIMITE TV"}, 
 { "description": "Fl Congo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/flcongo-tv-index/flcongo-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2NTgzNDlf/flcongo.jpg", "title": "FLCONGO TV" },
+ { "description": "Hexagone Television est une chaîne generaliste en charactere culturelle émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/hexagone-tv/hexagone-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3NzM2MzVf/hexagone.jpg", "title": "HEXAGONE TV" },
+{ "description": "Infoslight television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/infolight-tv/infolight-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMxMTcyMjJf/infolighttv.jpg", "title": "INFOSLIGHT-TV" },
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
