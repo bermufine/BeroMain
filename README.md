@@ -72,6 +72,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines", "sources": [ "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg", "title": "CINEAC TV" },
 
+{ "description": "B-HD television est une chaine privee", "sources": [ "https://stream.berosat.live:19360/bhd-tv/bhd-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM1ODk5Mjdf/bHDtv.jpg", "title": "B-HD TV" },
+
 { "description": "Congo Santé télévision , une chaîne d'Excellence pour la santé en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/cstv-index/cstv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMDhf/cstv.jpg", "title": "CS-TV" },
 
 { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMjhf/mvcprotv.jpg", "title": "MC PRO TV" },
