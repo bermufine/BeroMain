@@ -95,6 +95,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
+{"description":"Temple de la Foi télévision, ta foi, ta chaine, to reveil. Nous sommes une chaine chretienn pour le salut des Ames,","sources":["https://stream.berosat.live:19360/temple-tv/temple-tv.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODM1Nzc2NDZf/templedelafpo.jpg","title":"TEMPLE DE LA FOI"},
+
 { "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"}, 
 
 { "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "sources": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "title": "GOSPEL CHANNEL" },
