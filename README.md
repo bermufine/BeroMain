@@ -5,7 +5,7 @@
 
 { "description": "Le Monde en 24H, l'autoroute de l'information", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
- { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "53", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg", "title": "FINESSE MONDE TV"}, 
+ { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg", "title": "FINESSE MONDE TV"}, 
 
 { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
@@ -76,8 +76,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 { "description": "B-HD television est une chaine privee", "sources": [ "https://stream.berosat.live:19360/bhd-tv/bhd-tv.m3u8" ], "number": "81", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM1ODk5Mjdf/bHDtv.jpg", "title": "B-HD TV" },
 
 { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMjhf/mvcprotv.jpg", "title": "MC PRO TV" },
-
-{ "description": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "number": "83", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "title": "FIDEDI MOVIE TV" }, 
 
 { "description": "Gospel Agency Télévision est la première chaine Chretienne Emettant en Abidjan.", "sources": [ "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8" ], "number": "84", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
 
@@ -192,8 +190,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" },  
 
- {"description":"Zamiri tv sera une chaîne purement éducatif notre sible éveil delà conscience de la population ds tout. Les domaines possible","sources":["https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"], "number": "112", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODI0NzU2NDlf/zamireTV.jpg","title":"ZAMIRI TV"},
-
  { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo2.pro-fhi.net:3415/hybrid/play.m3u8" ], "number": "113", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
 
 { "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "number": "114", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }] } ] }
@@ -212,6 +208,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 { "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"},
+
+{ "description": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "number": "83", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "title": "FIDEDI MOVIE TV" }, 
+
+ {"description":"Zamiri tv sera une chaîne purement éducatif notre sible éveil delà conscience de la population ds tout. Les domaines possible","sources":["https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"], "number": "112", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODI0NzU2NDlf/zamireTV.jpg","title":"ZAMIRI TV"},
+
 { "description": "Congo Santé télévision , une chaîne d'Excellence pour la santé en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/cstv-index/cstv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMDhf/cstv.jpg", "title": "CS-TV" },
 {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEyODQ5NDZf/gloryChannel2.jpg","title": "GLORY CHANNEL"},
 {
