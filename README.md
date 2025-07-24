@@ -46,6 +46,8 @@
 
 { "description": "Canal C Junior la télé congolaise des enfants. Canal C Junior est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre", "sources": [ "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8" ], "number": "66", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg", "title": "CANAL-C JUNIOR"}, 
 
+{ "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines", "sources": [ "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8" ], "number": "80", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg", "title": "CINEAC TV" },
+
 {"description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8"], "number": "62", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg","title": "CHARVIN TV"},
 
 { "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com", "sources": [ "http://livestream.kgsols.com/push/KeurN/playlist.m3u8" ], "number": "67", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg", "title": "KEUR NDANANE TV"}, 
@@ -53,17 +55,17 @@
 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
 
-{ "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "number": "70", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }, 
-
 { "description": "Entertainment Arena, La vie est un voyage, et voyager nécessite une bonne santé pour profiter pleinement de tous les aspects de la vie. C'est pourquoi ATP Entertainment vous propose, sous le nom d'Entertainment Arena, un programme riche en rires, éducation, divertissement, films, documentaires d'actualité et bien plus encore. Nous y interviewerons vos musiciens, footballeurs, danseurs, acteurs préférés et ceux qui émergent, et bien plus encore.", "sources": [ "https://stream.berosat.live:19360/atpe-tv/atpe-tv.m3u8" ], "number": "71", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3MTUyNzRf/atpEntertaiment.jpg", "title": "ATP ENTERTAIMENT" },
+
+{ "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/best-tv/best-tv.m3u8" ], "number": "468", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg", "title": "ROI THE BEST" },
+
+{"description":"Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"], "number": "79", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODIyMzU3NTFf/console24hd.jpg","title":"CONSOLE 24 TV"},
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
 { "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg", "title": "COP TELEVISION" },
 
 { "description": "Peneo television est une Chaine chrétienne, généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/peneo-tv/peneo-tv.m3u8" ], "number": "74", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM2NTkxMTBf/peneotv.png", "title": "PENEO TV"},
-
-{ "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines", "sources": [ "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8" ], "number": "80", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg", "title": "CINEAC TV" },
 
 { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
 
@@ -73,13 +75,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
 
-{ "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/best-tv/best-tv.m3u8" ], "number": "468", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg", "title": "ROI THE BEST" },
-
-{"description":"Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"], "number": "79", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODIyMzU3NTFf/console24hd.jpg","title":"CONSOLE 24 TV"},
-
 { "description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!", "sources": [ "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8" ], "number": "78", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg", "title": "BILILI TV" },
 
 { "description": "Gospel Agency Télévision est la première chaine Chretienne Emettant en Abidjan.", "sources": [ "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8" ], "number": "84", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
+
+{ "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "number": "70", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }, 
 
  {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
