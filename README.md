@@ -99,7 +99,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description":"Temple de la Foi télévision, ta foi, ta chaine, to reveil. Nous sommes une chaine chretienn pour le salut des Ames,","sources":["https://stream.berosat.live:19360/temple-tv/temple-tv.m3u8"], "number": "89", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODM1Nzc2NDZf/templedelafpo.jpg","title":"TEMPLE DE LA FOI"},
 
-{ "description": "Hannabih Télévision est la première chaine Chretienne Emettant en Kinshasa.", "sources": [ "https://stream.berosat.live:19360/hannabih/hannabin.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
+{ "description": "Hannabih Télévision est la première chaine Chretienne Emettant en Kinshasa.", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
 
 { "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "number": "90", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIxNDcyOTZf/mkv.jpg", "title": "MKV-TV" },
 
