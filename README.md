@@ -69,7 +69,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Peneo television est une Chaine chrétienne, généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/peneo-tv/peneo-tv.m3u8" ], "number": "74", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM2NTkxMTBf/peneotv.png", "title": "PENEO TV"},
 
-{ "description": "Kiesse télévision , Au Coeur des Hunaiins !!!", "sources": [ "https://stream.berosat.live:19360/kiesse-tv/kiesse-tv.m3u8" ], "number": "477", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMjg0NzJf/kiessetv.jpg", "title": "KIESSE TV" },
+{ "description": "Kiese télévision , Au Coeur des Hunaiins !!!", "sources": [ "https://stream.berosat.live:19360/kiesse-tv/kiesse-tv.m3u8" ], "number": "477", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMjg0NzJf/kiessetv.jpg", "title": "KIESE TV" },
 
 { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
 
