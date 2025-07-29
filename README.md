@@ -65,6 +65,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
+{ "description": "Hannabih Télévision est la Première chaîne panafricaniste", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
+
 { "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg", "title": "COP TELEVISION" },
 
 { "description": "Peneo television est une Chaine chrétienne, généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/peneo-tv/peneo-tv.m3u8" ], "number": "74", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM2NTkxMTBf/peneotv.png", "title": "PENEO TV"},
@@ -91,13 +93,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
 
-{ "description": "Hannabih Télévision est la Première chaîne panafricaniste", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
-
 {"description":"Bluesky Radio télévision est une chaine généraliste  qui diffusent  des émissions culturelle et éducatives  en République démocratique du Congo dans ville de Lubumbashi","sources":["https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"], "number": "481", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTE5MDVf/bluesky.png","title":"BLUESKY TV"},
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "number": "70", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }, 
 
-{"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTE4Nzlf/mejstv.jpg","title":"MEMJS TV"},
+{"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg","title":"MEMJS TV"},
 
  {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
