@@ -97,7 +97,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "number": "70", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }, 
 
-{"description":"MEMJS télévision, nous sommes une chaine chretienn pour le salut des Ames,","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTE4Nzlf/mejstv.jpg","title":"MEMJS TV"},
+{"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTE4Nzlf/mejstv.jpg","title":"MEMJS TV"},
 
  {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
