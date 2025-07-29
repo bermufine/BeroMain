@@ -116,6 +116,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "number": "90", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIxNDcyOTZf/mkv.jpg", "title": "MKV-TV" },
 
+{ "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
+
 { "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "sources": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "number": "91", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "title": "GOSPEL CHANNEL" },
 
 {"description": "Télé Église HDTV est une chaîne Généraliste emettant depuis la ville de kinshasa pour l'edification del'eglise corp du Christ. avec un programme riche telsqu ;  gospel, films chretienne, magazine et autres", "sources":["https://stream.berosat.live:19360/tele-eglise-hd/tele-eglise-hd.m3u8"], "number": "92", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNjYxMzFf/TeleEglise.jpg","title": "TÉLÉ ÉGLISE HD"},
