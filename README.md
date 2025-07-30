@@ -65,6 +65,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description":"Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"], "number": "79", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODIyMzU3NTFf/console24hd.jpg","title":"CONSOLE 24 TV"},
 
+{ "description": "Saint-Denis television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/sdtv-index/sdtv-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTUzMjVf/sdtv.jpg", "title": "SD TELEVISION" },
+
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
 { "description": "Hannabih Télévision est la Première chaîne panafricaniste", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
