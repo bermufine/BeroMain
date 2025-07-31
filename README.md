@@ -91,8 +91,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!", "sources": [ "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8" ], "number": "78", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg", "title": "BILILI TV" },
 
-{ "description": "Ba Mfumu Ba Lobi télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mfumu-tv/mfumu-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTA3NDhf/bamfumutv.jpg", "title": "BA MFUMU TV" },
-
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
 
 { "description": "Gospel Agency Télévision est la première chaine Chretienne Emettant en Abidjan.", "sources": [ "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8" ], "number": "84", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
@@ -242,6 +240,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 { "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"},
+
+{ "description": "Ba Mfumu Ba Lobi télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mfumu-tv/mfumu-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTA3NDhf/bamfumutv.jpg", "title": "BA MFUMU TV" },
 
 { "description": "Global Line television, the generaliste Business channel, Entertainment and Educative from Ghana.", "sources": [ "https://stream.berosat.live:19360/global-line-tv/global-line-tv.m3u8" ], "number": "69", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg", "title": "GLOBAL LINE TV" },
 
