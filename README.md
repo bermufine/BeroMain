@@ -63,6 +63,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Mabanza television est une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mabanza-tv/mabanza-tv.m3u8" ], "number": "486", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM3MzRf/mabanza.jpg", "title": "MABANZA TV" },
 
+{ "description": "JKL television est une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/jolie-kalunga/jolie-kalunga.m3u8" ], "number": "487", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzNDQ0MDZf/jklungatv.jpg", "title": "JKL TV" },
+
 {"description":"Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"], "number": "79", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODIyMzU3NTFf/console24hd.jpg","title":"CONSOLE 24 TV"},
 
 { "description": "Saint-Denis television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/sdtv-index/sdtv-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTUzMjVf/sdtv.jpg", "title": "SD TELEVISION" },
