@@ -120,6 +120,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description":"Ephphatha télévision est une chaine généraliste  qui diffusent  des émissions culturelle et éducatives  en République démocratique du Congo dans ville de Lubumbashi","sources":["https://stream.berosat.live:19360/ephphatha-tv/ephphatha-tv.m3u8"], "number": "491", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQ0MjMyNTJf/ephphathatv.jpg","title":"EPHPHATHA TV"},
 
+{ "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
+
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
 
 {"description":"Bluesky Radio télévision est une chaine généraliste  qui diffusent  des émissions culturelle et éducatives  en République démocratique du Congo dans ville de Lubumbashi","sources":["https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"], "number": "481", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTE5MDVf/bluesky.png","title":"BLUESKY TV"},
