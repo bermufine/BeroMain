@@ -67,6 +67,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Mabanza television est une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mabanza-tv/mabanza-tv.m3u8" ], "number": "486", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM3MzRf/mabanza.jpg", "title": "MABANZA TV" },
 
+{ "description": "Kabasele Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/kabasele-tv/kabasele-tv.m3u8" ], "number": "413", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1NjA3OTVf/kabaseletv.jpg", "title": "KABASELE TV" },
+
 { "description": "Wazi Wazi Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/wazi-index/wazi-index.m3u8" ], "number": "489", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MDE0MzJf/wazi.jpg", "title": "WAZI-WAZI TV" },
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
