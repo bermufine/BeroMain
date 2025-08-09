@@ -108,6 +108,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg", "title": "JDK TV" },
 
+{"description":"Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise","sources":["https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"], "number": "491", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg","title":"GG TV"},
+
 { "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8" ], "number": "87", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png", "title": "LA REUNION TV"}, 
 
 { "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8" ], "number": "488", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg", "title": "DIESKOLUS TV" },
@@ -213,8 +215,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "JKL television est une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/jolie-kalunga/jolie-kalunga.m3u8" ], "number": "487", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzNDQ0MDZf/jklungatv.jpg", "title": "JKL TV" },
 
-{ "description": "Kassai Horizons television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/kassai-horizon/kassai-horizon.m3u8" ], "number": "511", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0NTQ2MTFf/kassaiHorizon.jpg", "title": "KASSAI-HORIZONS" },
-
 { "description": "Wazi Wazi Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/wazi-index/wazi-index.m3u8" ], "number": "489", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MDE0MzJf/wazi.jpg", "title": "WAZI-WAZI TV" },
 
 { "description": "Mabanza television est une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mabanza-tv/mabanza-tv.m3u8" ], "number": "486", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM3MzRf/mabanza.jpg", "title": "MABANZA TV" },
@@ -246,7 +246,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Kiese télévision , Au Coeur des Hunaiins !!!", "sources": [ "https://stream.berosat.live:19360/kiesse-tv/kiesse-tv.m3u8" ], "number": "477", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMjg0NzJf/kiessetv.jpg", "title": "KIESE TV" },
 
-{"description":"Ephphatha télévision est une chaine généraliste  qui diffusent  des émissions culturelle et éducatives  en République démocratique du Congo dans ville de Lubumbashi","sources":["https://stream.berosat.live:19360/ephphatha-tv/ephphatha-tv.m3u8"], "number": "491", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQ0MjMyNTJf/ephphathatv.jpg","title":"EPHPHATHA TV"},
+
 
 { "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg", "title": "COP TELEVISION" },
 
@@ -267,6 +267,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 { "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"},
+
+{ "description": "Kassai Horizons television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/kassai-horizon/kassai-horizon.m3u8" ], "number": "511", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0NTQ2MTFf/kassaiHorizon.jpg", "title": "KASSAI-HORIZONS" },
 
 { "description": "Ba Mfumu Ba Lobi télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mfumu-tv/mfumu-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTA3NDhf/bamfumutv.jpg", "title": "BA MFUMU TV" },
 
