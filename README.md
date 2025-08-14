@@ -96,7 +96,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "title": "S-MEDIAS TV 3"
 },
 
-{ "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
+{"description": "MK Ngoma television  est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.","sources":["https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8"], "number": "76", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg","title": "MK NGOMA TV"},
 
 {"description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.", "sources":["https://stream.berosat.live:19360/pourim-tv/pourim-tv.m3u8"], "number": "75", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title": "POURIM-RTV"},
 
@@ -110,6 +110,12 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
 
+{ "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
+
+{"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg","title":"MEMJS TV"},
+
+{ "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg", "title": "COP TELEVISION" },
+
 { "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!", "sources": [ "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8" ], "number": "484", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg", "title": "MBALIOSOMBO TV" },
 
 {"description": "Cenac TV est une chaîne Généraliste emettant depuis la ville de kinshasa pour l'edification del'eglise corp du Christ. avec un programme riche telsqu ;  gospel, films chretienne, magazine et autres", "sources":["https://stream.berosat.live:19360/cenac-tv/cenac-tv.m3u8"], "number": "515", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQ2MTAyNzZf/cenac.jpg","title": "CENAC TV"},
@@ -120,11 +126,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8" ], "number": "87", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png", "title": "LA REUNION TV"}, 
 
-{ "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
-
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
-
-{"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg","title":"MEMJS TV"},
 
 {
      "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
@@ -193,12 +195,12 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" },  
 
  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
-
- { "description": "Saint-Denis television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/sdtv-index/sdtv-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTUzMjVf/sdtv.jpg", "title": "SD TELEVISION" },
   
 {"description": "Télé Église HDTV est une chaîne Généraliste emettant depuis la ville de kinshasa pour l'edification del'eglise corp du Christ. avec un programme riche telsqu ;  gospel, films chretienne, magazine et autres", "sources":["https://stream.berosat.live:19360/tele-eglise-hd/tele-eglise-hd.m3u8"], "number": "92", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNjYxMzFf/TeleEglise.jpg","title": "TÉLÉ ÉGLISE HD"},
 
  { "description": "Famille Genese télévision est une chaîne chrétienne généraliste émettant dans la ville de Kinshasa en RDC. Notre Vision est : DELIVRANCE ET RESTORATION DE FAMILLE, Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l'Evangile  à travers sa differente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s'informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/famille-genese/famille-genese.m3u8" ], "number": "77", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png", "title": "FAMILLE GENESSE"},
+
+  { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
 
 { "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "number": "114", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }] } ] }
 
@@ -217,11 +219,12 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 
-{ "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg", "title": "COP TELEVISION" },
+
+
 
 { "description": "Peneo television est une Chaine chrétienne, généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/peneo-tv/peneo-tv.m3u8" ], "number": "74", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM2NTkxMTBf/peneotv.png", "title": "PENEO TV"},
 
-{"description": "MK Ngoma television  est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.","sources":["https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8"], "number": "76", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg","title": "MK NGOMA TV"},
+{ "description": "Saint-Denis television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/sdtv-index/sdtv-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTUzMjVf/sdtv.jpg", "title": "SD TELEVISION" },
 
 { "description": "Radio Télévision Voxkongo.cd est une plateforme novatrice de diffusion en ligne, établie au cœur de l'Afrique centrale, dans la ville de Lubumbashi en République Démocratique du Congo. Elle s'engage à promouvoir la culture, le sport et les enjeux politiques mondiaux. En tant que porte-parole de la région, Radio Voxkongo s'emploie à créer des liens entre les communautés en partageant des récits, des analyses et des perspectives uniques", "sources": [ "https://stream.berosat.live:19360/voxkongo-tv/voxkongo-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM2MzVf/voxkongotv.jpg", "title": "VOX-KONGO TV" },
 
@@ -263,8 +266,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg", "title": "MOTEMA AFRICA"},
 
-
-
 { "description": "Kiese télévision , Au Coeur des Hunaiins !!!", "sources": [ "https://stream.berosat.live:19360/kiesse-tv/kiesse-tv.m3u8" ], "number": "477", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMjg0NzJf/kiessetv.jpg", "title": "KIESE TV" },
 
  {"description":"Temple de la Foi télévision, ta foi, ta chaine, to reveil. Nous sommes une chaine chretienn pour le salut des Ames,","sources":["https://stream.berosat.live:19360/temple-tv/temple-tv.m3u8"], "number": "89", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODM1Nzc2NDZf/templedelafpo.jpg","title":"TEMPLE DE LA FOI"},
@@ -284,6 +285,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
  {"description":"Zamiri tv sera une chaîne purement éducatif notre sible éveil delà conscience de la population ds tout. Les domaines possible","sources":["https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"], "number": "112", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODI0NzU2NDlf/zamireTV.jpg","title":"ZAMIRI TV"},
 
 { "description": "Congo Santé télévision , une chaîne d'Excellence pour la santé en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/cstv-index/cstv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM0ODYxMDhf/cstv.jpg", "title": "CS-TV" },
+
 {"description": "Glory Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "sources":["https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEyODQ5NDZf/gloryChannel2.jpg","title": "GLORY CHANNEL"},
 {
       "description": "Centre Evangeliqu Mahanaim Télévision est la chaine Chretienne en République du Congo.",
@@ -297,10 +299,15 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 { "description": "Zero Zero (001) Television est une Chaîne socioculturelle pour la promotion et la valorisation de la culture congolaise", "sources": [ "https://stream.berosat.live:19360/zero-un-tv/zero-un-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMDYzNTVf/001tv.jpg", "title": "001 TV" }, 
+
 { "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"},
+
 { "description": "Radio télé sans limite FM émettant à Lubumbashi sur la route kafubu dans la commune de kampemba non loin du terminus, Megastore arrêt de bus bubu dans les installations de l'école source du savoir à côté de l'église roche d'horeb, Nous sommes une chaine de proximité sans couleurs politique , tribal ni ethnique, Nous avons comme principe sans limite FM la chaîne de proximité. Pour toute information complémentaire n'hésitez surtout en composant +243 993 664 538 / +243 844 522 503 et Pour la direction technique / +243 999 871 406  / +243 991 017 504", "sources": [ "https://stream.berosat.live:19360/sans-limite/sans-limite.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI0MTc3NjRf/sansLimiteTV.jpg", "title": "SANS LIMITE TV"}, 
+
 { "description": "Fl Congo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/flcongo-tv-index/flcongo-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2NTgzNDlf/flcongo.jpg", "title": "FLCONGO TV" },
+
  { "description": "Hexagone Television est une chaîne generaliste en charactere culturelle émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/hexagone-tv/hexagone-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3NzM2MzVf/hexagone.jpg", "title": "HEXAGONE TV" },
+ 
 { "description": "Infoslight television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/infolight-tv/infolight-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMxMTcyMjJf/infolighttv.jpg", "title": "INFOSLIGHT-TV" },
  {
      "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
