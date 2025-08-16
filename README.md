@@ -196,10 +196,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
-{"description": "Cenac TV est une chaîne Généraliste emettant depuis la ville de kinshasa pour l'edification del'eglise corp du Christ. avec un programme riche telsqu ;  gospel, films chretienne, magazine et autres", "sources":["https://stream.berosat.live:19360/cenac-tv/cenac-tv.m3u8"], "number": "515", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQ2MTAyNzZf/cenac.jpg","title": "CENAC TV"},
-
-{ "description": "Main de l'Eternel télévision est une chaîne chrétienne généraliste émettant  en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/main-eternel/main-eternel.m3u8" ], "number": "512", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0NTQ2MTJf/mainEternel.jpg", "title": "LA MAIN TV"},
-
 { "description": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone", "sources": [ "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8" ], "number": "114", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg", "title": "CTV AFRICA" }] } ] }
 
 
@@ -221,6 +217,10 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 { "description": "Peneo television est une Chaine chrétienne, généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/peneo-tv/peneo-tv.m3u8" ], "number": "74", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM2NTkxMTBf/peneotv.png", "title": "PENEO TV"},
+
+{"description": "Cenac TV est une chaîne Généraliste emettant depuis la ville de kinshasa pour l'edification del'eglise corp du Christ. avec un programme riche telsqu ;  gospel, films chretienne, magazine et autres", "sources":["https://stream.berosat.live:19360/cenac-tv/cenac-tv.m3u8"], "number": "515", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQ2MTAyNzZf/cenac.jpg","title": "CENAC TV"},
+
+{ "description": "Main de l'Eternel télévision est une chaîne chrétienne généraliste émettant  en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/main-eternel/main-eternel.m3u8" ], "number": "512", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0NTQ2MTJf/mainEternel.jpg", "title": "LA MAIN TV"},
 
 { "description": "B-HD television est une chaine privee", "sources": [ "https://stream.berosat.live:19360/bhd-tv/bhd-tv.m3u8" ], "number": "81", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM1ODk5Mjdf/bHDtv.jpg", "title": "B-HD TV" },
 
