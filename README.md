@@ -117,6 +117,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
 
+{ "description": "Je Suis Afrique télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/suis-afrique/suis-afrique.m3u8" ], "number": "523", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ5NTExNzVf/afriquejesuistv.jpg", "title": "JE SUIS AFRIQUE" },
+
 { "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
 
 { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
