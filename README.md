@@ -118,6 +118,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!", "sources": [ "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8" ], "number": "484", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg", "title": "MBALIOSOMBO TV" },
 
+{ "description": "Fondation Weta Mpama television est une Chaine généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/fwm-tv/fwm-tv.m3u8" ], "number": "521", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ5NDI2Nzlf/fwmtv.jpg", "title": "FWM TV"},
+
 { "description": "Gospel Agency Télévision est la première chaine Chretienne Emettant en Abidjan.", "sources": [ "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8" ], "number": "84", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
 
 { "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg", "title": "JDK TV" },
