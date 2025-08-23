@@ -98,7 +98,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 {
       "description": "Espec Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
-            "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
+            "https://stream.berosat.live:19360/espec-index/espec-index.m3u8"
           ],
 	  "number": "522",
           "subtitle": "All Channels",
