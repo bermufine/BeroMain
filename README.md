@@ -77,6 +77,8 @@
           "title": "S-MEDIAS TV 3"
 },
 
+{"description": "One Way television est une Chaine généraliste émettent depuis Kinshasa en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/one-way/one-way.m3u8"], "number": "543", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODUyODcyODZf/onewaytv.jpg","title": "ONE WAY TV"}, 
+
 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
 
