@@ -1,17 +1,15 @@
 # BeroMain
-{ "categories": [ { "name": "Movies", "videos": [{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, 
-
-{ "description": "Nous sommes une station de radio web chrétienne, un canal d’émancipation spirituelle pour l’homme et sa famille. Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
+{ "categories": [ { "name": "Movies", "videos": [{ "description": "Le Monde en 24H, l'autoroute de l'information", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
 { "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
 
 { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "number": "51", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
 
-{ "description": "Le Monde en 24H, l'autoroute de l'information", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
-
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg", "title": "FINESSE MONDE TV"}, 
 
 { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
+
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, 
 
 {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
@@ -55,6 +53,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/best-tv/best-tv.m3u8" ], "number": "468", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg", "title": "ROI THE BEST" },
 
+{ "description": "Nous sommes une station de radio web chrétienne, un canal d’émancipation spirituelle pour l’homme et sa famille. Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
+
 { "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
 { "description": "Djembe television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8" ], "number": "536", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMzk3OThf/djembe.jpg", "title": "DJEMBE TV" },
@@ -82,12 +82,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "S-MEDIAS TV 3"
 },
 
-{"description": "One Way television est une Chaine généraliste émettent depuis Kinshasa en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/one-way/one-way.m3u8"], "number": "543", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODUyODcyODZf/onewaytv.jpg","title": "ONE WAY TV"}, 
-
 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
-
-{ "description": "4K Good TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public.", "sources": [ "https://stream.berosat.live:19360/4k-good/4k-good.m3u8" ], "number": "526", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUxNTM5MThf/4kgoodtv.jpg", "title": "4K GOOD TV" }, 
 
 { "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8" ], "number": "488", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg", "title": "DIESKOLUS TV" },
 
@@ -101,6 +97,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Hannabih Télévision est la Première chaîne panafricaniste", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
 
+{"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
+
 { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
 {"description": "MK Ngoma television  est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.","sources":["https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8"], "number": "76", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg","title": "MK NGOMA TV"},
@@ -110,8 +108,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 { "description": "Machine Record television est une Chaine généraliste culturelle émettent depuis Kinshasa en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/machine-record/machine-record.m3u8" ], "number": "482", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg", "title": "MACHINE RECORD TV"},
 
 {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
-
-{"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
 
@@ -127,11 +123,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!", "sources": [ "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8" ], "number": "484", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg", "title": "MBALIOSOMBO TV" },
 
-{ "description": "Fondation Weta Mpama television est une Chaine généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/fwm-tv/fwm-tv.m3u8" ], "number": "521", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ5NDI2Nzlf/fwmtv.jpg", "title": "FWM TV"},
-
 { "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg", "title": "JDK TV" },
-
-{ "description": "Gospel Agency Télévision est la première chaine Chretienne Emettant en Abidjan.", "sources": [ "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8" ], "number": "84", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
 
 {
      "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
@@ -228,9 +220,13 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 
+{"description": "One Way television est une Chaine généraliste émettent depuis Kinshasa en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/one-way/one-way.m3u8"], "number": "543", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODUyODcyODZf/onewaytv.jpg","title": "ONE WAY TV"}, 
 
+{ "description": "4K Good TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public.", "sources": [ "https://stream.berosat.live:19360/4k-good/4k-good.m3u8" ], "number": "526", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUxNTM5MThf/4kgoodtv.jpg", "title": "4K GOOD TV" }, 
 
+{ "description": "Gospel Agency Télévision est la première chaine Chretienne Emettant en Abidjan.", "sources": [ "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8" ], "number": "84", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
 
+{ "description": "Fondation Weta Mpama television est une Chaine généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/fwm-tv/fwm-tv.m3u8" ], "number": "521", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ5NDI2Nzlf/fwmtv.jpg", "title": "FWM TV"},
 
 { "description": "Yekola television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/yekola-index/yekola-index.m3u8" ], "number": "520", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ3OTg2NjBf/yekola.jpg", "title": "YEKOLA TV" },
 {
