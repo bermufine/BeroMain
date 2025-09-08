@@ -9,8 +9,6 @@
 
 { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
-{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, 
-
 {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
@@ -32,6 +30,19 @@
           "title": "HORIZON 2000 TV"
  },
 
+ { "description": "Djembe television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8" ], "number": "536", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMzk3OThf/djembe.jpg", "title": "DJEMBE TV" },
+
+{
+     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "title": "JSN TV"
+},
+
 { "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
@@ -46,9 +57,6 @@
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
 
-{ "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
-Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUzNDAzNzRf/barakatv.jpg", "title": "BARAKA TV" }, 
-
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://69.64.57.208/rtnc/playlist.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
 { "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/best-tv/best-tv.m3u8" ], "number": "468", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg", "title": "ROI THE BEST" },
@@ -57,41 +65,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
-{ "description": "Djembe television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8" ], "number": "536", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMzk3OThf/djembe.jpg", "title": "DJEMBE TV" },
-
-{ "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines", "sources": [ "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8" ], "number": "80", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg", "title": "CINEAC TV" },
-
 { "description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!", "sources": [ "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8" ], "number": "78", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg", "title": "BILILI TV" },
-
-{"description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8"], "number": "62", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg","title": "CHARVIN TV"},
-
-{"description":"Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise","sources":["https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"], "number": "491", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg","title":"GG TV"},
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
-{
-     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
-          "title": "JSN TV"
-},
-
 { "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com", "sources": [ "http://livestream.kgsols.com/push/KeurN/playlist.m3u8" ], "number": "67", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg", "title": "KEUR NDANANE TV"}, 
-
- {
-     "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
-          ],
-	  "number": "85",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
-          "title": "S-MEDIAS TV 3"
-},
 
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
@@ -99,8 +77,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
 
 { "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8" ], "number": "488", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg", "title": "DIESKOLUS TV" },
-
-{ "description": "Kabasele Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/kabasele-tv/kabasele-tv.m3u8" ], "number": "413", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1NjA3OTVf/kabaseletv.jpg", "title": "KABASELE TV" },
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
@@ -121,8 +97,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
 
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
-
-{ "description": "Je Suis Afrique télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/suis-afrique/suis-afrique.m3u8" ], "number": "523", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ5NTExNzVf/afriquejesuistv.jpg", "title": "JE SUIS AFRIQUE" },
 
 { "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
 
@@ -179,8 +153,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "title": "SENTINELLE TV"
  },  
 
-{ "description": "Gospel Live HD International, la chaine chrétienne a pour but de faire la promotion des artistes chretiensainsi que la musique gospel universel", "sources": [ "https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8" ], "number": "100", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE0MzY0MTlf/gospelLiveHD.png", "title": "GOSPEL LIVE HD" }, 
-
  {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
@@ -202,22 +174,13 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" },  
 
- {
-     "description": "✨ EJC TV – Vivez votre télé intensément depuis Kinshasa ! ✨.    Plongez dans un univers télévisuel où chaque programme vous touche, vous inspire et transforme votre quotidien. EJC TV, diffusée depuis Kinshasa, vous offre le meilleur du divertissement, de l’information, de la culture et de la spiritualité, pour que chaque instant devant votre écran soit riche, intense et mémorable. 🎬 Émotions, inspiration et savoir : des émissions captivantes, des débats passionnants et des histoires qui élèvent l’esprit. 📺 Pour toute la famille : contenu adapté à tous, pour petits et grands, afin de partager des moments inoubliables ensemble. 🙏 Une télé qui élève : des programmes qui nourrissent l’âme et renforcent vos valeurs. Avec EJC TV  Kinshasa, ne regardez plus la télévision… mais vivez-la intensément !",
-          "sources": [
-            "https://stream.berosat.live:19360/ejc-tv/ejc-tv.m3u8"
-          ],
-	  "number": "525",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODUwMzMyNjhf/ejctv.jpg",
-          "title": "EJC TV"
- },
-
-{ "description": "Famille Genese télévision est une chaîne chrétienne généraliste émettant dans la ville de Kinshasa en RDC. Notre Vision est : DELIVRANCE ET RESTORATION DE FAMILLE, Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l'Evangile  à travers sa differente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s'informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/famille-genese/famille-genese.m3u8" ], "number": "77", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png", "title": "FAMILLE GENESSE"},
-
 { "description": "Canal C Junior la télé congolaise des enfants. Canal C Junior est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre", "sources": [ "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8" ], "number": "66", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg", "title": "CANAL-C JUNIOR"},
 
-{ "description": "Hewa télévision, TÉLÉVISION, une chaine generaliste culturelle emettant depuis la ville de Lubumbashi", "sources": [ "https://stream.berosat.live:19360/hewa-tv/hewa-tv.m3u8" ], "number": "392", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUzNDExMjZf/hewatv.jpg", "title": "HEWA TV" }, 
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, 
+
+{"description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8"], "number": "62", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg","title": "CHARVIN TV"},
+
+{ "description": "Kabasele Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/kabasele-tv/kabasele-tv.m3u8" ], "number": "413", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1NjA3OTVf/kabaseletv.jpg", "title": "KABASELE TV" },
 
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" }] } ] }
 
@@ -231,7 +194,42 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 
+{ "description": "Je Suis Afrique télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/suis-afrique/suis-afrique.m3u8" ], "number": "523", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ5NTExNzVf/afriquejesuistv.jpg", "title": "JE SUIS AFRIQUE" },
 
+{ "description": "Gospel Live HD International, la chaine chrétienne a pour but de faire la promotion des artistes chretiensainsi que la musique gospel universel", "sources": [ "https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8" ], "number": "100", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE0MzY0MTlf/gospelLiveHD.png", "title": "GOSPEL LIVE HD" }, 
+
+ {
+     "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+	  "number": "85",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "title": "S-MEDIAS TV 3"
+},
+
+{ "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines", "sources": [ "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8" ], "number": "80", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg", "title": "CINEAC TV" },
+
+ {
+     "description": "✨ EJC TV – Vivez votre télé intensément depuis Kinshasa ! ✨.    Plongez dans un univers télévisuel où chaque programme vous touche, vous inspire et transforme votre quotidien. EJC TV, diffusée depuis Kinshasa, vous offre le meilleur du divertissement, de l’information, de la culture et de la spiritualité, pour que chaque instant devant votre écran soit riche, intense et mémorable. 🎬 Émotions, inspiration et savoir : des émissions captivantes, des débats passionnants et des histoires qui élèvent l’esprit. 📺 Pour toute la famille : contenu adapté à tous, pour petits et grands, afin de partager des moments inoubliables ensemble. 🙏 Une télé qui élève : des programmes qui nourrissent l’âme et renforcent vos valeurs. Avec EJC TV  Kinshasa, ne regardez plus la télévision… mais vivez-la intensément !",
+          "sources": [
+            "https://stream.berosat.live:19360/ejc-tv/ejc-tv.m3u8"
+          ],
+	  "number": "525",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODUwMzMyNjhf/ejctv.jpg",
+          "title": "EJC TV"
+ },
+
+{ "description": "Famille Genese télévision est une chaîne chrétienne généraliste émettant dans la ville de Kinshasa en RDC. Notre Vision est : DELIVRANCE ET RESTORATION DE FAMILLE, Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l'Evangile  à travers sa differente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s'informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/famille-genese/famille-genese.m3u8" ], "number": "77", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png", "title": "FAMILLE GENESSE"},
+
+{"description":"Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise","sources":["https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"], "number": "491", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg","title":"GG TV"},
+
+{ "description": "Hewa télévision, TÉLÉVISION, une chaine generaliste culturelle emettant depuis la ville de Lubumbashi", "sources": [ "https://stream.berosat.live:19360/hewa-tv/hewa-tv.m3u8" ], "number": "392", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUzNDExMjZf/hewatv.jpg", "title": "HEWA TV" }, 
+
+{ "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
+Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUzNDAzNzRf/barakatv.jpg", "title": "BARAKA TV" }, 
 
 {"description": "One Way television est une Chaine généraliste émettent depuis Kinshasa en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/one-way/one-way.m3u8"], "number": "543", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODUyODcyODZf/onewaytv.jpg","title": "ONE WAY TV"}, 
 
