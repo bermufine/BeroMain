@@ -3,7 +3,18 @@
 
 { "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
 
-{ "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "number": "51", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
+ { "description": "Djembe television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8" ], "number": "536", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMzk3OThf/djembe.jpg", "title": "DJEMBE TV" },
+
+{
+     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "title": "JSN TV"
+},
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg", "title": "FINESSE MONDE TV"}, 
 
@@ -17,8 +28,6 @@
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg", "title": "DER-TV" },  
 
-{ "description": "CEBS television est une Chaine généraliste émettent depuis Kinshasa en Republique Democratique du Congo, CEBS, La passion de l'education", "sources": [ "https://stream.berosat.live:19360/cebs-tv/cebs-tv.m3u8" ], "number": "482", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMjE0NDlf/cebstv.jpg", "title": "CEBS TV"},
-
 {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
@@ -29,19 +38,6 @@
           "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
           "title": "HORIZON 2000 TV"
  },
-
- { "description": "Djembe television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8" ], "number": "536", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMzk3OThf/djembe.jpg", "title": "DJEMBE TV" },
-
-{
-     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
-          "title": "JSN TV"
-},
 
 { "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
@@ -64,6 +60,8 @@
 { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
 {"description": "C.E.P.P.A television  est une chaîne chretienne, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.","sources":["https://stream.berosat.live:19360/ceppa-tv/ceppa-tv.m3u8"], "number": "76", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODU1MTEzNzdf/ceppatv.jpg","title": "CEPPA TV"},
+
+{ "description": "La Voie dela Verite Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
 
 { "description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!", "sources": [ "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8" ], "number": "78", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg", "title": "BILILI TV" },
 
@@ -90,8 +88,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
-
-{ "description": "La Voie dela Verite Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU1NzAyMThf/lavoieverite.jpg", "title": "VOIE DE VERITE" },
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
@@ -183,7 +179,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sources": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "number": "110", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "title": "GTV 1" }, 
 
-{ "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" },  
+{ "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
+
+{ "description": "CEBS television est une Chaine généraliste émettent depuis Kinshasa en Republique Democratique du Congo, CEBS, La passion de l'education", "sources": [ "https://stream.berosat.live:19360/cebs-tv/cebs-tv.m3u8" ], "number": "482", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMjE0NDlf/cebstv.jpg", "title": "CEBS TV"},
+
+{ "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "number": "51", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" }, 
 
 { "description": "Canal C Junior la télé congolaise des enfants. Canal C Junior est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre", "sources": [ "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8" ], "number": "66", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg", "title": "CANAL-C JUNIOR"},
 
