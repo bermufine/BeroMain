@@ -107,6 +107,12 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
 
+{ "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
+
+{ "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8" ], "number": "488", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg", "title": "DIESKOLUS TV" },
+
+{"description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8"], "number": "62", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg","title": "CHARVIN TV"},
+
 { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
 
 {"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg","title":"MEMJS TV"},
@@ -189,19 +195,13 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Masolo television est une chaîne privee en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8" ], "number": "490", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjMyNTNf/masolotv.jpg", "title": "MASOLO TV" },
 
-{ "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8" ], "number": "488", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg", "title": "DIESKOLUS TV" },
-
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
 
 { "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
 
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, 
 
-{"description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8"], "number": "62", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg","title": "CHARVIN TV"},
-
-{ "description": "Kabasele Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/kabasele-tv/kabasele-tv.m3u8" ], "number": "413", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1NjA3OTVf/kabaseletv.jpg", "title": "KABASELE TV" },
-
-{ "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" }] } ] }
+{ "description": "Kabasele Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/kabasele-tv/kabasele-tv.m3u8" ], "number": "413", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1NjA3OTVf/kabaseletv.jpg", "title": "KABASELE TV" }] } ] }
 
 
 
