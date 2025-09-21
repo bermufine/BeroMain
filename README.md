@@ -24,6 +24,17 @@
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
 
+{
+     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "title": "FM TV"
+},
+
 {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"}, 
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg", "title": "DER-TV" },  
