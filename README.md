@@ -203,11 +203,22 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "sources": [
             "http://37.187.138.41:80/Sentinelle/index.m3u8"
           ],
-	  "number": "98",
+	  	  "number": "98",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
           "title": "SENTINELLE TV"
- },  
+	},
+
+ {
+          "description": "Vengeance Télévision est la Chaîne Mystique.",
+          "sources": [
+	  "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "623",
+          "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
+          "title": "VENGEANCE TV"
+        },
 
  {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
@@ -493,15 +504,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {"description":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","sources":["http://51.254.199.122:8080/Mcrtv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","title":"MRC TV "}, 
 
- {
-          "description": "Vengeance Télévision est la Chaîne Mystique.",
-          "sources": [
-	  "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
-          "title": "VENGEANCE TV"
-        }
 	
 { "description": "Kongo Kimbangu Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/kongo-kimbangu/kongo-kimbangu.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzkyMjE5MzFf/kongokimbangu.jpg", "title": "KONGO KIMBANGU" }, 
 
@@ -603,15 +605,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KIN FRANCE TV"
         },
 	{"description":"Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire. Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et africaine, se veut le miroir des populations du continent. Engagée et citoyenne, elle a pour vocation de contribuer à l’éducation des populations, d’impacter positivement la société congolaise et africaine, et de contribuer à la transformation des mentalités. Beb fm s'impose sur le marché comme « la reine du contenu local ». Notre identité : Une chaîne de Radio congolaise décomplexée, originale et positive. Beb fm propose une nouvelle expérience audiovisuelle aux téléspectateurs africains :la télévision sans filtre Une chaîne qui donne la possibilité à son public de parler librement, sans censure et sans tabou. Beb fm entend mettre, au cœur de sa démarche, des sujets qui concernent les populations, qui leur tiennent à cœur, et les traiter sans compromis ni compromission Le positionnement de la chaîne s’articule autour des mots-clés suivants : vraie, positive, engagée, moderne, connectée, drôle, populaire, originale, interactive.","sources":["https://stream.berosat.live:19360/beb-tv/beb-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BEB TV"},
- 		{
-          "description": "Vengeance Télévision est la Chaîne Mystique.",
-          "sources": [
-	  "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
-          "title": "VENGEANCE TV"
-        },
+ 		
 	
 	{
 
