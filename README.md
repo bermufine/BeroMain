@@ -94,7 +94,7 @@
 },
 { "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8" ], "number": "488", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg", "title": "DIESKOLUS TV" },
 
-{ "description": "Soule Ebengo Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/soule-tv/soule-tv.m3u8" ], "number": "613", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU5Mzc5MjRf/souleEbongo.jpg", "title": "SOULE-EBONGO" }
+{ "description": "Soule Ebengo Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/soule-tv/soule-tv.m3u8" ], "number": "613", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU5Mzc5MjRf/souleEbongo.jpg", "title": "SOULE-EBONGO" },
 
 {
      "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
@@ -180,8 +180,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "number": "70", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }, 
 
-{ "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "number": "90", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIxNDcyOTZf/mkv.jpg", "title": "MKV-TV" },
-
 {
      "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
           "sources": [
@@ -243,6 +241,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
 { "description": "CEBS television est une Chaine généraliste émettent depuis Kinshasa en Republique Democratique du Congo, CEBS, La passion de l'education", "sources": [ "https://stream.berosat.live:19360/cebs-tv/cebs-tv.m3u8" ], "number": "482", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUyMjE0NDlf/cebstv.jpg", "title": "CEBS TV"},
+
+{ "description": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "number": "90", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIxNDcyOTZf/mkv.jpg", "title": "MKV-TV" },
 
 { "description": "Canal C Junior la télé congolaise des enfants. Canal C Junior est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre", "sources": [ "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8" ], "number": "66", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg", "title": "CANAL-C JUNIOR"},
 
