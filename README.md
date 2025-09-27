@@ -93,6 +93,8 @@
           "title": "S-MEDIAS TV 3"
 },
 
+{"description":"Wibover Télévision est une chaîne generaliste Émettant en Republique Democratique du Congo.","sources":["https://stream.berosat.live:19360/wibover-tv/wibover-tv.m3u8"], "number": "691", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODYxMDExNjBf/wibovertv.jpg","title":"WIBOVER TV"},
+
 {
      "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
           "sources": [
