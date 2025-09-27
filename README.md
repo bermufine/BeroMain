@@ -210,17 +210,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 	},
 
  {
-          "description": "Vengeance Télévision est la Chaîne Mystique.",
-          "sources": [
-	  "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-		  "number": "623",
-          "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
-          "title": "VENGEANCE TV"
-  },
-
- {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
             "https://terranoweb.duckdns.org/live/Evtele/index.m3u8"
@@ -241,15 +230,15 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
-{ "description": "Canal C Junior la télé congolaise des enfants. Canal C Junior est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre", "sources": [ "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8" ], "number": "66", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg", "title": "CANAL-C JUNIOR"},
-
 { "description": "Masolo television est une chaîne privee en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8" ], "number": "490", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjMyNTNf/masolotv.jpg", "title": "MASOLO TV" },
 
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
 
+{ "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
+
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, 
 
-{ "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" }] } ] }
+{ "description": "Canal C Junior la télé congolaise des enfants. Canal C Junior est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre", "sources": [ "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8" ], "number": "66", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg", "title": "CANAL-C JUNIOR"}] } ] }
 
 
 
@@ -273,6 +262,17 @@ http://69.64.57.208/rtnc/playlist.m3u8
 
 
 { "description": "Kabasele Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/kabasele-tv/kabasele-tv.m3u8" ], "number": "413", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1NjA3OTVf/kabaseletv.jpg", "title": "KABASELE TV" },
+
+ {
+          "description": "Vengeance Télévision est la Chaîne Mystique.",
+          "sources": [
+	  "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "623",
+          "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
+          "title": "VENGEANCE TV"
+  },
 
 {
      "description": "Radio Television La Reference, Une Chaîne Commerciale émettant depuis la Ville de Lubumbashi dans la province du Haut-Katanga.",
