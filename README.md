@@ -119,6 +119,17 @@
 },
 
 {
+     "description": "Bosenga Ya Peuple télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
+          "sources": [
+            "https://stream.berosat.live:19360/bosenga-tv/bosenga-tv.m3u8"
+          ],
+	  "number": "625",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODYxNzM0MDhf/bosengaPeuple.jpg",
+          "title": "BOSENGA YA PEUPLE"
+ },
+
+{
      "description": "🎥 GUILD TV  – Plus qu’une télévision, c’est votre espace d’expression, de découverte et de connexion.
 GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l’information, le divertissement et l’innovation. Accessible partout et pour tous, elle offre une programmation riche et variée qui valorise les talents, stimule le débat constructif et rapproche les communautés. Avec une diffusion en haute définition 24h/24 et 7j/7, GUILD TV  se veut une véritable plateforme d’échange, de partage et d’inspiration pour les jeunes, les entrepreneurs, les artistes et toutes celles et ceux qui souhaitent s’informer, se divertir et s’exprimer librement. ✨ GUILD TV, La télé qui vous connecte à l’essentiel.🎥 GUILD TV  – Plus qu’une télévision, c’est votre espace d’expression, de découverte et de connexion.
 GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l’information, le divertissement et l’innovation. Accessible partout et pour tous, elle offre une programmation riche et variée qui valorise les talents, stimule le débat constructif et rapproche les communautés. Avec une diffusion en haute définition 24h/24 et 7j/7, GUILD TV  se veut une véritable plateforme d’échange, de partage et d’inspiration pour les jeunes, les entrepreneurs, les artistes et toutes celles et ceux qui souhaitent s’informer, se divertir et s’exprimer librement. ✨ GUILD TV, La télé qui vous connecte à l’essentiel.",
@@ -167,6 +178,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 {"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg","title":"MEMJS TV"},
 
 { "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!", "sources": [ "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8" ], "number": "484", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg", "title": "MBALIOSOMBO TV" },
+
+ { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://live-onetv.eu:5866/hls/Clive1.m3u8" ], "number": "105", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
 
 {
      "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
@@ -223,8 +236,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
         },
 
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "104", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
-
- { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8" ], "number": "105", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
   
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
 
