@@ -74,9 +74,7 @@
 { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
 { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
-Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUzNDAzNzRf/barakatv.jpg", "title": "BARAKA TV" }, 
-
-{"description": "One Way television, une Voie  Unique vers l’Avenir Durable.  Nous émettenons depuis Kinshasa en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/one-way/one-way.m3u8"], "number": "543", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODU4ODg1NjJf/Onewtv.jpg","title": "ONE WAY TV"}, 
+Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUzNDAzNzRf/barakatv.jpg", "title": "BARAKA TV" },  
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"},
 
@@ -125,6 +123,10 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfODU5ODM5MDVf/onmceitv.jpg",
           "title": "ONMCI TV"
 },
+
+{ "description": "Machine Record television est une Chaine généraliste culturelle émettent depuis Kinshasa en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/machine-record/machine-record.m3u8" ], "number": "482", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg", "title": "MACHINE RECORD TV"},
+
+{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
 
 {
      "description": "Bosenga Ya Peuple télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
@@ -183,15 +185,9 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 {"description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.", "sources":["https://stream.berosat.live:19360/pourim-tv/pourim-tv.m3u8"], "number": "75", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title": "POURIM-RTV"}, 
 
-{ "description": "Machine Record television est une Chaine généraliste culturelle émettent depuis Kinshasa en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/machine-record/machine-record.m3u8" ], "number": "482", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg", "title": "MACHINE RECORD TV"},
-
-{"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
-
 {"description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8"], "number": "62", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg","title": "CHARVIN TV"},
 
 {"description":"MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames","sources":["https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"], "number": "480", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg","title":"MEMJS TV"},
-
-{ "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!", "sources": [ "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8" ], "number": "484", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg", "title": "MBALIOSOMBO TV" },
 
  { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://live-onetv.eu:5866/hls/Clive1.m3u8" ], "number": "105", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
 
@@ -207,8 +203,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
  },
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "number": "70", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }, 
-
-{ "description": "Soule Ebengo Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/soule-tv/soule-tv.m3u8" ], "number": "613", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU5Mzc5MjRf/souleEbongo.jpg", "title": "SOULE TV" },
 
 {
      "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
@@ -249,6 +243,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "title": "EV TELE"
         },
 
+{ "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!", "sources": [ "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8" ], "number": "484", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg", "title": "MBALIOSOMBO TV" },
+
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "104", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
   
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
@@ -278,6 +274,10 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 http://69.64.57.208/rtnc/playlist.m3u8
 
 { "description": "Maboke TV est une chaîne d'Entertaiment pour promouvoir le cinema Congolais, Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/maboketv-index/maboketv-index.m3u8" ], "number": "526", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODYwMDkyOTdf/maboketv.jpg", "title": "MABOKE TV" },
+
+{ "description": "Soule Ebengo Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/soule-tv/soule-tv.m3u8" ], "number": "613", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU5Mzc5MjRf/souleEbongo.jpg", "title": "SOULE TV" },
+
+{"description": "One Way television, une Voie  Unique vers l’Avenir Durable.  Nous émettenons depuis Kinshasa en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/one-way/one-way.m3u8"], "number": "543", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODU4ODg1NjJf/Onewtv.jpg","title": "ONE WAY TV"},
 
 { "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg", "title": "COP TELEVISION" }
 
