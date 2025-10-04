@@ -83,6 +83,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
+{ "description": "Soule Ebengo Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/soule-tv/soule-tv.m3u8" ], "number": "613", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU5Mzc5MjRf/souleEbongo.jpg", "title": "SOULE TV" },
+
  {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -280,7 +282,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
 
 {"description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8"], "number": "62", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg","title": "CHARVIN TV"},
 
-{ "description": "Soule Ebengo Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/soule-tv/soule-tv.m3u8" ], "number": "613", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU5Mzc5MjRf/souleEbongo.jpg", "title": "SOULE TV" },
+
 
 {"description": "One Way television, une Voie  Unique vers l’Avenir Durable.  Nous émettenons depuis Kinshasa en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/one-way/one-way.m3u8"], "number": "543", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODU4ODg1NjJf/Onewtv.jpg","title": "ONE WAY TV"},
 
