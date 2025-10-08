@@ -27,6 +27,21 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
 
+{ "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
+
+{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
+
+ {
+      "description": "WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/wangu-index/wangu-index.m3u8"
+          ],
+	  "number": "57",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg",
+          "title": "WANGU TV HD"
+ },
+
 {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
@@ -53,21 +68,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
           "title": "BLUESKY TV"
- },
-
-{ "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
-
-{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
-
- {
-      "description": "WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live:19360/wangu-index/wangu-index.m3u8"
-          ],
-	  "number": "57",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg",
-          "title": "WANGU TV HD"
  },
 
 { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png", "title": "RL PRO TV" },
@@ -151,14 +151,14 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
  {
-     "description": "B-Fro Vision télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
+     "description": "Best Pro Vision télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
           "sources": [
             "https://stream.berosat.live:19360/fro-vision/fro-vision.m3u8"
           ],
 	  "number": "725",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODY2MTYxNTlf/bfrovision.jpg",
-          "title": "B-FRO VISION TV"
+          "title": "BEST PRO VISION"
  },
 
 {
