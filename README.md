@@ -60,6 +60,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "La Voie dela Verite Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
 
 {
+     "description": "Radio communautaire mpiluka kipundu Télévision , est une chaîne generaliste caummunautaire qui émettant a PUETO en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/rcmk-tv/rcmk-tv.m3u8"
+          ],
+	  "number": "893",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODY2NzIwNzJf/rcmktv.jpg",
+          "title": "PUETO TV"
+},
+
+{
      "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
           "sources": [
             "https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"
@@ -153,7 +164,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "Best Pro Vision télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
           "sources": [
-            "https://stream.berosat.live:19360/fro-vision/fro-vision.m3u8"
+            "https://stream.berosat.live:19360/pro-vision/pro-vision.m3u8"
           ],
 	  "number": "725",
           "subtitle": "All Channels",
