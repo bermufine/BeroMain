@@ -27,6 +27,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}, 
 
+{ "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
+
 { "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
@@ -42,17 +44,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "WANGU TV HD"
  },
 
-{
-     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
-          "title": "FM TV"
-},
-
 {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"}, 
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg", "title": "DER-TV" }, 
@@ -67,7 +58,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 	  "number": "893",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODY2NzIwNzJf/rcmktv.jpg",
-          "title": "PUETO TV"
+          "title": "RCMK TV"
 },
 
 {
@@ -82,8 +73,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png", "title": "RL PRO TV" },
-
-{ "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"},
 
@@ -100,6 +89,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!", "sources": [ "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8" ], "number": "78", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg", "title": "BILILI TV" },
 
 {"description":"Top Model G.M Télévision est une chaîne generaliste Culturelle Émettant en Republique Democratique du Congo.","sources":["https://stream.berosat.live:19360/top-model/top-model.m3u8"], "number": "491", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODU1MTgzMDJf/topModel.jpg","title":"TOP MODEL TV"},
+
+{
+     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "title": "FM TV"
+},
 
 { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
