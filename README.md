@@ -137,17 +137,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
 
- {
-     "description": "SCA télévision est une chaine generaliste d'Education et de formation chretienne emettant depuis la ville de Kinshasa !!!",
-          "sources": [
-            "https://stream.berosat.live:19360/scar-tv/scar-tv.m3u8"
-          ],
-	  "number": "625",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODY0MzM4MzBf/scatv.jpg",
-          "title": "SCA TELEVISION"
- },
-
 { "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
 {
@@ -157,7 +146,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "625",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODYxNzM0MDhf/bosengaPeuple.jpg",
+          "thumb": "https://od.lk/s/NDZfODY2MzI5Mzdf/bosengatv.jpg",
           "title": "BOSENGA YA PEUPLE"
  },
 
@@ -179,7 +168,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "825",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODY2NDI3NjFf/decheznoustv.jpg",
+          "thumb": "https://od.lk/s/NDZfODY3MzA5MjRf/cheznoustv.jpg",
           "title": "DE CHEZ NOUS TV"
  },
 
@@ -311,8 +300,6 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg", "title": "LES ERUDITS TV" },
 
-{ "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
-
  {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
@@ -338,6 +325,18 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 
 http://69.64.57.208/rtnc/playlist.m3u8
+
+{ "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
+ {
+     "description": "SCA télévision est une chaine generaliste d'Education et de formation chretienne emettant depuis la ville de Kinshasa !!!",
+          "sources": [
+            "https://stream.berosat.live:19360/scar-tv/scar-tv.m3u8"
+          ],
+	  "number": "625",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODY0MzM4MzBf/scatv.jpg",
+          "title": "SCA TELEVISION"
+ },
 
 { "description": "Maboke TV est une chaîne d'Entertaiment pour promouvoir le cinema Congolais, Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/maboketv-index/maboketv-index.m3u8" ], "number": "526", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODYwMDkyOTdf/maboketv.jpg", "title": "MABOKE TV" },
 
