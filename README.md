@@ -21,6 +21,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8" ], "number": "488", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg", "title": "DIESKOLUS TV" },
 
+ { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtnc3/playlist.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg", "title": "RTNC 3" },
+
 { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
 {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
@@ -76,6 +78,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"},
 
+{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live:19360/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" },
+
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
 { "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8" ], "number": "51", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg", "title": "CBC TV" },
@@ -85,6 +89,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
 { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODY1Mjg1NDFf/chtvhd.jpg", "title": "CH TV HD" },
+
+{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
 { "description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!", "sources": [ "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8" ], "number": "78", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg", "title": "BILILI TV" },
 
@@ -133,7 +139,20 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "ONMCI TV"
 },
 
+{ "description": "Wazi Wazi Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/wazi-index/wazi-index.m3u8" ], "number": "489", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MDE0MzJf/wazi.jpg", "title": "WAZI-WAZI TV" },
+
 { "description": "Machine Record television est une Chaine généraliste culturelle émettent depuis Kinshasa en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/machine-record/machine-record.m3u8" ], "number": "482", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg", "title": "MACHINE RECORD TV"},
+
+ {
+     "description": "B-one tv est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/b-one/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "745",
+          "thumb": "https://od.lk/s/NDZfODY3NTI2NDZf/b-one.jpg",
+          "title": "B-ONE TV"
+    },
 
 {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"}, 
 
@@ -199,14 +218,34 @@ CONTACTS: +2250788422056/0596455112",
 
 { "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com", "sources": [ "http://livestream.kgsols.com/push/KeurN/playlist.m3u8" ], "number": "67", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg", "title": "KEUR NDANANE TV"}, 
 
+ {
+     "description": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtga/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "743",
+          "thumb": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg",
+          "title": "RTGA"
+ },
+
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
 
-{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
-
 { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
+
+ {
+     "description": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/tvs1/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "744",
+          "thumb": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
+          "title": "RTVS 1"
+   },
 
 { "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg", "title": "JDK TV" },
 
@@ -233,7 +272,42 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "number": "70", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }, 
 
+ {
+     "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/kin24/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "742",
+          "thumb": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg",
+          "title": "KIN24 TV"
+ },
+
+  {
+     "description": "Canal Chemin de la Verité Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/cvvtv/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "742",
+          "thumb": "https://od.lk/s/NDZfODY3NTI2NThf/cvvtv.jpg",
+          "title": "CVV TV"
+ },
+
+ { "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "sources": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "number": "91", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "title": "GOSPEL CHANNEL" },
+
 {
+     "description": "Digital Congo tv est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/dcc/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "746",
+          "thumb": "https://od.lk/s/NDZfODY3NTI2Njlf/digitalcongo.jpg",
+          "title": "DIGITAL CONGO"
+ },
+
+   {
      "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
           "sources": [
             "https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"
@@ -245,12 +319,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
  },
 
 { "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
-
-{ "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "sources": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "number": "91", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "title": "GOSPEL CHANNEL" },
  
 { "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
-
-{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live:19360/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" },
 
   {
       "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
@@ -285,6 +355,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
 { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
 { "description": "Masolo television est une chaîne privee en Republique Democratique du Congo", "sources": [ "https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8" ], "number": "490", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjMyNTNf/masolotv.jpg", "title": "MASOLO TV" },
+
+ { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtnc1/playlist.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC TV" },
 
 { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
 
@@ -439,7 +511,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
 
 { "description": "Radio Télévision Voxkongo.cd est une plateforme novatrice de diffusion en ligne, établie au cœur de l'Afrique centrale, dans la ville de Lubumbashi en République Démocratique du Congo. Elle s'engage à promouvoir la culture, le sport et les enjeux politiques mondiaux. En tant que porte-parole de la région, Radio Voxkongo s'emploie à créer des liens entre les communautés en partageant des récits, des analyses et des perspectives uniques", "sources": [ "https://stream.berosat.live:19360/voxkongo-tv/voxkongo-tv.m3u8" ], "number": "485", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMTM2MzVf/voxkongotv.jpg", "title": "VOX-KONGO TV" },
 
-{ "description": "Wazi Wazi Télévision est une chaîne politique qui émet depuis lubumbashi en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/wazi-index/wazi-index.m3u8" ], "number": "489", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MDE0MzJf/wazi.jpg", "title": "WAZI-WAZI TV" },
+
 
 {"description":"Bienvenue sur MANSEBA TÉLÉVISION, votre référence en matière de divertissement congolais et africain ! Notre chaîne est consacrée à la musique générale, à la culture, aux séries et au théâtre, avec des contenus riches, variés et accessibles à tous. Notre mission est de valoriser la culture congolaise  en mettant en lumière les talents émergents et en accompagnant les artistes établis. Nous bâtissons un lien fort entre tradition et modernité, entre local et international. MANSEBA TÉLÉVISION, LE MEILLEUR DU DIVERTISSEMENT","sources":["https://stream.berosat.live:19360/manseba-tv/manseba-tv.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQwMzk4MDlf/mansebatv.jpg","title":"MANSEBA TV"},
 
@@ -457,8 +529,6 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "thumb": "https://od.lk/s/NDZfODE3ODQyOTlf/newImageTV.jpg",
           "title": "NEW IMAGE TV"
  },
-
- {"description":"Bluesky Radio télévision est une chaine généraliste  qui diffusent  des émissions culturelle et éducatives  en République démocratique du Congo dans ville de Lubumbashi","sources":["https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"], "number": "481", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQyOTE5MDVf/bluesky.png","title":"BLUESKY TV"},
 
 {"description":"Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde.","sources":["https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8"], "number": "79", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODIyMzU3NTFf/console24hd.jpg","title":"CONSOLE 24 TV"},
 
@@ -519,34 +589,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
  { "description": "Hexagone Television est une chaîne generaliste en charactere culturelle émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/hexagone-tv/hexagone-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3NzM2MzVf/hexagone.jpg", "title": "HEXAGONE TV" },
  
 { "description": "Infoslight television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/infolight-tv/infolight-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODMxMTcyMjJf/infolighttv.jpg", "title": "INFOSLIGHT-TV" },
- {
-     "description": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "http://51.254.199.122:8080/kin24/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg",
-          "title": "KIN24 TV"
- },
 
- {
-     "description": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "http://51.254.199.122:8080/RTGA/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg",
-          "title": "RTGA"
- },
- {
-     "description": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "http://51.254.199.122:8080/RTVS1/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
-          "title": "RTVS 1"
-        },
 { "description": "Radio Television Masonga est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg", "title": "RTM" },
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://51.254.199.122:8080/rtnc1/index.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 { "description": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "title": "MALEBO MOVIES TV" },
