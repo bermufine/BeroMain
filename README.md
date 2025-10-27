@@ -236,7 +236,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
  {
      "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
-            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
+            "https://stream.berosat.live:19360/tele50-tv/tele50-tv.m3u8"
           ],
           "subtitle": "All Channels",
 		  "number": "794",
