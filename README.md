@@ -113,6 +113,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KMK TV"
 },
 
+{
+     "description": "CONSOLE 24 télévision nous somme une chaîne communautaire qui promouvoir plusieurs activités les artistes les églises l'éducation nous somme à Lubumbashi.",
+          "sources": [
+            "https://stream.berosat.live:19360/console-index/console-index.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODc1MDgxMzNf/consoletv.jpg",
+          "title": "CONSOLE TV"
+},
+
 { "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
  {
