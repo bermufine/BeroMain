@@ -269,6 +269,8 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "title": "BOSENGA YA PEUPLE"
  }, 
 
+ { "description": "Hannabih Télévision est la Première chaîne panafricaniste", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
+
   {
       "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
           "sources": [
@@ -444,7 +446,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
 
 { "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/reunion-tv/reunion-tv.m3u8" ], "number": "87", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png", "title": "LA REUNION TV"}, 
 
-{ "description": "Hannabih Télévision est la Première chaîne panafricaniste", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" }, 
+
 
 { "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8" ], "number": "493", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg", "title": "LOTOMBO TV" },
  {
