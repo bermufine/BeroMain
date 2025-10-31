@@ -112,16 +112,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "RTV SEP"
  },
 {
-     "description": "Plume télévision, est une chaîne génelisations emettantdepuis Kinshasa, Nous sommes sur TNT Nationale et Bluesat canal 36, Frequence 594 MHZ.",
-          "sources": [
-            "https://stream.berosat.live:19360/plume-index/plume-index.m3u8"
-          ],
-	  "number": "693",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc2NjE2OTBf/plume.jpg",
-          "title": "PLUME TV"
-},
-{
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
             "https://stream.berosat.live:19360/kmk-index/kmk-index.m3u8"
@@ -145,6 +135,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "CONSOLE TV"
  },
  { "description": "Soule Ebengo Télévision est une chaîne generaliste qui émet depuis la ville de kinshasa en Republique Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/ebengo-tv/ebengo-tv.m3u8" ], "number": "613", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU5Mzc5MjRf/souleEbongo.jpg", "title": "SOULE EBENGO" },
+
+ {
+     "description": "Plume télévision, est une chaîne généraliste  emettant depuis Kinshasa, Nous sommes sur TNT Nationale et Bluesat canal 36, Frequence 594 MHZ.",
+          "sources": [
+            "https://stream.berosat.live:19360/plume-index/plume-index.m3u8"
+          ],
+	  "number": "693",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODc2NjE2OTBf/plume.jpg",
+          "title": "PLUME TV"
+},
  
  {
       "description": "Afrika Telema TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....",
@@ -292,7 +293,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  {
      "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/tele50-tv/tele50-tv.m3u8"
+            "https://stream.berosat.live:19360/tele50-index/tele50-index.m3u8"
           ],
           "subtitle": "All Channels",
 		  "number": "794",
