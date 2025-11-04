@@ -305,17 +305,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 { "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/best-tv/best-tv.m3u8" ], "number": "468", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg", "title": "ROI THE BEST" },
 
 {
-     "description": "Haut-Parleur tv, est une chaîne géneraliste emettant en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/hp-index/hp-index.m3u8"
-          ],
-	  "number": "6393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc3NTk5NjFf/hautparleur.jpg",
-          "title": "HAUT-PARLEUR"
-},
-
-{
      "description": "Bosenga Ya Peuple télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
           "sources": [
             "https://stream.berosat.live:19360/bosenga-tv/bosenga-tv.m3u8"
@@ -356,17 +345,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "BEST PRO VISION"
  },
 
-  {
-     "description": "Plume télévision, est une chaîne généraliste  emettant depuis Kinshasa, Nous sommes sur TNT Nationale et Bluesat canal 36, Frequence 594 MHZ.",
-          "sources": [
-            "https://stream.berosat.live:19360/plume-index/plume-index.m3u8"
-          ],
-	  "number": "693",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc2NjE2OTBf/plume.jpg",
-          "title": "PLUME TV"
-},
-
 { "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
  {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"}
@@ -393,6 +371,26 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODc3NTk5NzBf/originaltv.jpg",
           "title": "ORIGINAL TV"
+},
+  {
+     "description": "Plume télévision, est une chaîne généraliste  emettant depuis Kinshasa, Nous sommes sur TNT Nationale et Bluesat canal 36, Frequence 594 MHZ.",
+          "sources": [
+            "https://stream.berosat.live:19360/plume-index/plume-index.m3u8"
+          ],
+	  "number": "693",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODc2NjE2OTBf/plume.jpg",
+          "title": "PLUME TV"
+},
+{
+     "description": "Haut-Parleur tv, est une chaîne géneraliste emettant en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/hp-index/hp-index.m3u8"
+          ],
+	  "number": "6393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODc3NTk5NjFf/hautparleur.jpg",
+          "title": "HAUT-PARLEUR"
 },
 
 { "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sources": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "number": "110", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "title": "GTV 1" }, 
