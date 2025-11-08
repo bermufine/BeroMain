@@ -163,7 +163,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
       "description": "Afrika Telema TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....",
           "sources": [
-            "https://stream.berosat.live:19360/afrika-hd/afrika-hd.m3u8"
+            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
           ],
 	  "number": "657",
           "subtitle": "All Channels",
