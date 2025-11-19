@@ -157,12 +157,12 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
   {
      "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
           "sources": [
-            "https://stream.berosat.live:19360/chez-nous/chez-nous.m3u8"
+            "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
           ],
 	  "number": "825",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODY3MzA5MjRf/cheznoustv.jpg",
-          "title": "DE CHEZ NOUS TV"
+          "title": "DE CHEZ NOUS"
  },
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
