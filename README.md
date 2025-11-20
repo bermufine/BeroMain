@@ -100,7 +100,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "000",
           "subtitle": "All Channels",
-          "thumb": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+          "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
           "title": "RLPRO HD"
  }, 
 
