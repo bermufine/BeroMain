@@ -93,8 +93,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
           "title": "COMING SOON"
  }, 
+ {
+      "description": "Coming Soon 2",
+          "sources": [
+            "https://tv.berosat.live:19360/rlpro-index/rlpro-index.m3u8"
+          ],
+	  "number": "000",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
+          "title": "COMING SOON 2"
+ }, 
 
-  {
+ {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
