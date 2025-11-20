@@ -24,17 +24,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
- {
-      "description": "WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne emattant depuis la ville de kolwezi en Republique Democratique du Congo....",
-          "sources": [
-            "https://stream.berosat.live:19360/wangu-index/wangu-index.m3u8"
-          ],
-	  "number": "57",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg",
-          "title": "WANGU TV HD"
- }, 
-
 { "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
@@ -93,6 +82,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfODc3NzAwNDBf/septv.jpg",
           "title": "RTV SEP"
  },
+
+  {
+      "description": "Coming Soon.",
+          "sources": [
+            "https://tv.berosat.live:19360/gaulois-tv/gaulois-tv.m3u8"
+          ],
+	  "number": "000",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
+          "title": "COMING SOON"
+ }, 
 
   {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
@@ -265,6 +265,16 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
           "title": "LIGHT ECO TV"
  },
+  {
+      "description": "WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne emattant depuis la ville de kolwezi en Republique Democratique du Congo....",
+          "sources": [
+            "https://stream.berosat.live:19360/wangu-index/wangu-index.m3u8"
+          ],
+	  "number": "57",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg",
+          "title": "WANGU TV HD"
+ }, 
  {
      "description": "🎥 GUILD TV  – Plus qu’une télévision, c’est votre espace d’expression, de découverte et de connexion.
 GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l’information, le divertissement et l’innovation. Accessible partout et pour tous, elle offre une programmation riche et variée qui valorise les talents, stimule le débat constructif et rapproche les communautés. Avec une diffusion en haute définition 24h/24 et 7j/7, GUILD TV  se veut une véritable plateforme d’échange, de partage et d’inspiration pour les jeunes, les entrepreneurs, les artistes et toutes celles et ceux qui souhaitent s’informer, se divertir et s’exprimer librement. ✨ GUILD TV, La télé qui vous connecte à l’essentiel.🎥 GUILD TV  – Plus qu’une télévision, c’est votre espace d’expression, de découverte et de connexion.
