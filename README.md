@@ -84,24 +84,24 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
   {
-      "description": "Coming Soon.",
+      "description": "GAUL Televisions",
           "sources": [
             "https://tv.berosat.live:19360/gaulois-tv/gaulois-tv.m3u8"
           ],
 	  "number": "000",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
-          "title": "COMING SOON"
+          "title": "GAUL TELE"
  }, 
  {
-      "description": "Coming Soon 2",
+      "description": "RLPRO HD Television",
           "sources": [
             "https://tv.berosat.live:19360/rlpro-index/rlpro-index.m3u8"
           ],
 	  "number": "000",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
-          "title": "COMING SOON 2"
+          "thumb": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+          "title": "RLPRO HD"
  }, 
 
  {
