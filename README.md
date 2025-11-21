@@ -90,7 +90,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
           "subtitle": "All Channels",
 		  "number": "746",
-          "thumb": "https://od.lk/s/NDZfODc3NzAwNDBf/septv.jpg",
+          "thumb": "https://od.lk/s/NDZfODkwMTMxNzhf/septv.png",
           "title": "RTV SEP"
  },
 
