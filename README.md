@@ -50,6 +50,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
 {
+     "description": "Paulnor télévision, est une chaîne généraliste émettant en République Démocratique du Congo qui tire vers le haut, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. PAULNOR TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant Paulnor. Pour tout contact :+243 99 99 32 711",
+          "sources": [
+            "https://tv.berosat.live:19360/paulnor-tv/paulnor-tv.m3u8"
+          ],
+	  "number": "693",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODkwMTAwMjNf/paaulnor.jpg",
+          "title": "PAULNOR TV"
+},
+
+{
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://vdo2.pro-fhi.net:3061/hybrid/play.m3u8"
