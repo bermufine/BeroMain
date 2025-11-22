@@ -52,7 +52,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Paulnor télévision, est une chaîne généraliste émettant en République Démocratique du Congo qui tire vers le haut, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. PAULNOR TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant Paulnor. Pour tout contact :+243 99 99 32 711",
           "sources": [
-            "https://tv.berosat.live:19360/paulnor-tv/paulnor-tv.m3u8"
+            "https://tv.berosat.live:19360/paulnor/paulnor.m3u8"
           ],
 	  "number": "693",
           "subtitle": "All Channels",
