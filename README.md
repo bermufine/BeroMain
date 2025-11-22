@@ -37,7 +37,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
   {
       "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
           "sources": [
-            "https://stream.berosat.live:19360/novo-index/novo-index.m3u8"
+            "https://tv.berosat.live:19360/novo/novo.m3u8"
           ],
 	  "number": "579",
           "subtitle": "All Channels",
