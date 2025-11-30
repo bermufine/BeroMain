@@ -358,6 +358,17 @@ CONTACTS: +2250788422056/0596455112",
           "title": "BEST PRO VISION"
  },
 
+ {
+     "description": "Bosenga Ya Peuple télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
+          "sources": [
+            "https://stream.berosat.live:19360/bosenga-tv/bosenga-tv.m3u8"
+          ],
+	  "number": "871",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODY2MzI5Mzdf/bosengatv.jpg",
+          "title": "BOSENGA YA PEUPLE"
+ }, 
+
  { "description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" }
 			]
 		}
@@ -376,16 +387,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
 
  { "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/best-tv/best-tv.m3u8" ], "number": "468", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg", "title": "ROI THE BEST" },
 
-{
-     "description": "Bosenga Ya Peuple télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
-          "sources": [
-            "https://stream.berosat.live:19360/bosenga-tv/bosenga-tv.m3u8"
-          ],
-	  "number": "871",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODY2MzI5Mzdf/bosengatv.jpg",
-          "title": "BOSENGA YA PEUPLE"
- }, 
+
  { "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8" ], "number": "479", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg", "title": "JDK TV" },
  
  { "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais", "sources": [ "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8" ], "number": "82", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg", "title": "MC PRO TV" },
