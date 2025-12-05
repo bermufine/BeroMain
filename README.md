@@ -68,6 +68,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"},
 
+{
+     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+          ],
+	  "number": "786",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODkzMzAyNDFf/toseka.jpg",
+          "title": "TOSEKA TV"
+ },
+
   {
       "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
           "sources": [
