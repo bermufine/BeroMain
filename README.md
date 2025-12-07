@@ -1,16 +1,6 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
-{
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live:19360/lolly-index/lolly-index.m3u8"
-          ],
-	  "number": "785",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
-          "title": "LOLLYWOOD HD TV"
-},
-
+{ "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
 
 {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
@@ -18,6 +8,17 @@
 		
 { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMzODdf/tvbaraka.jpg", "title": "BARAKA TV" }, 
+
+{
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "http://185.209.228.92:8080/hls/LOLLYWOOD_HD_TV.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
+          "title": "LOLLYWOOD HD TV"
+},
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
@@ -47,8 +48,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "JSN TV"
 },
 
-{ "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
-
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
 {
@@ -56,7 +55,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "sources": [
             "https://stream.berosat.live:19360/kmk-index/kmk-index.m3u8"
           ],
-	  "number": "785",
+	  "number": "885",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODcxMTExMjdf/kmktv.jpg",
           "title": "KMK TV"
@@ -350,16 +349,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "BOSENGA YA PEUPLE"
  }, 
 
- {
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://vdo2.pro-fhi.net:3785/live/kbtlfraglive.m3u8"
-          ],
-	  "number": "785",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
-          "title": "LOLLYWOOD HD TV"
-				}
+ { "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" }
 			]
 		}
 	]
