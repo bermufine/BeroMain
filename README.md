@@ -63,6 +63,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png", "title": "RL PRO TV" },
 
+  {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
+
  { "description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
 
 {
@@ -162,8 +164,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
   { "description": "Hannabih Télévision est la Première chaîne panafricaniste", "sources": [ "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8" ], "number": "469", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg", "title": "HANNABIH TV" },
 
   { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
-
-  {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
  
  {
       "description": "Afrika Telema TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....",
