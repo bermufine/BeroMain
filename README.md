@@ -188,7 +188,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
   { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
  
  {
-      "description": "RT Afrika Telema TV est une généraliste",
+      "description": "RT Afrika Telema TV est une chaîne généraliste",
           "sources": [
             "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
           ],
