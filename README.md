@@ -103,6 +103,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
+ {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
+
  {
      "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -690,7 +692,7 @@ CONTACTS: +2250788422056/0596455112",
 
  { "description": "L'shi UP est une plateforme de promotion des talents et création digitale, Une Radio & Television en ligne qui a pour objectif de faciliter et promouvoir les activités sociaux culturelles et couvertures Audio-visuels des événements live.", "sources": [ "https://stream.berosat.live:19360/lushi-up/lushi-up.m3u8" ], "number": "516", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ2MTAxNzlf/lushiUp.jpg", "title": "L'SHI UP TV" },
 
- {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "63", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
+
 
 { "description": "Peneo television est une Chaine chrétienne, généraliste  émettent depuis Kinshasa basé de la parole sainte de Jésus christ", "sources": [ "https://stream.berosat.live:19360/peneo-tv/peneo-tv.m3u8" ], "number": "74", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM2NTkxMTBf/peneotv.png", "title": "PENEO TV"},
 
