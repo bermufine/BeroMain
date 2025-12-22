@@ -272,10 +272,21 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "sources": [
             "http://185.209.228.92:8080/hls/INTELLO+.m3u8"
           ],
-	  "number": "1000",
+	  "number": "1001",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODk2NjAyODRf/intelloAfrika.jpg",
           "title": "INTELLO+ TV"
+},
+
+{
+     "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
+          ],
+	  "number": "1002",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NjMyNTdf/grandMedia.jpg",
+          "title": "GRAND MEDIA TV"
 },
 
 {
