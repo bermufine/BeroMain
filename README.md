@@ -153,17 +153,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
 
- {
-     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
-          ],
-	  "number": "997",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s",
-          "title": "JERUBAAL TV"
-},
-
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
 {
@@ -222,6 +211,72 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
    {"description":"Wibover Télévision est une chaîne generaliste Émettant en Republique Democratique du Congo.","sources":["https://stream.berosat.live:19360/wibover-tv/wibover-tv.m3u8"], "number": "691", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODYxMDExNjBf/wibovertv.jpg","title":"WIBOVER TV"},
+
+ {
+     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
+          ],
+	  "number": "997",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NjAyODZf/jerubaal.jpg",
+          "title": "JERUBAAL TV"
+},
+
+{
+     "description": "MAGECO PRO TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@MAGECO_PRO_TV.m3u8"
+          ],
+	  "number": "998",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NjAyODdf/mageco.jpg",
+          "title": "MAGECO PRO TV"
+},
+
+{
+     "description": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
+          ],
+	  "number": "998",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NjAyOTJf/rupture.jpg",
+          "title": "RUPTURE TV"
+},
+
+{
+     "description": "RTSIR, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/RTSIR.m3u8"
+          ],
+	  "number": "999",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NjAyODlf/rtsir.jpg",
+          "title": "RTSIR"
+},
+
+{
+     "description": "Bilolo tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/BIOLO_TV_HD.m3u8"
+          ],
+	  "number": "1000",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NjAyODBf/bilolotv.jpg",
+          "title": "BILOLO TV"
+},
+
+{
+     "description": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/INTELLO+.m3u8"
+          ],
+	  "number": "1000",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NjAyODRf/intelloAfrika.jpg",
+          "title": "INTELLO+ TV"
+},
 
 {
      "description": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions.
