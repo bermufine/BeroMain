@@ -34,6 +34,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
 
 {
+     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+          ],
+	  "number": "786",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODkzMzAyNDFf/toseka.jpg",
+          "title": "TOSEKA TV"
+ },
+
+{
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
             "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
@@ -51,17 +62,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
-
-{
-     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
-          ],
-	  "number": "786",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODkzMzAyNDFf/toseka.jpg",
-          "title": "TOSEKA TV"
- },
 
 {
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
@@ -123,21 +123,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
-{
-     "description": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
-          ],
-	  "number": "881",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NzQ0ODNf/sarahtv.jpg",
-          "title": "RTV SARAH"
-},
-
-{ "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
-
- {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
-
  {
      "description": "Bamwetu télévision, est une chaîne généraliste émettant a Lubumbashi en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
@@ -156,9 +141,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "989",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk0NzE3MDRf/admtv.jpg",
+          "thumb": "https://od.lk/s/NDZfODk3ODUzOTRf/adm.jpg",
           "title": "ADM TV"
 },
+
+  {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
   {
      "description": "Kk Tv, est une chaîne thematique de divertissements d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
@@ -170,6 +157,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
  },
+
+{"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
 
 { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODY1Mjg1NDFf/chtvhd.jpg", "title": "CH TV HD" },
 
@@ -189,8 +178,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
-
-  {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
   { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
@@ -424,6 +411,19 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfODkxMjE5NDhf/Paulnor.png",
           "title": "PAULNOR TV"
 },
+
+{
+     "description": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "sources": [
+            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
+          ],
+	  "number": "881",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NzQ0ODNf/sarahtv.jpg",
+          "title": "RTV SARAH"
+},
+
+{ "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
 
   { "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "number": "94", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
  
