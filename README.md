@@ -121,6 +121,19 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
      "title": "FURAH TV"
   },
 
+
+ {
+    "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+    "sources": [
+     "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8"
+          ],
+	 "number": "699",
+     "subtitle": "All Channel",
+     "thumb": "https://od.lk/s/NDZfODk4MDAxNDVf/vitesse.jpg",
+     "title": "VITESSE TV"
+  },
+
+
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
  {
