@@ -204,7 +204,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
       "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
 Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
           "sources": [
-            "http://45.8.18.135/hls/CONGO-UNIS/ndex.m3u8"
+            "http://45.8.148.135/hls/CONGO-UNIS/ndex.m3u8"
           ],
 	  "number": "379",
           "subtitle": "All Channels",
