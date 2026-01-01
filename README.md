@@ -64,7 +64,13 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
 {
-     "description": "canal en essaie depuis la ville de pointe noire",
+     "description": "DealWorld TV,  chaîne de Télé-achat – L’innovation à portée d’écran. Notre chaîne de télé-achat transforme chaque instant télévisé en une expérience unique 
+d’achat et de découverte. Plus qu’une vitrine, elle est un véritable showroom interactif où les 
+produits prennent vie grâce à des démonstrations captivantes, des conseils pratiques et des 
+offres exclusives. Accessible partout et à tout moment, elle incarne la simplicité, la confiance 
+et la proximité, en offrant aux téléspectateurs la possibilité de commander en direct et de 
+profiter de promotions inédites. 
+Avec une programmation dynamique et orientée vers le plaisir de consommer malin, la chaîne se positionne comme le partenaire incontournable du quotidien, alliant divertissement et  opportunité commerciale.               ",
           "sources": ["http://45.8.148.135/hls/CANAL-TEST/index.m3u8"
           ],
 	  "number": "07",
