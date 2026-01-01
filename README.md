@@ -69,8 +69,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "07",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/g",
-          "title": "CANAL TEST"
+          "thumb": "https://od.lk/s/NDZfODk5OTcwODNf/DealWorldTV.jpg",
+          "title": "DEAL WORLD TV"
 },
 
 {
