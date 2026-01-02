@@ -1,5 +1,16 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
+{
+     "description": "DealWorld TV,  La convergence du commerce et de la connaissance.  DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.  
+Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir »",
+          "sources": ["http://45.8.148.135/hls/CANAL-TEST/index.m3u8"
+          ],
+	  "number": "07",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAwMTA0MTBf/DealWorld.jpg",
+          "title": "DEAL WORLD TV"
+},
+
 { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMzODdf/tvbaraka.jpg", "title": "BARAKA TV" }, 
 
@@ -44,17 +55,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "TOSEKA TV"
  },
 
-{
-     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
-          ],
-	  "number": "888",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk0NTA4NDFf/infosplus.jpg",
-          "title": "INFO + HD TV"
-},
-
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMwMDFf/dertv.jpg", "title": "DER-TV" },
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg", "title": "FINESSE MONDE TV"},  
@@ -62,22 +62,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
-
-{
-     "description": "DealWorld TV,  chaîne de Télé-achat – L’innovation à portée d’écran. Notre chaîne de télé-achat transforme chaque instant télévisé en une expérience unique 
-d’achat et de découverte. Plus qu’une vitrine, elle est un véritable showroom interactif où les 
-produits prennent vie grâce à des démonstrations captivantes, des conseils pratiques et des 
-offres exclusives. Accessible partout et à tout moment, elle incarne la simplicité, la confiance 
-et la proximité, en offrant aux téléspectateurs la possibilité de commander en direct et de 
-profiter de promotions inédites. 
-Avec une programmation dynamique et orientée vers le plaisir de consommer malin, la chaîne se positionne comme le partenaire incontournable du quotidien, alliant divertissement et  opportunité commerciale.               ",
-          "sources": ["http://45.8.148.135/hls/CANAL-TEST/index.m3u8"
-          ],
-	  "number": "07",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk5OTcwODNf/DealWorldTV.jpg",
-          "title": "DEAL WORLD TV"
-},
 
 {
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
@@ -88,6 +72,17 @@ Avec une programmation dynamique et orientée vers le plaisir de consommer malin
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODcxMTExMjdf/kmktv.jpg",
           "title": "KMK TV"
+},
+
+{
+     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "sources": [
+            "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
+          ],
+	  "number": "888",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk0NTA4NDFf/infosplus.jpg",
+          "title": "INFO + HD TV"
 },
 
   {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
@@ -248,18 +243,20 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "S-MEDIAS TV 3"
 },
 
- {
-     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
-          "sources": [
-            "https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"
-          ],
-	  "number": "625",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
-          "title": "BLUESKY TV"
- },
-
  { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
+
+ 
+ {
+     "description": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille.
+Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
+          "sources": [
+            "https://video1.getstreamhosting.com:1936/daqegamrnd/daqegamrnd/playlist.m3u8"
+          ],
+	  "number": "493",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAwMTA0NjFf/nsiatv.jpg",
+          "title": "NSIA TV"
+},
 
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -374,7 +371,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
  
  { "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "sources": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "number": "91", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "title": "GOSPEL CHANNEL" },
 
-   {
+{
      "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
           "sources": [
             "https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"
@@ -502,6 +499,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfODkwMTMxNzhf/septv.png",
           "title": "RTV SEP"
  },
+
+  {
+     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
+          "sources": [
+            "https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"
+          ],
+	  "number": "625",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
+          "title": "BLUESKY TV"
+ },
  
  { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMzODdf/tvbaraka.jpg", "title": "BARAKA TV" }
@@ -518,6 +526,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 
 http://69.64.57.208/rtnc/playlist.m3u8
+
+ {
+     "description": "Etoile de Star TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@CANAL_AFRIQUE_TV.m3u8"
+          ],
+	  "number": "412",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAwMTA1ODNf/etoileStar.jpg",
+          "title": "ETOILE DE STAR"
+ },
 
 
 
