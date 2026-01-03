@@ -155,6 +155,16 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
      "title": "FURAH TV"
   },
 
+   {
+     "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/bmtv/bmtv.m3u8"
+          ],
+	  "number": "415",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAwMTU5OTNf/bmtv.jpg",
+          "title": "BM TV"
+},
 
  {
     "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
