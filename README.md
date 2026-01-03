@@ -156,7 +156,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
   },
 
    {
-     "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+     "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo...",
           "sources": [
             "https://stream.berosat.live:19360/bmtv/bmtv.m3u8"
           ],
@@ -166,17 +166,16 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "BM TV"
 },
 
- {
-    "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
-    "sources": [
-     "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8"
+{
+      "description": "RT Afrika Telema TV est une chaîne généraliste",
+          "sources": [
+            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
           ],
-	 "number": "699",
-     "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NDZfODk4MDAxNDVf/vitesse.jpg",
-     "title": "VITESSE TV"
-  },
-
+	  "number": "657",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
+          "title": "RT AFRIKA TELEMA"
+ },
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
@@ -202,9 +201,18 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "ADM TV"
 },
 
-  {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
+{
+     "description": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "sources": [
+            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
+          ],
+	  "number": "881",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODk2NzQ0ODNf/sarahtv.jpg",
+          "title": "RTV SARAH"
+},
 
-  {
+{
      "description": "Kk Tv, est une chaîne thematique de divertissements d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
           "sources": [
             "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8"
@@ -223,32 +231,21 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
 {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
-{
-      "description": "RT Afrika Telema TV est une chaîne généraliste",
-          "sources": [
-            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
+  {
+    "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+    "sources": [
+     "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8"
           ],
-	  "number": "657",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
-          "title": "RT AFRIKA TELEMA"
+	 "number": "699",
+     "subtitle": "All Channel",
+     "thumb": "https://od.lk/s/NDZfODk4MDAxNDVf/vitesse.jpg",
+     "title": "VITESSE TV"
  },
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
   { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
-
-  {
-     "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
-          "sources": [
-            "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
-          ],
-	  "number": "825",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODY3MzA5MjRf/cheznoustv.jpg",
-          "title": "DE CHEZ NOUS"
- },
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
@@ -471,7 +468,57 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
+  {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
+
  {
+     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
+          "sources": [
+            "https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"
+          ],
+	  "number": "625",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
+          "title": "BLUESKY TV"
+ },
+ 
+ {
+     "description": "DealWorld TV,  La convergence du commerce et de la connaissance.  DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.  
+Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir »",
+          "sources": ["http://45.8.148.135/hls/CANAL-TEST/index.m3u8"
+          ],
+	  "number": "07",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAwMTA0MTBf/DealWorld.jpg",
+          "title": "DEAL WORLD TV"
+				}
+			]
+		}
+	]
+}
+
+
+
+
+
+
+
+
+http://69.64.57.208/rtnc/playlist.m3u8
+
+ {
+     "description": "Etoile de Star TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@CANAL_AFRIQUE_TV.m3u8"
+          ],
+	  "number": "412",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAwMTA1ODNf/etoileStar.jpg",
+          "title": "ETOILE DE STAR"
+ },
+
+ { "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
+
+  {
      "description": "Paulnor télévision, est une chaîne généraliste émettant en République Démocratique du Congo qui tire vers le haut, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. PAULNOR TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant Paulnor. Pour tout contact :+243 99 99 32 711",
           "sources": [
             "https://stream.berosat.live:19360/paulnor/paulnor.m3u8"
@@ -481,19 +528,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfODkxMjE5NDhf/Paulnor.png",
           "title": "PAULNOR TV"
 },
-
-{
-     "description": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
-          ],
-	  "number": "881",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NzQ0ODNf/sarahtv.jpg",
-          "title": "RTV SARAH"
-},
-
-{ "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone", "sources": [ "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8" ], "number": "73", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg", "title": "3K HD TÉLÉVISION" },
 
  { "description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
 
@@ -520,42 +554,15 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "RTV SEP"
  },
 
-  {
-     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
+   {
+     "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
           "sources": [
-            "https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8"
+            "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
           ],
-	  "number": "625",
+	  "number": "825",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
-          "title": "BLUESKY TV"
- },
- 
- { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
-Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMzODdf/tvbaraka.jpg", "title": "BARAKA TV" }
-			]
-		}
-	]
-}
-
-
-
-
-
-
-
-
-http://69.64.57.208/rtnc/playlist.m3u8
-
- {
-     "description": "Etoile de Star TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@CANAL_AFRIQUE_TV.m3u8"
-          ],
-	  "number": "412",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAwMTA1ODNf/etoileStar.jpg",
-          "title": "ETOILE DE STAR"
+          "thumb": "https://od.lk/s/NDZfODY3MzA5MjRf/cheznoustv.jpg",
+          "title": "DE CHEZ NOUS"
  },
 
 
