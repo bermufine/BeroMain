@@ -7,7 +7,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           ],
 	  "number": "07",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAwMTA0MTBf/DealWorld.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg",
           "title": "DEAL WORLD TV"
 },
 
@@ -197,7 +197,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "899",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk1NDczMzZf/bamwetu.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTkzXw/bamwetu.jpg",
           "title": "BAMWETU TV"
 },
 
@@ -282,7 +282,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "493",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAwMTA0NjFf/nsiatv.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
           "title": "NSIA TV"
 },
 
@@ -293,7 +293,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "997",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NjAyODZf/jerubaal.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
           "title": "JERUBAAL TV"
 },
 
@@ -304,7 +304,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "998",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NjAyODdf/mageco.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAxXw/mageco.jpg",
           "title": "MAGECO PRO TV"
 },
 
@@ -315,7 +315,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "998",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NjAyOTJf/rupture.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
           "title": "RUPTURE TV"
 },
 
@@ -326,7 +326,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "999",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NjAyODlf/rtsir.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAzXw/rtsir.jpg",
           "title": "RTSIR"
 },
 
@@ -337,7 +337,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "1000",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NjAyODBf/bilolotv.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk0Xw/bilolotv.jpg",
           "title": "BILOLO TV"
 },
 
@@ -348,7 +348,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "1001",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NjAyODRf/intelloAfrika.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
           "title": "INTELLO+ TV"
 },
 
@@ -359,7 +359,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           ],
 	  "number": "1002",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NjMyNTdf/grandMedia.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
           "title": "GRAND MEDIA TV"
 },
 
