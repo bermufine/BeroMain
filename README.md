@@ -22,7 +22,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "379",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk5NjU4NDlf/congounistv.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
           "title": "CONGO UNIS"
  },
 
@@ -63,7 +63,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "786",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODkzMzAyNDFf/toseka.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
           "title": "TOSEKA TV"
  },
 
@@ -93,7 +93,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "888",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk0NTA4NDFf/infosplus.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
           "title": "INFO + HD TV"
 },
 
@@ -104,7 +104,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "413",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAwMTEyNDRf/sifatv.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
           "title": "SIFA TV"
 },
 
@@ -151,7 +151,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
  {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"}, 
 
-{ "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.", "sources": [ "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8" ], "number": "784", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkzMjIwMzJf/cpttv.jpg", "title": "CPT TV" },
+{ "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.", "sources": [ "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8" ], "number": "784", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg", "title": "CPT TV" },
 
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
@@ -162,7 +162,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	 "number": "929",
      "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NDZfODk2NDM5Nzhf/furahtv.jpg",
+     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
      "title": "FURAH TV"
   },
 
@@ -173,7 +173,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "415",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAwMTU5OTNf/bmtv.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQwXw/bmtv.jpg",
           "title": "BM TV"
 },
 
@@ -208,7 +208,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "989",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk3ODUzOTRf/adm.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
           "title": "ADM TV"
 },
 
@@ -219,7 +219,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "881",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODk2NzQ0ODNf/sarahtv.jpg",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ2Xw/sarahtv.jpg",
           "title": "RTV SARAH"
 },
 
@@ -249,7 +249,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	 "number": "699",
      "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NDZfODk4MDAxNDVf/vitesse.jpg",
+     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ5Xw/vitesse.jpg",
      "title": "VITESSE TV"
  },
 
