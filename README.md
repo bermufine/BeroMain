@@ -31,6 +31,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
 
 {
+     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+          ],
+	  "number": "786",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
+          "title": "TOSEKA TV"
+ },
+
+{
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://5caf24a595d94.streamlock.net:1937/8052/8052/playlist.m3u8"
@@ -55,17 +66,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
   },
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
-
-{
-     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
-          ],
-	  "number": "786",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
-          "title": "TOSEKA TV"
- },
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
 
@@ -107,6 +107,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
           "title": "SIFA TV"
 },
+
+{
+     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+          "sources": [
+            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
+          ],
+	  "number": "417",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
+          "title": "C-ONE TV"
+ },
 
   {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
 
