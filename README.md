@@ -201,6 +201,28 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
  {
+     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "title": "FM TV"
+},
+
+ {
+     "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+	  "number": "85",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "title": "S-MEDIAS TV 3"
+},
+
+ {
      "description": "Bamwetu télévision, est une chaîne généraliste émettant a Lubumbashi en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
             "https://stream.berosat.live:19360/bamwetu-tv/bamwetu-tv.m3u8"
@@ -250,8 +272,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
 
-{"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
-
   {
     "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
@@ -263,6 +283,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
      "title": "VITESSE TV"
  },
 
+ {
+     "description": "Group Elie Tuluka Television est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
+          "sources": [
+            "https://stream.berosat.live:19360/get-stream/get-stream.m3u8"
+          ],
+	  "number": "1002",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODEwNTc2ODJf/get-tv.jpg",
+          "title": "GET TV"
+},
+
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
   { 
@@ -270,30 +301,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
- {
-     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
-          "title": "FM TV"
-},
-
- {
-     "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
-          ],
-	  "number": "85",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
-          "title": "S-MEDIAS TV 3"
-},
-
  { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
-
  
  {
      "description": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille.
@@ -501,6 +509,8 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
   {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
+
+  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
  {
      "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
@@ -956,21 +966,6 @@ CONTACTS: +2250788422056/0596455112",
 
 {"description":"Bienvenue sur MANSEBA TÉLÉVISION, votre référence en matière de divertissement congolais et africain ! Notre chaîne est consacrée à la musique générale, à la culture, aux séries et au théâtre, avec des contenus riches, variés et accessibles à tous. Notre mission est de valoriser la culture congolaise  en mettant en lumière les talents émergents et en accompagnant les artistes établis. Nous bâtissons un lien fort entre tradition et modernité, entre local et international. MANSEBA TÉLÉVISION, LE MEILLEUR DU DIVERTISSEMENT","sources":["https://stream.berosat.live:19360/manseba-tv/manseba-tv.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODQwMzk4MDlf/mansebatv.jpg","title":"MANSEBA TV"},
 
- { "description": "Mageco Production TV, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://vdo2.pro-fhi.net:3415/hybrid/play.m3u8" ], "number": "113", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzcwNjQ3NDNf/Magecotv.jpg", "title": "MAGECO PRODUCTION TV" }, 
-
-   { "description": "GRAND MEDIA TV, la chaîne d'Excellence dans l'Événementiel et Informations emettant au lualaba en Republique Democratique du Congo.", "sources": [ "https://vdo.pro-fhi.net:3514/hybrid/play.m3u8" ], "number": "96", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyNTUwNzVf/grandMeiaTV.jpg", "title": "GRAND MEDIA TV" },
-
-   {
-     "description": "New Image Television est la chaine numerique qui diffusant des informations musique et Sports et autres.",
-          "sources": [
-            "https://vdo.pro-fhi.net:3543/hybrid/play.m3u8"
-          ],
-	  "number": "107",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE3ODQyOTlf/newImageTV.jpg",
-          "title": "NEW IMAGE TV"
- },
-
  
 
   {"description":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sources":["http://37.187.138.41:80/jkmtv/index.m3u8"], "number": "101", "subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","title":"JKM CHURCH"}, 
@@ -1070,8 +1065,7 @@ CONTACTS: +2250788422056/0596455112",
  { "description": "Folk tv est une chaîne 100% culturelle et valorise la tradition africaine dans toutes ses formes , nous sommes là pour redorer l'image du folklore oublié, et la tradition africaine est au centre de notre présence dans le media.  Slogan: *Le folklore c'est Nous*", "sources": [ "https://stream.berosat.live:19360/folk-tv-stream/folk-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc3MDdf/Folktv.jpg", "title": "FOLK TV"},
 
  { "description": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "title": "NEPHTHALI TV" },
-
-{ "description": "Group Elie Tuluka Television est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/get-stream/get-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEwNTc2ODJf/get-tv.jpg", "title": "GET TV" }, 
+ 
 
 { "description": "Eclat de Gloire Télévision est la Chaine Chretienne Generaliste depuis la Cote d'Ivoire.", "sources": [ "https://stream.berosat.live:19360/eclat-gloire-stream/eclat-gloire-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzkzNDY5MzZf/EclatdeGloire.jpg", "title": "ECLAT DE GLOIRE" }, 
 
