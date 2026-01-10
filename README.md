@@ -30,16 +30,19 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
 { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
 
-{
-     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+  {
+     "description": "Bienvenue sur BALOBELI YA PEUPLE Télévision
+Votre source incontournable d'analyses et d'actualités politiques en République Démocratique du Congo. Sous la conduite du journaliste principal Mitterrand Naya, accompagné de Pasteur Guilly, Maman Pascaline, Steve Konde HD et Âgée Kiala, nous vous apportons en temps réel les informations les plus urgentes et les débats d'actualité qui façonnent le pays.
+Contact : Mitterrand Naya - +243 814 229 243
+E-mail : mitterrandnaya16@gmail.com",
           "sources": [
-            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+            "http://iptv.berosat.live/hls/BALOBELI-TV/index.m3u8"
           ],
-	  "number": "786",
+	  "number": "09",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
-          "title": "TOSEKA TV"
- },
+          "thumb": "https://od.lk/s/NDZfOTAxMDU0NThf/balobelitv.jpg",
+          "title": "BALOBELI TV"
+},
 
 {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
@@ -53,6 +56,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 },
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
+
+{
+     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+          ],
+	  "number": "786",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
+          "title": "TOSEKA TV"
+ },
 
  {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
