@@ -110,6 +110,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
+ {
+     "description": "ERD télévision Une chaîne d’édification  et  restauration d'équipe âmes",
+          "sources": [
+            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
+          ],
+	  "number": "101",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxMDMzODZf/erdtv.jpg",
+          "title": "ERD TV"
+},
+
 {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
