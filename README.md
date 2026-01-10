@@ -113,7 +113,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
  {
      "description": "ERD télévision Une chaîne d’édification  et  restauration d'équipe âmes",
           "sources": [
-            "https://iptv.berosat.live/hls/ERD-TV/index.m3u8"
+            "http://iptv.berosat.live/hls/ERD-TV/index.m3u8"
           ],
 	  "number": "101",
           "subtitle": "All Channels",
