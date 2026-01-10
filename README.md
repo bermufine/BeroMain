@@ -36,7 +36,7 @@ Votre source incontournable d'analyses et d'actualités politiques en Républiqu
 Contact : Mitterrand Naya - +243 814 229 243
 E-mail : mitterrandnaya16@gmail.com",
           "sources": [
-            "http://iptv.berosat.live/hls/BALOBELI-TV/index.m3u8"
+            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
           ],
 	  "number": "09",
           "subtitle": "All Channels",
