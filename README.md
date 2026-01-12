@@ -153,18 +153,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "DEAL WORLD TV"
 },
 
-{
-     "description": "Group Elie Tuluka Television est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
-          "sources": [
-            "https://stream.berosat.live:19360/get-stream/get-stream.m3u8"
-          ],
-	  "number": "1002",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODEwNTc2ODJf/get-tv.jpg",
-          "title": "GET TV"
-},
-
-  { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
  {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"}, 
 
@@ -481,16 +470,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ2Xw/sarahtv.jpg",
           "title": "RTV SARAH"
 },
-{
-     "description": "Bamwetu télévision, est une chaîne généraliste émettant a Lubumbashi en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "https://stream.berosat.live:19360/bamwetu-tv/bamwetu-tv.m3u8"
-          ],
-	  "number": "899",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTkzXw/bamwetu.jpg",
-          "title": "BAMWETU TV"
-},
 
 { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }, 
@@ -527,6 +506,17 @@ http://69.64.57.208/rtnc/playlist.m3u8
   {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
   {
+     "description": "Bamwetu télévision, est une chaîne généraliste émettant a Lubumbashi en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "sources": [
+            "https://stream.berosat.live:19360/bamwetu-tv/bamwetu-tv.m3u8"
+          ],
+	  "number": "899",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTkzXw/bamwetu.jpg",
+          "title": "BAMWETU TV"
+},
+
+  {
      "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo...",
           "sources": [
             "https://stream.berosat.live:19360/bmtv/bmtv.m3u8"
@@ -549,6 +539,16 @@ http://69.64.57.208/rtnc/playlist.m3u8
     },
 
 
+{
+     "description": "Group Elie Tuluka Television est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
+          "sources": [
+            "https://stream.berosat.live:19360/get-stream/get-stream.m3u8"
+          ],
+	  "number": "1002",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODEwNTc2ODJf/get-tv.jpg",
+          "title": "GET TV"
+},
 
  {
      "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
