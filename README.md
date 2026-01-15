@@ -221,7 +221,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
  {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
-            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
+            "https://stream.berosat.live:19360/prijana/prijana.m3u8"
           ],
 	  "number": "432",
           "subtitle": "All Channels",
