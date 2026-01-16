@@ -75,6 +75,9 @@ E-mail : mitterrandnaya16@gmail.com",
           "title": "TOSEKA TV"
  },
 
+  { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
+Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }, 
+
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
@@ -172,6 +175,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
      "title": "FURAH TV"
   },
 
+  {
+     "description": "An-Nour Média est une chaîne de télévision locale, nationale et internationale à pour thématique islamique francophone, conçue pour offrir une programmation à la fois spirituelle, éducative et sociétale. Elle s’adresse à un public large, avec des contenus adaptés aux familles, aux jeunes et aux chercheurs de sens.  Notre ligne éditoriale repose sur trois piliers : authenticité religieuse, accessibilité culturelle, qualité visuelle.  Nous recherchons des partenaires engagés dans la diffusion 24/7 de contenus porteurs de valeurs, capables d’accompagner notre développement sur les plateformes TV, OTT et digitales. An-Nour Média – _La lumière qui guide vos pas. Contact téléphonique et WathsApp : +242 066 728 859 et Nous comptons sur vous qui est notre partenaire immédiat",
+          "sources": [
+            "http://iptv.berosat.live/hls//AN-NOUR/index.m3u8"
+          ],
+	  "number": "419",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjhf/anNourtele.png",
+          "title": "AN-NOUR MEDIA"
+ },
+
 {
       "description": "RT Afrika Telema TV est une chaîne généraliste",
           "sources": [
@@ -184,6 +198,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
  },
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
+
+{
+      "description": "Eloko Star TV est une chaîne généraliste émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/eloko-star/eloko-star.m3u8"
+          ],
+	  "number": "418",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
+          "title": "ELOKO STAR"
+ },
 
  {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
@@ -481,9 +506,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ2Xw/sarahtv.jpg",
           "title": "RTV SARAH"
 },
-
-{ "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
-Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }, 
 
   {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
