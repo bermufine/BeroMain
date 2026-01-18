@@ -262,7 +262,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           ],
 	  "number": "411",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAyNjIzOTRf/fjsktv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTAyNjUzMTFf/fjsk.jpg",
           "title": "FJSK TV"
 },
 
