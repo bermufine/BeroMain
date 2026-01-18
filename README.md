@@ -185,7 +185,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 	  "number": "419",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjhf/anNourtele.png",
-          "title": "AN-NOUR MEDIA"
+          "title": "AN-NOUR tv"
  },
 
 {
@@ -255,30 +255,18 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
           "title": "PRIJANA TV"
 },
-
-{
-     "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+ {
+     "description": "La Fondation Jhon Somerwa Kefeke Télévision, est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8"
+            "https://stream.berosat.live:19360/fjsk-tv/fjsk-tv.m3u8"
           ],
-	  "number": "989",
+	  "number": "411",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
-          "title": "ADM TV"
+          "thumb": "https://od.lk/s/NDZfOTAyNjIzOTRf/fjsktv.jpg",
+          "title": "FJSK TV"
 },
 
 {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
-
-  {
-      "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
-          "sources": [
-            "https://stream.berosat.live:19360/novo/novo.m3u8"
-          ],
-	  "number": "579",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
-          "title": "NOVO SOPRO TV"
- },
 
 { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
@@ -521,6 +509,27 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
   {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
+
+   {
+      "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
+          "sources": [
+            "https://stream.berosat.live:19360/novo/novo.m3u8"
+          ],
+	  "number": "579",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
+          "title": "NOVO SOPRO TV"
+ },
+ {
+     "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8"
+          ],
+	  "number": "989",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
+          "title": "ADM TV"
+},
 
 {"description": "C.E.P.P.A television  est une chaîne chretienne, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.","sources":["https://stream.berosat.live:19360/ceppa-tv/ceppa-tv.m3u8"], "number": "785", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODU1MTEzNzdf/ceppatv.jpg","title": "CEPPA TV"},
 
