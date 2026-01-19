@@ -154,7 +154,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 	  "number": "390",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
-          "title": "KIPUSHI 24"
+          "title": "KIPUSHI 24 TV"
 },
 
  {
@@ -165,7 +165,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 	  "number": "07",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg",
-          "title": "DEAL WORLD TV"
+          "title": "DEAL WORLD"
 },
 
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
@@ -195,7 +195,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 	  "number": "419",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjhf/anNourtele.png",
-          "title": "AN-NOUR tv"
+          "title": "AN-NOUR MEDIA"
  },
 
 {
