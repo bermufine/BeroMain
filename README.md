@@ -146,6 +146,16 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
           "title": "INFO + HD TV"
 },
+ {
+     "description": "Kipushi 24 télévision, est une chaîne généraliste d'iformations, divertissement et la promotion Culturelle. émettant en République Démocratique du Congo,",
+          "sources": [
+            "http://iptv.berosat.live/hls/KIPUSHI24/index.m3u8"
+          ],
+	  "number": "390",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
+          "title": "KIPUSHI 24"
+},
 
  {
      "description": "DealWorld TV,  La convergence du commerce et de la connaissance.  DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.  
