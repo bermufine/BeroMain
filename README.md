@@ -97,6 +97,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "SIFA TV"
 },
 
+  {
+     "description": "Bright Stars télévision est une chaîne qui prône la valeur de l'anglais et la vraie moralité dans la jeunesse.",
+          "sources": [
+            "https://stream.berosat.live:19360/bright-star/bright-star.m3u8"
+          ],
+	  "number": "414",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzMzU2OTZf/brightstar.jpg",
+          "title": "BRIGHT STARS"
+},
+
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
  {
@@ -109,17 +120,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
      "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
      "title": "TOP NOVELAS"
   },
-
-  {
-     "description": "Bright Stars t.v est une chaîne qui prône la valeur de l'anglais et la vraie moralité dans la jeunesse.",
-          "sources": [
-            "https://stream.berosat.live:19360/bright-star/bright-star.m3u8"
-          ],
-	  "number": "414",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAzMzU2OTZf/brightstar.jpg",
-          "title": "BRIGHT STAR TV"
-},
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
 
