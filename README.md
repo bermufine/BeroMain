@@ -236,7 +236,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 {
      "description": "Hertina, est une chaîne télévision généraliste émettant à partir depuis Kinshasa",
           "sources": [
-            "https://stream.berosat.live:19360/hertina-tv/jsn-tv.m3u8"
+            "https://stream.berosat.live:19360/hertina-tv/hertina-tv.m3u8"
           ],
 	  "number": "422",
           "subtitle": "All Channels",
@@ -280,7 +280,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 {
      "description": "Lumiere du Monde télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
           "sources": [
-            "https://stream.berosat.live:19360/lumiere-tv/jsn-tv.m3u8"
+            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
           ],
 	  "number": "423",
           "subtitle": "All Channels",
