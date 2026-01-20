@@ -233,6 +233,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "ELOKO STAR"
  },
 
+{
+     "description": "Hertina, est une chaîne télévision généraliste émettant à partir depuis Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/hertina-tv/jsn-tv.m3u8"
+          ],
+	  "number": "422",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODdf/Hertina.jpg",
+          "title": "HERTINA TV"
+},
+
  {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
@@ -264,6 +275,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIAS TV 3"
+},
+
+{
+     "description": "Lumiere du Monde télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+          "sources": [
+            "https://stream.berosat.live:19360/lumiere-tv/jsn-tv.m3u8"
+          ],
+	  "number": "423",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+          "title": "LUMIERE TV"
 },
 
  {
