@@ -185,6 +185,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 
 { "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.", "sources": [ "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8" ], "number": "784", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg", "title": "CPT TV" },
 
+{
+     "description": "Lumiere du Monde télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+          "sources": [
+            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
+          ],
+	  "number": "423",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+          "title": "LUMIERE TV"
+},
+
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
  {
@@ -275,17 +286,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIAS TV 3"
-},
-
-{
-     "description": "Lumiere du Monde télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
-          "sources": [
-            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
-          ],
-	  "number": "423",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
-          "title": "LUMIERE TV"
 },
 
  {
