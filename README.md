@@ -244,28 +244,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "ELOKO STAR"
  },
 
-{
-     "description": "Hertina, est une chaîne télévision généraliste émettant à partir depuis Kinshasa",
-          "sources": [
-            "https://stream.berosat.live:19360/hertina-tv/hertina-tv.m3u8"
-          ],
-	  "number": "422",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODdf/Hertina.jpg",
-          "title": "HERTINA TV"
-},
-
- {
-     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
-          "title": "FM TV"
-},
-
  {
     "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
@@ -314,17 +292,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
-
- {
-     "description": "Fondation Mingela Rabby télévision est une chaîne de la nouvelle vérité en Afrique.",
-          "sources": [
-            "https://stream.berosat.live:19360/fomira-tv/fomira-tv.m3u8"
-          ],
-	  "number": "403",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAyMDE2ODJf/fomiratv.jpg",
-          "title": "FOMIRA TV"
-},
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
@@ -562,18 +529,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "RTV SARAH"
 },
 
-  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
-
-   {
-      "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
+  {
+     "description": "Fondation Mingela Rabby télévision est une chaîne de la nouvelle vérité en Afrique.",
           "sources": [
-            "https://stream.berosat.live:19360/novo/novo.m3u8"
+            "https://stream.berosat.live:19360/fomira-tv/fomira-tv.m3u8"
           ],
-	  "number": "579",
+	  "number": "403",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
-          "title": "NOVO SOPRO TV"
- },
+          "thumb": "https://od.lk/s/NDZfOTAyMDE2ODJf/fomiratv.jpg",
+          "title": "FOMIRA TV"
+},
 
  {
      "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
@@ -600,6 +565,40 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 http://69.64.57.208/rtnc/playlist.m3u8
 
   {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
+
+  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
+
+   {
+      "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
+          "sources": [
+            "https://stream.berosat.live:19360/novo/novo.m3u8"
+          ],
+	  "number": "579",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
+          "title": "NOVO SOPRO TV"
+ },
+
+   {
+     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "title": "FM TV"
+},
+{
+     "description": "Hertina, est une chaîne télévision généraliste émettant à partir depuis Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/hertina-tv/hertina-tv.m3u8"
+          ],
+	  "number": "422",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODdf/Hertina.jpg",
+          "title": "HERTINA TV"
+},
 
   {
      "description": "Bamwetu télévision, est une chaîne généraliste émettant a Lubumbashi en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
