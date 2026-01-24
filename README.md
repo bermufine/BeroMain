@@ -181,7 +181,18 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
- {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"}, 
+ {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"},
+
+ {
+      "description": "RT Afrika Telema TV est une chaîne généraliste",
+          "sources": [
+            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
+          ],
+	  "number": "657",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
+          "title": "RT AFRIKA TELEMA"
+ },
 
 { "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.", "sources": [ "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8" ], "number": "784", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg", "title": "CPT TV" },
 
@@ -220,15 +231,15 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "AN-NOUR MEDIA"
  },
 
-{
-      "description": "RT Afrika Telema TV est une chaîne généraliste",
+ {
+     "description": "Mosaïque télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
+            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
           ],
-	  "number": "657",
+	  "number": "441",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
-          "title": "RT AFRIKA TELEMA"
+          "thumb": "https://od.lk/s/NDZfOTA0MDI1MzZf/mosaiquetv.jpg",
+          "title": "MOSAIQUE TV"
  },
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
