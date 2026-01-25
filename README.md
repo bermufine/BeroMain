@@ -134,6 +134,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KMK TV"
 },
 
+{
+     "description": "Lumiere du Monde télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+          "sources": [
+            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
+          ],
+	  "number": "423",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+          "title": "LUMIERE TV"
+},
+
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
  {
@@ -564,16 +575,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 http://69.64.57.208/rtnc/playlist.m3u8
 
-{
-     "description": "Lumiere du Monde télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
-          "sources": [
-            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
-          ],
-	  "number": "423",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
-          "title": "LUMIERE TV"
-},
+
 
   {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
