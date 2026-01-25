@@ -210,15 +210,26 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
  {
-    "description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
+    "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
-     "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"
+     "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8"
           ],
-	 "number": "929",
+	 "number": "699",
      "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
-     "title": "FURAH TV"
-  },
+     "thumb": "https://od.lk/s/NDZfOTA0MDcxNzhf/vitesse.jpg",
+     "title": "VITESSE TV"
+ },
+
+ {
+     "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+	  "number": "85",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "title": "S-MEDIAS TV 3"
+},
 
   {
      "description": "An-Nour Média est une chaîne de télévision locale, nationale et internationale à pour thématique islamique francophone, conçue pour offrir une programmation à la fois spirituelle, éducative et sociétale. Elle s’adresse à un public large, avec des contenus adaptés aux familles, aux jeunes et aux chercheurs de sens.  Notre ligne éditoriale repose sur trois piliers : authenticité religieuse, accessibilité culturelle, qualité visuelle.  Nous recherchons des partenaires engagés dans la diffusion 24/7 de contenus porteurs de valeurs, capables d’accompagner notre développement sur les plateformes TV, OTT et digitales. An-Nour Média – _La lumière qui guide vos pas. Contact téléphonique et WathsApp : +242 066 728 859 et Nous comptons sur vous qui est notre partenaire immédiat",
@@ -254,28 +265,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
           "title": "ELOKO STAR"
  },
-
- {
-    "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
-    "sources": [
-     "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8"
-          ],
-	 "number": "699",
-     "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ5Xw/vitesse.jpg",
-     "title": "VITESSE TV"
- },
-
- {
-     "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
-          ],
-	  "number": "85",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
-          "title": "S-MEDIAS TV 3"
-},
 
  {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -332,6 +321,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
  },
+
+  {
+    "description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
+    "sources": [
+     "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"
+          ],
+	 "number": "929",
+     "subtitle": "All Channel",
+     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
+     "title": "FURAH TV"
+  },
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
