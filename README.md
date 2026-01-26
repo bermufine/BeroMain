@@ -135,7 +135,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Lumiere du Monde télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+     "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
           ],
@@ -243,13 +243,13 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
  },
 
  {
-     "description": "Mosaïque télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+     "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
           ],
 	  "number": "441",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA0MDI1MzZf/mosaiquetv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
           "title": "MOSAIQUE TV"
  },
 
