@@ -54,7 +54,7 @@ E-mail : mitterrandnaya16@gmail.com",
 {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
-            "https://5caf24a595d94.streamlock.net:1937/8052/8052/playlist.m3u8"
+            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
           ],
 	  "number": "785",
           "subtitle": "All Channels",
