@@ -87,7 +87,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
  {
-     "description": "Sifa La Souriante Télévision, Canal en Test ................",
+     "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
           "sources": [
             "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
           ],
@@ -206,6 +206,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
  },
 
 { "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.", "sources": [ "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8" ], "number": "784", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg", "title": "CPT TV" },
+
+{
+     "description": "Fondation Jonathan Sangu télévision est une chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fjs-tv/fjs-tv.m3u8"
+          ],
+	  "number": "586",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA3MjU0ODJf/fjstv.jpg",
+          "title": "FJS HD TV"
+ },
 
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
