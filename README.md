@@ -277,17 +277,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
-{
-      "description": "Eloko Star TV est une chaîne généraliste émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live:19360/eloko-star/eloko-star.m3u8"
-          ],
-	  "number": "418",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
-          "title": "ELOKO STAR"
- },
-
  {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -298,22 +287,14 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
           "title": "PRIJANA TV"
 },
- {
-     "description": "La Fondation Jhon Somerwa Kefeke Télévision, est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/fjsk-tv/fjsk-tv.m3u8"
-          ],
-	  "number": "411",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAyNjUzMTFf/fjsk.jpg",
-          "title": "FJSK TV"
-},
 
 {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
 
 { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
+
+  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
@@ -552,28 +533,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
  {
-     "description": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
-          ],
-	  "number": "881",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ2Xw/sarahtv.jpg",
-          "title": "RTV SARAH"
-},
-
-  {
-     "description": "Fondation Mingela Rabby télévision est une chaîne de la nouvelle vérité en Afrique.",
-          "sources": [
-            "https://stream.berosat.live:19360/fomira-tv/fomira-tv.m3u8"
-          ],
-	  "number": "403",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAyMDE2ODJf/fomiratv.jpg",
-          "title": "FOMIRA TV"
-},
-
- {
      "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
           "sources": [
             "https://stream.berosat.live:19360/wello-tv/wello-tv.m3u8"
@@ -597,11 +556,54 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 http://69.64.57.208/rtnc/playlist.m3u8
 
+ {
+     "description": "La Fondation Jhon Somerwa Kefeke Télévision, est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fjsk-tv/fjsk-tv.m3u8"
+          ],
+	  "number": "411",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAyNjUzMTFf/fjsk.jpg",
+          "title": "FJSK TV"
+},
+{
+      "description": "Eloko Star TV est une chaîne généraliste émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/eloko-star/eloko-star.m3u8"
+          ],
+	  "number": "418",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
+          "title": "ELOKO STAR"
+ },
+  {
+     "description": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "sources": [
+            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
+          ],
+	  "number": "881",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ2Xw/sarahtv.jpg",
+          "title": "RTV SARAH"
+},
+
+  {
+     "description": "Fondation Mingela Rabby télévision est une chaîne de la nouvelle vérité en Afrique.",
+          "sources": [
+            "https://stream.berosat.live:19360/fomira-tv/fomira-tv.m3u8"
+          ],
+	  "number": "403",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAyMDE2ODJf/fomiratv.jpg",
+          "title": "FOMIRA TV"
+},
+
+
 
 
   {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
-  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
+
 
    {
       "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
