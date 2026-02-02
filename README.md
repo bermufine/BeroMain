@@ -115,7 +115,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg,
+          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
           "title": "FRYCOMS TV"
  },
 
