@@ -75,6 +75,17 @@ E-mail : mitterrandnaya16@gmail.com",
           "title": "TOSEKA TV"
  },
 
+ {
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "title": "FRYCOMS TV"
+ },
+
   { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }, 
 
@@ -107,17 +118,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTAzMzU2OTZf/brightstar.jpg",
           "title": "BRIGHT STARS"
 },
-
-{
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "http://iptv.berosat.live/hls/FRYCOMS-TV/index.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
-          "title": "FRYCOMS TV"
- },
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
