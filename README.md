@@ -501,7 +501,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
-            "https://terranoweb.duckdns.org/live/Evtele/index.m3u8"
+            "https://c.streamhoster.com/link/hls/Wns3eE/i3hogHZs0zc/mtRZn0sX3Up_5/playlist.m3u8"
           ],
 	  "number": "108",
           "subtitle": "All Channels",
