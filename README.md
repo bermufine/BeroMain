@@ -300,17 +300,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "http://iptv.berosat.live/hls/FMG-TV/index.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
 
- {
-     "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8"
-          ],
-	  "number": "989",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
-          "title": "ADM TV"
-},
-
   { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
@@ -324,17 +313,17 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
  },
-
+ 
   {
-    "description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
-    "sources": [
-     "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"
+     "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
           ],
-	 "number": "929",
-     "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
-     "title": "FURAH TV"
-  },
+          "subtitle": "All Channels",
+		  "number": "794",
+          "thumb": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
+          "title": "TELE 50"
+    },
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
@@ -532,6 +521,27 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
+  {
+     "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8"
+          ],
+	  "number": "989",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
+          "title": "ADM TV"
+},
+ {
+    "description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
+    "sources": [
+     "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"
+          ],
+	 "number": "929",
+     "subtitle": "All Channel",
+     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
+     "title": "FURAH TV"
+  },
+
  {
      "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
           "sources": [
@@ -661,16 +671,8 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "title": "BM TV"
 },
 
- {
-     "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/tele50-index/tele50-index.m3u8"
-          ],
-          "subtitle": "All Channels",
-		  "number": "794",
-          "thumb": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
-          "title": "TELE 50"
-    },
+ 
+	
 
 
 {
