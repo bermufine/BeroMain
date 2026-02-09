@@ -177,6 +177,27 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KIPUSHI 24 TV"
 },
 
+{
+     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_84b6bd00a30011eeabad0fe2d8964889/index.m3u8"
+          ],
+	  "number": "506",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "title": "HEROS TV"
+ },
+ {
+     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_c83208c05dda11eeaecf77f984d6072c/rewind-3600.m3u8"
+          ],
+	  "number": "506",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "title": "HEROS TV 2"
+ },
+
   {
      "description": "Bienvenue sur BALOBELI YA PEUPLE Télévision Votre source incontournable d'analyses et d'actualités politiques en République Démocratique du Congo. Sous la conduite du journaliste principal Mitterrand Naya, accompagné de Pasteur Guilly, Maman Pascaline, Steve Konde HD et Âgée Kiala, nous vous apportons en temps réel les informations les plus urgentes et les débats d'actualité qui façonnent le pays.
 Contact : Mitterrand Naya +243 814 229 243
