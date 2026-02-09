@@ -38,30 +38,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
 { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://iptv.berosat.live/hls/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
 
-  {
-     "description": "Bienvenue sur BALOBELI YA PEUPLE Télévision Votre source incontournable d'analyses et d'actualités politiques en République Démocratique du Congo. Sous la conduite du journaliste principal Mitterrand Naya, accompagné de Pasteur Guilly, Maman Pascaline, Steve Konde HD et Âgée Kiala, nous vous apportons en temps réel les informations les plus urgentes et les débats d'actualité qui façonnent le pays.
-Contact : Mitterrand Naya +243 814 229 243
-E-mail : mitterrandnaya16@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
-          ],
-	  "number": "09",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxMDU0NThf/balobelitv.jpg",
-          "title": "BALOBELI TV"
-},
-
-{
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
-          ],
-	  "number": "785",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
-          "title": "LOLLYWOOD HD TV"
-},
-
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
 {
@@ -106,6 +82,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
           "title": "SIFA TV"
+},
+
+{
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
+          "title": "LOLLYWOOD HD TV"
 },
 
   {
@@ -188,6 +175,19 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
           "title": "KIPUSHI 24 TV"
+},
+
+  {
+     "description": "Bienvenue sur BALOBELI YA PEUPLE Télévision Votre source incontournable d'analyses et d'actualités politiques en République Démocratique du Congo. Sous la conduite du journaliste principal Mitterrand Naya, accompagné de Pasteur Guilly, Maman Pascaline, Steve Konde HD et Âgée Kiala, nous vous apportons en temps réel les informations les plus urgentes et les débats d'actualité qui façonnent le pays.
+Contact : Mitterrand Naya +243 814 229 243
+E-mail : mitterrandnaya16@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8"
+          ],
+	  "number": "09",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxMDU0NThf/balobelitv.jpg",
+          "title": "BALOBELI TV"
 },
 
  {
@@ -521,16 +521,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
-  {
-     "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8"
-          ],
-	  "number": "989",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
-          "title": "ADM TV"
-},
  {
     "description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
     "sources": [
@@ -586,6 +576,16 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
           "title": "ELOKO STAR"
  },
+   {
+     "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8"
+          ],
+	  "number": "989",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
+          "title": "ADM TV"
+},
   {
      "description": "Sarah télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
