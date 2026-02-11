@@ -142,6 +142,16 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
           "title": "LUMIERE TV"
 },
+{
+     "description": "Oasis Média télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "http://stream.berosat.live/oasis-media/oasis-media.m3u8"
+          ],
+	  "number": "509",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA4NTY0MDhf/oasisMedia.jpg",
+          "title": "OASIS MEDIA"
+ },
 
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
