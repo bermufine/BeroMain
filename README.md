@@ -142,6 +142,16 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
           "title": "LUMIERE TV"
 },
+ {
+     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+          "sources": [
+            "https://iptv.berosat.live/hls/C-ONE/index.m3u8"
+          ],
+	  "number": "417",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
+          "title": "C-ONE TV"
+ },
 {
      "description": "Oasis Média télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
@@ -728,16 +738,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "title": "GET TV"
 },
 
- {
-     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
-          "sources": [
-            "https://iptv.berosat.live/hls/C-ONE/index.m3u8"
-          ],
-	  "number": "417",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
-          "title": "C-ONE TV"
- },
+
 
 
 
