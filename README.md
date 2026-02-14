@@ -145,7 +145,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
           "sources": [
-            "https://iptv.berosat.live/hls/C-ONE/index.m3u8"
+            "http://iptv.berosat.live/hls/C-ONE/index.m3u8"
           ],
 	  "number": "417",
           "subtitle": "All Channels",
