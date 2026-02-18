@@ -12,26 +12,14 @@
 },
 
  {
-     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
           ],
-	  "number": "393",
+	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
-          "title": "JSN TV"
-},
-
-{
-      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
-Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
-          "sources": [
-            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
-          ],
-	  "number": "379",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
-          "title": "CONGO UNIS"
+          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "title": "FRYCOMS TV"
  },
 
 { "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live:19360/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" },
@@ -51,19 +39,19 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "TOSEKA TV"
  },
 
- {
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
-          "title": "FRYCOMS TV"
- },
-
   { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }, 
+
+ {
+     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+          "sources": [
+            "https://stream.berosat.live:19360/c-one/c-one.m3u8"
+          ],
+	  "number": "417",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
+          "title": "C-ONE TV"
+ },
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
 
@@ -106,6 +94,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "BRIGHT STARS"
 },
 
+{
+      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
+Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
+          "sources": [
+            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
+          ],
+	  "number": "379",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
+          "title": "CONGO UNIS"
+ },
+
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
  {
@@ -142,16 +142,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
           "title": "LUMIERE TV"
 },
- {
-     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
-          "sources": [
-            "https://stream.berosat.live:19360/c-one/c-one.m3u8"
-          ],
-	  "number": "417",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
-          "title": "C-ONE TV"
- },
+
 {
      "description": "Oasis Média télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
@@ -316,17 +307,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "AN-NOUR MEDIA"
  },
 
- {
-     "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
-          ],
-	  "number": "441",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
-          "title": "MOSAIQUE TV"
- },
-
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
  {
@@ -338,6 +318,16 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
           "title": "PRIJANA TV"
+},
+{
+     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
+          ],
+	  "number": "93",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
+          "title": "EXPLOITS TV"
 },
 
 {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
@@ -394,6 +384,17 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
           "title": "NSIA TV"
 },
+
+{
+     "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
+          ],
+	  "number": "441",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
+          "title": "MOSAIQUE TV"
+ },
 
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -573,16 +574,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
- {
-    "description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
-    "sources": [
-     "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"
+  {
+     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
           ],
-	 "number": "929",
-     "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
-     "title": "FURAH TV"
-  },
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "title": "JSN TV"
+},
 
  {
      "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
@@ -618,6 +619,16 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "thumb": "https://od.lk/s/NDZfOTAyNjUzMTFf/fjsk.jpg",
           "title": "FJSK TV"
 },
+ {
+    "description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
+    "sources": [
+     "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"
+          ],
+	 "number": "929",
+     "subtitle": "All Channel",
+     "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
+     "title": "FURAH TV"
+  },
 {
       "description": "Eloko Star TV est une chaîne généraliste émettant à Kinshasa",
           "sources": [
@@ -663,10 +674,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
 
 
 
-  {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"], "number": "93", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
-
-
-
+  
    {
       "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
           "sources": [
