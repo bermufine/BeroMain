@@ -198,6 +198,16 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfOTA4NTY0MDlf/oceantv.jpg",
           "title": "OCEAN TV"
 },
+ {
+     "description": "Meteo Télévision, est une chaîne généraliste qui vous fait découvrir la Climat à travers les actualités meteologique ,nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8"
+          ],
+	  "number": "408",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
+          "title": "METEO TV"
+},
 
 {
      "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
