@@ -199,7 +199,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "OCEAN TV"
 },
  {
-     "description": "Meteo Télévision, est une chaîne généraliste qui vous fait découvrir la Climat à travers les actualités meteologique ,nous emettons à Kinshasa en République démocratique du Congo.",
+     "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
           "sources": [
             "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8"
           ],
