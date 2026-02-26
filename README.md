@@ -627,16 +627,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
   { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
- {
-     "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
+{
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "https://stream.berosat.live:19360/wello-tv/wello-tv.m3u8"
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
           ],
-	  "number": "417",
+	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk2NzYxXw/welotv.jpg",
-          "title": "BY WELLO TV"
-				}
+          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "title": "FRYCOMS TV"
+ 				}
 			]
 		}
 	]
