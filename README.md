@@ -61,6 +61,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
+  {
+     "description": "Our channel's motto is: the expression chain; in our channel, our objective is to form, to inform And to entertain our viewers through our programs, we are a channel that handles all information professionally. In short, we give everyone a voice to express themselves while respecting the rules regarding respect for others..",
+          "sources": [
+            "https://stream.berosat.live:19360/liberty-tv/liberty-tv.m3u8"
+          ],
+	  "number": "188",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
+          "title": "LIBERTY TV"
+ },
+
  {
      "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
           "sources": [
