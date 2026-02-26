@@ -36,6 +36,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
  {
+     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
+          ],
+	  "number": "93",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
+          "title": "EXPLOITS TV"
+},
+
+ {
      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
@@ -114,18 +125,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 
-{
-      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
-Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
-          "sources": [
-            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
-          ],
-	  "number": "379",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
-          "title": "CONGO UNIS"
- },
-
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
  {
@@ -172,7 +171,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "OASIS MEDIA"
  },
 
- { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
+ {
+      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
+Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
+          "sources": [
+            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
+          ],
+	  "number": "379",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
+          "title": "CONGO UNIS"
+ },
 
 {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
@@ -205,6 +214,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfOTA4NTY0MDlf/oceantv.jpg",
           "title": "OCEAN TV"
 },
+
  {
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
           "sources": [
@@ -214,17 +224,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
           "title": "METEO TV"
-},
-
- {
-     "description": "ERD télévision Une chaîne d’édification  et  restauration d'équipe âmes",
-          "sources": [
-            "http://iptv.berosat.live/hls/ERD-TV/index.m3u8"
-          ],
-	  "number": "101",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxMDMzODZf/erdtv.jpg",
-          "title": "ERD TV"
 },
 
 {
@@ -345,16 +344,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
           "title": "PRIJANA TV"
-},
-{
-     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
-          ],
-	  "number": "93",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
-          "title": "EXPLOITS TV"
 },
 
 {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
@@ -622,8 +611,21 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
      "thumb": "https://od.lk/s/NDZfOTA0MDcxNzhf/vitesse.jpg",
      "title": "VITESSE TV"
  },
+
+  {
+     "description": "ERD télévision Une chaîne d’édification  et  restauration d'équipe âmes",
+          "sources": [
+            "http://iptv.berosat.live/hls/ERD-TV/index.m3u8"
+          ],
+	  "number": "101",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxMDMzODZf/erdtv.jpg",
+          "title": "ERD TV"
+},
  
  { "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.", "sources": [ "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8" ], "number": "784", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg", "title": "CPT TV" },
+
+  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
  {
      "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
