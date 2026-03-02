@@ -62,7 +62,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
 
   {
-     "description": "Our channel's motto is: the expression chain; in our channel, our objective is to form, to inform And to entertain our viewers through our programs, we are a channel that handles all information professionally. In short, we give everyone a voice to express themselves while respecting the rules regarding respect for others..",
+     "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
             "https://stream.berosat.live:19360/liberty-tv/liberty-tv.m3u8"
           ],
@@ -166,17 +166,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTA4NTY0MDhf/oasisMedia.jpg",
           "title": "OASIS MEDIA"
- },
-
-  {
-     "description": "Our channel's motto is: the expression chain; in our channel, our objective is to form, to inform And to entertain our viewers through our programs, we are a channel that handles all information professionally. In short, we give everyone a voice to express themselves while respecting the rules regarding respect for others..",
-          "sources": [
-            "https://stream.berosat.live:19360/laborne-tv/liberty-tv.m3u8"
-          ],
-	  "number": "189",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
-          "title": "LIBERTY TV"
  },
 
  {
