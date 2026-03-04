@@ -248,26 +248,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "JSN TV"
 },
 
-{
-     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_84b6bd00a30011eeabad0fe2d8964889/index.m3u8"
-          ],
-	  "number": "506",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
-          "title": "HEROS TV"
- },
- {
-     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_c83208c05dda11eeaecf77f984d6072c/rewind-3600.m3u8"
-          ],
-	  "number": "507",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
-          "title": "HEROS TV 2"
- },
+{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
   {
      "description": "Bienvenue sur BALOBELI YA PEUPLE Télévision Votre source incontournable d'analyses et d'actualités politiques en République Démocratique du Congo. Sous la conduite du journaliste principal Mitterrand Naya, accompagné de Pasteur Guilly, Maman Pascaline, Steve Konde HD et Âgée Kiala, nous vous apportons en temps réel les informations les plus urgentes et les débats d'actualité qui façonnent le pays.
@@ -327,6 +308,8 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "RT AFRIKA TELEMA"
  },
 
+ {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
+
 {
      "description": "Fondation Jonathan Sangu télévision est une chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
           "sources": [
@@ -362,9 +345,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "S-MEDIAS TV 3"
 },
 
-
-{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
-
  {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -376,11 +356,30 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "PRIJANA TV"
 },
 
-{"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
-
 { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
+
+{
+     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_84b6bd00a30011eeabad0fe2d8964889/index.m3u8"
+          ],
+	  "number": "506",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "title": "HEROS TV"
+ },
+ {
+     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_c83208c05dda11eeaecf77f984d6072c/rewind-3600.m3u8"
+          ],
+	  "number": "507",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "title": "HEROS TV 2"
+ },
 
   {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
