@@ -60,7 +60,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "sources": [
             "https://stream.berosat.live:19360/nuru-tv/nuru-tv.m3u8"
           ],
-	  "number": "93",
+	  "number": "94",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
           "title": "NURU RTV"
