@@ -58,7 +58,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
           "sources": [
-            "https://stream.berosat.live:19360/nuru-tv/nuru-tv.m3u8"
+            "https://stream.berosat.live:19360/nuru-rtv/nuru-rtv.m3u8"
           ],
 	  "number": "94",
           "subtitle": "All Channels",
