@@ -123,6 +123,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "METEO TV"
 },
 
+ {
+     "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
+          "sources": [
+            "https://stream.berosat.live:19360/marafiki-tv/marafiki-tv.m3u8"
+          ],
+	  "number": "91",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEzMTUyODdf/mafirikitv.jpg",
+          "title": "MARAFIKI RTV"
+ },
+
 {
      "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
           "sources": [
