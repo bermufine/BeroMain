@@ -111,16 +111,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "LOLLYWOOD HD TV"
 },
 
-  {
-     "description": "Bright Stars télévision est une chaîne qui prône la valeur de l'anglais et la vraie moralité dans la jeunesse.",
-          "sources": [
-            "https://stream.berosat.live:19360/bright-star/bright-star.m3u8"
-          ],
-	  "number": "414",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAzMzU2OTZf/brightstar.jpg",
-          "title": "BRIGHT STARS"
-},
 
  {
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
@@ -321,6 +311,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg",
           "title": "LA BORNE TV"
 },
+
+ {
+     "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
+          "sources": [
+            "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
+          ],
+	  "number": "675",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODY3MzA5MjRf/cheznoustv.jpg",
+          "title": "DE CHEZ NOUS"
+ },
 
  {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -607,6 +608,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "ERD TV"
 },
 
+  {
+     "description": "Bright Stars télévision est une chaîne qui prône la valeur de l'anglais et la vraie moralité dans la jeunesse.",
+          "sources": [
+            "https://stream.berosat.live:19360/bright-star/bright-star.m3u8"
+          ],
+	  "number": "414",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzMzU2OTZf/brightstar.jpg",
+          "title": "BRIGHT STARS"
+},
+
 { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
 {
@@ -881,16 +893,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "RTV SEP"
  },
 
-   {
-     "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
-          "sources": [
-            "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
-          ],
-	  "number": "825",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODY3MzA5MjRf/cheznoustv.jpg",
-          "title": "DE CHEZ NOUS"
- },
+  
 
 
 
