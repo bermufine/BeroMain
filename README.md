@@ -191,17 +191,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "OASIS MEDIA"
  },
 
-  {
-     "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
-          "sources": [
-            "https://stream.berosat.live:19360/wello-tv/wello-tv.m3u8"
-          ],
-	  "number": "417",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk2NzYxXw/welotv.jpg",
-          "title": "BY WELLO TV"
-},
-
  {
       "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
 Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
@@ -319,7 +308,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "675",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODY3MzA5MjRf/cheznoustv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTEzMTUyNzJf/chznous.jpg",
           "title": "DE CHEZ NOUS"
  },
 
