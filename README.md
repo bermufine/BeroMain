@@ -124,6 +124,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
  {
+     "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
+          ],
+	  "number": "89",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
+          "title": "SV TV"
+},
+
+
+ {
      "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
           "sources": [
             "https://stream.berosat.live:19360/marafiki-tv/marafiki-tv.m3u8"
@@ -1284,7 +1296,7 @@ CONTACTS: +2250788422056/0596455112",
 
 { "description": "Zero Zero (001) Television est une Chaîne socioculturelle pour la promotion et la valorisation de la culture congolaise", "sources": [ "https://stream.berosat.live:19360/zero-un-tv/zero-un-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzMDYzNTVf/001tv.jpg", "title": "001 TV" }, 
 
-{ "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "title": "SV-TV"},
+
 
 { "description": "Radio télé sans limite FM émettant à Lubumbashi sur la route kafubu dans la commune de kampemba non loin du terminus, Megastore arrêt de bus bubu dans les installations de l'école source du savoir à côté de l'église roche d'horeb, Nous sommes une chaine de proximité sans couleurs politique , tribal ni ethnique, Nous avons comme principe sans limite FM la chaîne de proximité. Pour toute information complémentaire n'hésitez surtout en composant +243 993 664 538 / +243 844 522 503 et Pour la direction technique / +243 999 871 406  / +243 991 017 504", "sources": [ "https://stream.berosat.live:19360/sans-limite/sans-limite.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI0MTc3NjRf/sansLimiteTV.jpg", "title": "SANS LIMITE TV"}, 
 
