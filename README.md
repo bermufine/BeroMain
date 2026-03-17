@@ -71,6 +71,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
 
+
+{
+     "description": "Rdio télévision de la Femme, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/rtv-femme/rtv-femme.m3u8"
+          ],
+	  "number": "81",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEzNzg4MTVf/rtvfemme.png",
+          "title": "RTV LA FEMME"
+},
+
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
 
   {
