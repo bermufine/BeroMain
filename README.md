@@ -212,7 +212,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 	  "number": "101",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE0MDY2NTFf/durbatexas.jpg",
-          "title": "NURU RTV"
+          "title": "DURBA TEXAS"
 },
 
 {
