@@ -204,6 +204,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KMK TV"
 },
 
+ {
+     "description": "Durba Texas télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/durba-texas/durba-texas.m3u8"
+          ],
+	  "number": "101",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MDY2NTFf/durbatexas.jpg",
+          "title": "NURU RTV"
+},
+
 {
      "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
