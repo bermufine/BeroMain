@@ -54,7 +54,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "TOSEKA TV"
  },
 
-
  {
      "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
           "sources": [
@@ -123,7 +122,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "LOLLYWOOD HD TV"
 },
 
-
+ {
+     "description": "Cntral Voce Television is a broadcasting channel from Zambia",
+          "sources": [
+            "https://www.twitch.tv/centralvoicetv"
+          ],
+	  "number": "102",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
+          "title": "CENTRAL VOICE"
+ },
+ 
  {
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
           "sources": [
