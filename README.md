@@ -134,7 +134,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
  {
-     "description": "Cntral Voce Television is a broadcasting channel from Zambia",
+     "description": "Central Voice Television is a broadcasting channel from Zambia",
           "sources": [
             "https://stream.berosat.live:19360/central-voice/central-voice.m3u8"
           ],
@@ -202,17 +202,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
      "title": "TOP NOVELAS"
   },
 
-   {
-     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
-          ],
-	  "number": "97",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
-          "title": "EDCR TV"
-},
-
 {
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
@@ -236,19 +225,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
-          ],
-	  "number": "423",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
-          "title": "LUMIERE TV"
-},
-
- { "description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
-
-{
      "description": "Oasis Média télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
             "http://stream.berosat.live/oasis-media/oasis-media.m3u8"
@@ -258,6 +234,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTA4NTY0MDhf/oasisMedia.jpg",
           "title": "OASIS MEDIA"
  },
+
+  { "description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
 
  {
       "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
@@ -270,17 +248,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
           "title": "CONGO UNIS"
  },
-
-{
-     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
-          ],
-	  "number": "888",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
-          "title": "INFO + HD TV"
-},
+ 
  {
      "description": "Kipushi 24 télévision, est une chaîne généraliste d'iformations, divertissement et la promotion Culturelle. émettant en République Démocratique du Congo,",
           "sources": [
@@ -697,6 +665,38 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIAS TV 3"
+},
+
+{
+     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
+          ],
+	  "number": "97",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
+          "title": "EDCR TV"
+},
+{
+     "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
+          ],
+	  "number": "423",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+          "title": "LUMIERE TV"
+},
+
+{
+     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "sources": [
+            "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
+          ],
+	  "number": "888",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
+          "title": "INFO + HD TV"
 },
 
 {
