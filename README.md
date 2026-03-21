@@ -85,6 +85,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
 
   {
+     "description": "Aksanti Télévision l'excellence dans toute ce diversité, Nous somme l'image de reconnaissance.",
+          "sources": [
+            "https://stream.berosat.live:19360/aksanti-tv/aksanti-tv.m3u8"
+          ],
+	  "number": "103",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MDczMTdf/aksantitv.jpg",
+          "title": "AKSANTI TV"
+ },
+
+  {
      "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
             "https://stream.berosat.live:19360/liberty-tv/liberty-tv.m3u8"
