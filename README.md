@@ -125,7 +125,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "Cntral Voce Television is a broadcasting channel from Zambia",
           "sources": [
-            "https://www.twitch.tv/centralvoicetv"
+            "https://stream.berosat.live:19360/central-voice/central-voice.m3u8"
           ],
 	  "number": "102",
           "subtitle": "All Channels",
