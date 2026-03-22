@@ -155,6 +155,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "METEO TV"
 },
 
+{
+     "description": "Ocean télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA4NTY0MDlf/oceantv.jpg",
+          "title": "OCEAN TV"
+},
+
  {
      "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
           "sources": [
@@ -213,17 +224,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KMK TV"
 },
 
- {
-     "description": "Durba Texas télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/durba-texas/durba-texas.m3u8"
-          ],
-	  "number": "101",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MDY2NTFf/durbatexas.jpg",
-          "title": "DURBA TEXAS"
-},
-
 {
      "description": "Oasis Média télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
@@ -260,17 +260,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "KIPUSHI 24 TV"
 },
 
-{
-     "description": "Ocean télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA4NTY0MDlf/oceantv.jpg",
-          "title": "OCEAN TV"
-},
-
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
  {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"},
@@ -287,18 +276,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 },
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
-
-  {
-     "description": "An-Nour Média est une chaîne de télévision locale, nationale et internationale à pour thématique islamique francophone, conçue pour offrir une programmation à la fois spirituelle, éducative et sociétale. Elle s’adresse à un public large, avec des contenus adaptés aux familles, aux jeunes et aux chercheurs de sens.  Notre ligne éditoriale repose sur trois piliers : authenticité religieuse, accessibilité culturelle, qualité visuelle.  Nous recherchons des partenaires engagés dans la diffusion 24/7 de contenus porteurs de valeurs, capables d’accompagner notre développement sur les plateformes TV, OTT et digitales. An-Nour Média – _La lumière qui guide vos pas. Contact téléphonique et WathsApp : +242 066 728 859 et Nous comptons sur vous qui est notre partenaire immédiat",
-          "sources": [
-            "http://iptv.berosat.live/hls//AN-NOUR/index.m3u8"
-          ],
-	  "number": "419",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjhf/anNourtele.png",
-          "title": "AN-NOUR MEDIA"
- },
-
  
  {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
@@ -310,17 +287,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
           "title": "HORIZON 2000 TV"
  },  
-
- {
-      "description": "RT Afrika Telema TV est une chaîne généraliste",
-          "sources": [
-            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
-          ],
-	  "number": "657",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
-          "title": "RT AFRIKA TELEMA"
- },
 
  {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
 
@@ -667,16 +633,27 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "S-MEDIAS TV 3"
 },
 
-{
-     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+ {
+      "description": "RT Afrika Telema TV est une chaîne généraliste",
           "sources": [
-            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
+            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
           ],
-	  "number": "97",
+	  "number": "657",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
-          "title": "EDCR TV"
-},
+          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
+          "title": "RT AFRIKA TELEMA"
+ },
+  {
+     "description": "An-Nour Média est une chaîne de télévision locale, nationale et internationale à pour thématique islamique francophone, conçue pour offrir une programmation à la fois spirituelle, éducative et sociétale. Elle s’adresse à un public large, avec des contenus adaptés aux familles, aux jeunes et aux chercheurs de sens.  Notre ligne éditoriale repose sur trois piliers : authenticité religieuse, accessibilité culturelle, qualité visuelle.  Nous recherchons des partenaires engagés dans la diffusion 24/7 de contenus porteurs de valeurs, capables d’accompagner notre développement sur les plateformes TV, OTT et digitales. An-Nour Média – _La lumière qui guide vos pas. Contact téléphonique et WathsApp : +242 066 728 859 et Nous comptons sur vous qui est notre partenaire immédiat",
+          "sources": [
+            "http://iptv.berosat.live/hls//AN-NOUR/index.m3u8"
+          ],
+	  "number": "419",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjhf/anNourtele.png",
+          "title": "AN-NOUR MEDIA"
+ },
+
 {
      "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
@@ -732,6 +709,27 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAyNjUzMTFf/fjsk.jpg",
           "title": "FJSK TV"
+},
+  {
+     "description": "Durba Texas télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/durba-texas/durba-texas.m3u8"
+          ],
+	  "number": "101",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MDY2NTFf/durbatexas.jpg",
+          "title": "DURBA TEXAS"
+},
+
+{
+     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
+          ],
+	  "number": "97",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
+          "title": "EDCR TV"
 },
  {
      "description": "Bienvenue sur BALOBELI YA PEUPLE Télévision Votre source incontournable d'analyses et d'actualités politiques en République Démocratique du Congo. Sous la conduite du journaliste principal Mitterrand Naya, accompagné de Pasteur Guilly, Maman Pascaline, Steve Konde HD et Âgée Kiala, nous vous apportons en temps réel les informations les plus urgentes et les débats d'actualité qui façonnent le pays.
