@@ -162,9 +162,20 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA4NTY0MDlf/oceantv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
           "title": "OCEAN TV"
 },
+
+{
+     "description": "Gplus télévision, est une chaîne chrétienne généraliste. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
+          ],
+	  "number": "104",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
+          "title": "GPLUS TV"
+}, 
 
  {
      "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
@@ -245,7 +256,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
 	  "number": "379",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4Mzlf/congounis.jpg",
           "title": "CONGO UNIS"
  },
  
