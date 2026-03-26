@@ -341,6 +341,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
 
 {
+     "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
+          "title": "MAITRE ADELARD"
+}, 
+
+{
      "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
             "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_84b6bd00a30011eeabad0fe2d8964889/index.m3u8"
