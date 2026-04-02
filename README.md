@@ -501,6 +501,17 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
+ {
+      "description": "Les Z'Amours television est une chaine generaliste.",
+          "sources": [
+            "https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8"
+          ],
+	  "number": "379",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
+          "title": "LES Z'AMOURS"
+ },
+
 {
      "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
