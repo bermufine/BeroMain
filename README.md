@@ -202,11 +202,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { 
  	"description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
 
-
-
-
-
-
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
  {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"},
@@ -221,6 +216,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
           "title": "JSN TV"
 },
+
+ {
+     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2MjEwMDFf/espectv.jpg",
+          "title": "ESPEC TV"
+ },
 
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
  
