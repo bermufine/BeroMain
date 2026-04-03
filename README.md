@@ -199,6 +199,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KMK TV"
 },
 
+{
+     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+          "sources": [
+            "https://stream.berosat.live:19360/c-one/c-one.m3u8"
+          ],
+	  "number": "417",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
+          "title": "C-ONE TV"
+ },
+
  { 
  	"description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
 
@@ -529,6 +540,19 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "LUMIERE TV"
 },
 
+ {
+     "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
+          "sources": [
+            "https://stream.berosat.live:19360/marafiki-tv/marafiki-tv.m3u8"
+          ],
+	  "number": "91",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEzMTUyODdf/mafirikitv.jpg",
+          "title": "MARAFIKI RTV"
+ },
+ 
+ { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
+
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
@@ -638,7 +662,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
           "title": "RT AFRIKA TELEMA"
  },
- { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
+  
 
 {
      "description": "Fondation Jonathan Sangu télévision est une chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
@@ -701,16 +725,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfOTA4NTY0MDhf/oasisMedia.jpg",
           "title": "OASIS MEDIA"
  },
-  {
-     "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
-          "sources": [
-            "https://stream.berosat.live:19360/marafiki-tv/marafiki-tv.m3u8"
-          ],
-	  "number": "91",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEzMTUyODdf/mafirikitv.jpg",
-          "title": "MARAFIKI RTV"
- },
+  
  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
    {
@@ -723,17 +738,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfOTE0MDczMTdf/aksantitv.jpg",
           "title": "AKSANTI TV"
  },
-  {
-     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
-          "sources": [
-            "https://stream.berosat.live:19360/c-one/c-one.m3u8"
-          ],
-	  "number": "417",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
-          "title": "C-ONE TV"
- },
-
 
 
 http://69.64.57.208/rtnc/playlist.m3u8
