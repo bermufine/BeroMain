@@ -372,6 +372,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
 {"description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.", "sources":["https://stella.streamerr.co:3776/hybrid/play.m3u8"], "number": "75", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title": "POURIM-RTV"},
+
+{
+     "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
+          ],
+	  "number": "1002",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
+          "title": "GRAND MEDIA TV"
+},
  
  {
      "description": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille.
@@ -488,7 +499,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
-            "https://c.streamhoster.com/link/hls/Wns3eE/i3hogHZs0zc/mtRZn0sX3Up_5/playlist.m3u8"
+            "https://live20.bozztv.com/akamaissh101/ssh101/evtele2xrdc/playlist.m3u8"
           ],
 	  "number": "108",
           "subtitle": "All Channels",
@@ -631,16 +642,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk0Xw/bilolotv.jpg",
           "title": "BILOLO TV"
 },
-{
-     "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
-          ],
-	  "number": "1002",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
-          "title": "GRAND MEDIA TV"
-},
+
 
 
  {
