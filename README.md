@@ -153,17 +153,6 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "CNL TV"
 },
 
- {
-     "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
-          "sources": [
-            "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
-          ],
-	  "number": "413",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
-          "title": "SIFA TV"
-},
-
 {
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
