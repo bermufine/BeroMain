@@ -143,14 +143,25 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 },
 
 {
-     "description": "Ocean télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
+     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
+            "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
           ],
-	  "number": "511",
+	  "number": "123",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
+          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
+          "title": "CNL TV"
+},
+
+ {
+     "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
+          "sources": [
+            "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
+          ],
+	  "number": "413",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
+          "title": "SIFA TV"
 },
 
 {
