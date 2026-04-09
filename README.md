@@ -221,6 +221,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "RTK MONDE"
  },
 
+ {
+     "description": "Hello TV est une Television d’information générale qui  émet depuis République démocratique du Congo. FryComs TV",
+          "sources": [
+            "https://stream.berosat.live:19360/hello-tv/hello-tv.m3u8"
+          ],
+	  "number": "126",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
+          "title": "HELLO TV"
+ },
+
 {
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
@@ -231,6 +242,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
           "title": "KMK TV"
 },
+
+ {
+     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/eloko-tv/eloko-tv.m3u8"
+          ],
+	  "number": "127",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
+          "title": "ELOKO STAR"
+ },
 
 {
      "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
