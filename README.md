@@ -372,6 +372,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "MAITRE ADELARD"
 }, 
 
+ {
+     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/sm-video/sm-video.m3u8"
+          ],
+	  "number": "128",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
+          "title": "SM-VIDEO TV"
+},
+
 {
      "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
