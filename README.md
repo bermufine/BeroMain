@@ -86,6 +86,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
 
+ {
+     "description": "Canal Orient télévision c’est une chaîne generaliste émettant depuis la ville de Kisangani en la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/canal-orient/canal-orient.m3u8"
+          ],
+	  "number": "130",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjgwNzVf/CanalOrient.jpg",
+          "title": "CANAL ORIENT"
+},
+
   {
      "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
