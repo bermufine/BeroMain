@@ -263,7 +263,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           ],
 	  "number": "127",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
           "title": "ELOKO STAR"
  },
 
@@ -303,7 +303,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           ],
 	  "number": "118",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2MjEwMDFf/espectv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODFf/Espectele.jpg",
           "title": "ESPEC TV"
  },
 
@@ -395,7 +395,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 }, 
 
  {
-     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant en Republique Democratique du Congo",
+     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
           "sources": [
             "https://stream.berosat.live:19360/sm-video/sm-video.m3u8"
           ],
