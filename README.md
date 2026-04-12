@@ -358,6 +358,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
  },
 
  {
+     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
+          ],
+	  "number": "97",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
+          "title": "EDCR TV"
+},
+
+ {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
             "https://stream.berosat.live:19360/prijana/prijana.m3u8"
@@ -603,6 +614,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  
 { "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
+ {
+     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
+          ],
+	  "number": "997",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
+          "title": "JERUBAAL TV"
+},
+
 {
           "description": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
           "sources": [
@@ -690,16 +712,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
 
 
- {
-     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
-          ],
-	  "number": "997",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
-          "title": "JERUBAAL TV"
-},
+
   {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
 {
@@ -857,16 +870,7 @@ http://69.64.57.208/rtnc/playlist.m3u8
           "title": "DURBA TEXAS"
 },
 
-{
-     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
-          ],
-	  "number": "97",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
-          "title": "EDCR TV"
-},
+
  {
      "description": "Bienvenue sur BALOBELI YA PEUPLE Télévision Votre source incontournable d'analyses et d'actualités politiques en République Démocratique du Congo. Sous la conduite du journaliste principal Mitterrand Naya, accompagné de Pasteur Guilly, Maman Pascaline, Steve Konde HD et Âgée Kiala, nous vous apportons en temps réel les informations les plus urgentes et les débats d'actualité qui façonnent le pays.
 Contact : Mitterrand Naya +243 814 229 243
