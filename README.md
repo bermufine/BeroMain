@@ -134,6 +134,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
 
 {
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
+ },
+
+{
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
@@ -413,7 +424,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
  {
-     "description": "Asociation Confesionnelle Kintuadi Kia Bangunza, est une chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungwizia, émettant depuis la République démocratique du Congo",
+     "description": "Asociation Confesionnelle Kimbangu Diatungunia Kia Bangunza, est une chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungwizia, émettant depuis la République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live:19360/ack-tv/ack-tv.m3u8"
           ],
@@ -915,16 +926,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
      "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
      "title": "FURAH TV"
   },
-{
-      "description": "Eloko Star TV est une chaîne généraliste émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live:19360/eloko-star/eloko-star.m3u8"
-          ],
-	  "number": "418",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
-          "title": "ELOKO STAR"
- },
+
    {
      "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
