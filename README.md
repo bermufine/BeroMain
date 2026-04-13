@@ -358,6 +358,28 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 },
 
  {
+     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/sm-video/sm-video.m3u8"
+          ],
+	  "number": "128",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
+          "title": "SM-VIDEO TV"
+},
+
+ {
+     "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/ack-tv/ack-tv.m3u8"
+          ],
+	  "number": "129",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjczNzFf/Ackbangunza.jpg",
+          "title": "ACK TV"
+},
+
+ {
      "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
           "sources": [
             "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
@@ -405,34 +427,12 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "MAITRE ADELARD"
 }, 
 
- {
-     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/sm-video/sm-video.m3u8"
-          ],
-	  "number": "128",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
-          "title": "SM-VIDEO TV"
-},
-
   { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
 
   { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
-
- {
-     "description": "Asociation Confesionnelle Kimbangu Diatungunia Kia Bangunza, est une chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungwizia, émettant depuis la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/ack-tv/ack-tv.m3u8"
-          ],
-	  "number": "129",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjczNzFf/Ackbangunza.jpg",
-          "title": "ACK TV"
-},
 
 {
      "description": "KKTV est une chane generaliste emettant depui londre",
