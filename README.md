@@ -178,6 +178,20 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 },
 
 {
+     "description": "Called to Reign in Christ, Dominion TV is a faith-based media platform committed to proclaiming the Gospel of Jesus Christ with power, clarity, and purpose. Rooted in the mandate of kingdom dominion, we exist to raise believers who understand their identity in Christ and walk boldly in authority, victory, and righteousness.
+Through inspiring teachings, prophetic broadcasts, worship experiences, and life-transforming programs, Dominion TV reaches nations with a message of hope, restoration, and spiritual empowerment. We are dedicated to equipping individuals, families, and ministries to reign in life through Christ Jesus.
+At Dominion TV, we believe that every believer is called not just to survive—but to reign.
+Dominion TV — Raising a generation called to reign in Christ",
+          "sources": [
+            "https://stream.berosat.live:19360/dominion-tv/dominion-tv.m3u8"
+          ],
+	  "number": "132",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE3MDk1MThf/Domingos.jpg",
+          "title": "DOMINION TV"
+ },
+
+{
      "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
