@@ -151,7 +151,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           ],
 	  "number": "133",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE3MTUxNzJf/Pamojacanal.jpg",
+          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
           "title": "PAMOJA CANAL"
  },
 
