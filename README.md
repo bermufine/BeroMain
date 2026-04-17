@@ -144,6 +144,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "OCEAN TV"
  },
 
+ {
+     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
+          ],
+	  "number": "133",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE3MTUxNzJf/Pamojacanal.jpg",
+          "title": "PAMOJA CANAL"
+ },
+
 {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
