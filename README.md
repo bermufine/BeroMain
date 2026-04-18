@@ -86,17 +86,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
 
- {
-     "description": "Canal Orient télévision c’est une chaîne generaliste émettant depuis la ville de Kisangani en la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/canal-orient/canal-orient.m3u8"
-          ],
-	  "number": "130",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjgwNzVf/CanalOrient.jpg",
-          "title": "CANAL ORIENT"
-},
-
   {
      "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
@@ -235,17 +224,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "SV TV"
 },
 
-{
-     "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
-          ],
-	  "number": "441",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
-          "title": "MOSAIQUE TV"
- },
-
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
  {
@@ -355,19 +333,9 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
           "title": "RT AFRIKA TELEMA"
  },
- 
- {
-      "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
-          ],
-	  "number": "57",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
-          "title": "HORIZON 2000 TV"
- },  
 
- {"description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
+ {
+   "description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
 
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
@@ -684,18 +652,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "EGG PRO TV"
  },
 
-  {
-      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
-Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
-          "sources": [
-            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
-          ],
-	  "number": "379",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4Mzlf/congounis.jpg",
-          "title": "CONGO UNIS"
- },
-
 { "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
@@ -731,6 +687,49 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTEzMTUyODdf/mafirikitv.jpg",
           "title": "MARAFIKI RTV"
+ },
+
+  {
+      "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
+          ],
+	  "number": "57",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
+          "title": "HORIZON 2000 TV"
+ },  
+ {
+     "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
+          ],
+	  "number": "441",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
+          "title": "MOSAIQUE TV"
+ },
+ {
+     "description": "Canal Orient télévision c’est une chaîne generaliste émettant depuis la ville de Kisangani en la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/canal-orient/canal-orient.m3u8"
+          ],
+	  "number": "130",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjgwNzVf/CanalOrient.jpg",
+          "title": "CANAL ORIENT"
+},
+
+  {
+      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
+Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
+          "sources": [
+            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
+          ],
+	  "number": "379",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4Mzlf/congounis.jpg",
+          "title": "CONGO UNIS"
  },
  
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
