@@ -372,6 +372,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "ACK TV"
 },
 
+{ 
+      "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
+	   "sources": [
+            "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "88",
+          "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
+          "title": "DESTINY CHANNEL"
+},
+
 {
      "description": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
@@ -759,8 +770,9 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
 
 
-
-  {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
+        
+ 
+  
 
 {
      "description": "MAGECO PRO TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
