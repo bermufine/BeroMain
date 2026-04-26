@@ -133,27 +133,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "OCEAN TV"
  },
 
- {
-     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
-          ],
-	  "number": "133",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
-          "title": "PAMOJA CANAL"
- },
 
-{
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
-          ],
-	  "number": "785",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
-          "title": "LOLLYWOOD HD TV"
-},
 
  {
      "description": "Central Voice Television is a broadcasting channel from Zambia",
@@ -201,17 +181,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
           "title": "CNL TV"
 },
-
-{
-     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
-          ],
-	  "number": "104",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
-          "title": "GPLUS TV"
-}, 
 
  {
      "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
@@ -292,9 +261,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "C-ONE TV"
  },
 
- { 
- 	"description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
-
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
  {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"},
@@ -309,6 +275,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
           "title": "JSN TV"
 },
+
+{
+      "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
+          ],
+	  "number": "57",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
+          "title": "HORIZON 2000 TV"
+ },
 
  {
      "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -383,17 +360,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "DESTINY CHANNEL"
 },
 
-{
-     "description": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "https://stream.berosat.live:19360/intello-plus/intello-plus.m3u8"
-          ],
-	  "number": "1001",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
-          "title": "INTELLO+ TV"
-},
-
  {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -404,8 +370,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
           "title": "PRIJANA TV"
 },
-
-{ "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
 
@@ -676,17 +640,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTEzMTUyODdf/mafirikitv.jpg",
           "title": "MARAFIKI RTV"
- },
-
-  {
-      "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
-          ],
-	  "number": "57",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
-          "title": "HORIZON 2000 TV"
  },  
  {
      "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
@@ -698,6 +651,34 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
           "title": "MOSAIQUE TV"
  },
+
+ { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
+
+{
+     "description": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "https://stream.berosat.live:19360/intello-plus/intello-plus.m3u8"
+          ],
+	  "number": "1001",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
+          "title": "INTELLO+ TV"
+},
+
+ { 
+ 	"description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
+
+{
+     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
+          ],
+	  "number": "104",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
+          "title": "GPLUS TV"
+}, 
+
  {
      "description": "Canal Orient télévision c’est une chaîne generaliste émettant depuis la ville de Kisangani en la République démocratique du Congo",
           "sources": [
@@ -743,6 +724,28 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
           "title": "EDCR TV"
+},
+
+ {
+     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
+          ],
+	  "number": "133",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
+          "title": "PAMOJA CANAL"
+ },
+
+{
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
+          "title": "LOLLYWOOD HD TV"
 },
 
 {
