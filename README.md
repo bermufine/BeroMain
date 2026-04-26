@@ -430,6 +430,28 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
           "title": "GRAND MEDIA TV"
 },
+
+ {
+     "description": "Yeshoua Tv :, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://neriyastreaming.ddns.net/memfs/72d07006-7c26-411e-b192-4b425e2f0366.m3u8"
+          ],
+	  "number": "137",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NDM1OTdf/yeshouatv.jpg",
+          "title": "YOSHOUA TV"
+},
+
+ {
+     "description": "Source inter tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://neriyastreaming.ddns.net/memfs/23605fb9-22e5-4370-9cd5-06f5c9306379.m3u8"
+          ],
+	  "number": "138",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NDM1OTVf/sourcetv.jpg",
+          "title": SOURCE INTER TV"
+},
  
  {
      "description": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille.
