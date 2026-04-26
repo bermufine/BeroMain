@@ -133,8 +133,6 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "OCEAN TV"
  },
 
-
-
  {
      "description": "Central Voice Television is a broadcasting channel from Zambia",
           "sources": [
@@ -450,7 +448,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 	  "number": "138",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE5NDM1OTVf/sourcetv.jpg",
-          "title": SOURCE INTER TV"
+          "title": "SOURCE INTER TV"
 },
  
  {
@@ -563,6 +561,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
           "title": "EV TELE"
+},
+
+{
+     "description": "H3 tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
+          ],
+	      "number": "139",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
+          "title": "GRAND MEDIA TV"
 },
 
 {
