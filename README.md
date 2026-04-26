@@ -430,14 +430,14 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
  {
-     "description": "Yeshoua Tv :, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+     "description": "Yeshoua Tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
             "https://neriyastreaming.ddns.net/memfs/72d07006-7c26-411e-b192-4b425e2f0366.m3u8"
           ],
 	  "number": "137",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE5NDM1OTdf/yeshouatv.jpg",
-          "title": "YOSHOUA TV"
+          "title": "YESHOUA TV"
 },
 
  {
