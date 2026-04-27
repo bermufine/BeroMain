@@ -120,6 +120,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "SIFA TV"
 },
 
+{
+     "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
+          "sources": [
+            "https://stream.berosat.live:19360/tv7vie/tv7vie.m3u8"
+          ],
+	  "number": "140",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NDYxMTZf/Tv7vie.jpg",
+          "title": "TV7 VIE"
+ },
+
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
 
 {
@@ -224,17 +235,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
           "title": "HELLO TV"
- },
-
-  {
-     "description": "TV7 VIE télévision est une chaîne généraliste émettant depuis Benin.",
-          "sources": [
-            "https://stream.berosat.live:19360/tv7vie/tv7vie.m3u8"
-          ],
-	  "number": "140",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5NDYxMTZf/Tv7vie.jpg",
-          "title": "TV7 VIE"
  },
 
 {
