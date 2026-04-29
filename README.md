@@ -296,6 +296,9 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "HORIZON 2000 TV"
  },
 
+ { 
+	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
+
  {
      "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -396,9 +399,6 @@ Dominion TV — Raising a generation called to reign in Christ",
   { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
-
-  { 
-	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
 {
      "description": "KKTV est une chane generaliste emettant depui londre",
@@ -542,7 +542,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 {
      "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo...",
           "sources": [
-            "http://173.212.239.172:3215/hybrid/play.m3u8"
+            "https://eggproiptv.duckdns.org:3215/hybrid/play.m3u8"
           ],
 	  "number": "415",
           "subtitle": "All Channels",
@@ -681,17 +681,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTEzMTUyODdf/mafirikitv.jpg",
           "title": "MARAFIKI RTV"
  },  
- {
-     "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
-          ],
-	  "number": "441",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
-          "title": "MOSAIQUE TV"
- },
-
+ 
  { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 {
@@ -719,17 +709,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "GPLUS TV"
 }, 
 
- {
-     "description": "Canal Orient télévision c’est une chaîne generaliste émettant depuis la ville de Kisangani en la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/canal-orient/canal-orient.m3u8"
-          ],
-	  "number": "130",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjgwNzVf/CanalOrient.jpg",
-          "title": "CANAL ORIENT"
-},
-
   {
       "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
 Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
@@ -743,28 +722,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
  },
  
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
-
-  {
-     "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
-          "sources": [
-            "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
-          ],
-	  "number": "675",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEzMTUyNzJf/chznous.jpg",
-          "title": "DE CHEZ NOUS"
- },
-
- {
-     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
-          ],
-	  "number": "97",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
-          "title": "EDCR TV"
-},
 
  {
      "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
@@ -815,7 +772,52 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
         
  
-{ "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com", "sources": [ "http://livestream.kgsols.com/push/KeurN/playlist.m3u8" ], "number": "67", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg", "title": "KEUR NDANANE TV"},   
+{ "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com", "sources": [ "http://livestream.kgsols.com/push/KeurN/playlist.m3u8" ], "number": "67", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg", "title": "KEUR NDANANE TV"},  
+
+ {
+     "description": "Église de Dieu des Chrétiens Rachetés télévision, est une Chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/edcr-tv/edcr-tv.m3u8"
+          ],
+	  "number": "97",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEyODMwMjlf/edcrtv.jpg",
+          "title": "EDCR TV"
+},
+
+{
+     "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
+          ],
+	  "number": "441",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
+          "title": "MOSAIQUE TV"
+ },
+
+
+{
+     "description": "Canal Orient télévision c’est une chaîne generaliste émettant depuis la ville de Kisangani en la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/canal-orient/canal-orient.m3u8"
+          ],
+	  "number": "130",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjgwNzVf/CanalOrient.jpg",
+          "title": "CANAL ORIENT"
+},
+
+ {
+     "description": "De Chez Nous télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
+          "sources": [
+            "https://stream.berosat.live:19360/cntv-index/cntv-index.m3u8"
+          ],
+	  "number": "675",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEzMTUyNzJf/chznous.jpg",
+          "title": "DE CHEZ NOUS"
+ },
 
 {
      "description": "MAGECO PRO TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
