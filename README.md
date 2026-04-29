@@ -170,6 +170,17 @@ Dominion TV — Raising a generation called to reign in Christ",
  },
 
 {
+     "description": "En Vrac Television une chaîne généraliste basée à Lubumbashi abordant tous les sujets sans distinction : actualité, débats, culture, relation,santé, sport, société...pour informer, divertir et faire réfléchir. EN VRAC mais, pas en désordre.",
+          "sources": [
+            "https://stream.berosat.live:19360/envrac-tv/envrac-tv.m3u8"
+          ],
+	  "number": "140",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5Njk5Njhf/envractv.jpg",
+          "title": "EN VRAC TV"
+ },
+
+{
      "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
