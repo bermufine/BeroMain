@@ -194,7 +194,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 {
      "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
           "sources": [
-            "tps://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
+            "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
           ],
 	  "number": "141",
           "subtitle": "All Channels",
