@@ -485,29 +485,6 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
           "title": "NSIA TV"
 },
 
-{
-     "description": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
-          ],
-	  "number": "998",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
-          "title": "RUPTURE TV"
-},
-
-{
-     "description": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions.
-CONTACTS: +2250788422056/0596455112",
-          "sources": [
-            "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
-          ],
-	  "number": "792",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
-          "title": " P'AFRICA TV"
-},
-
 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
 
@@ -634,28 +611,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  
 { "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
- {
-     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
-          ],
-	  "number": "997",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
-          "title": "JERUBAAL TV"
-},
-
-{
-          "description": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@EGG_PRO_TV.m3u8"
-          ],
-	  "number": "106",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
-          "title": "EGG PRO TV"
- },
-
 { "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
  {
@@ -668,17 +623,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
  },
-
-{
-     "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
-          ],
-	  "number": "423",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
-          "title": "LUMIERE TV"
-},
 
  {
      "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
@@ -694,20 +638,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 {
-     "description": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "https://stream.berosat.live:19360/intello-plus/intello-plus.m3u8"
-          ],
-	  "number": "1001",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
-          "title": "INTELLO+ TV"
-},
-
- { 
- 	"description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
-
-{
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
             "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
@@ -717,18 +647,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
           "title": "GPLUS TV"
 }, 
-
-  {
-      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
-Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
-          "sources": [
-            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
-          ],
-	  "number": "379",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4Mzlf/congounis.jpg",
-          "title": "CONGO UNIS"
- },
  
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
@@ -743,15 +661,28 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "title": "PAMOJA CANAL"
  },
 
+ 
 {
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+     "description": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
-            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
           ],
-	  "number": "785",
+	  "number": "998",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
-          "title": "LOLLYWOOD HD TV"
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
+          "title": "RUPTURE TV"
+},
+
+{
+     "description": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions.
+CONTACTS: +2250788422056/0596455112",
+          "sources": [
+            "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
+          ],
+	  "number": "792",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
+          "title": " P'AFRICA TV"
 },
 
 {
@@ -779,7 +710,69 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
 
 
-        
+{
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
+          "title": "LOLLYWOOD HD TV"
+}, 
+ {
+     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
+          ],
+	  "number": "997",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
+          "title": "JERUBAAL TV"
+},
+{
+          "description": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@EGG_PRO_TV.m3u8"
+          ],
+	  "number": "106",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
+          "title": "EGG PRO TV"
+ },
+{
+     "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
+          ],
+	  "number": "423",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+          "title": "LUMIERE TV"
+},
+{
+     "description": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "https://stream.berosat.live:19360/intello-plus/intello-plus.m3u8"
+          ],
+	  "number": "1001",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
+          "title": "INTELLO+ TV"
+},
+ { 
+ 	"description": "La Voie de la Verité Télévision Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg", "title": "VOIE DE VERITE" },
+{
+      "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  
+Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
+          "sources": [
+            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
+          ],
+	  "number": "379",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4Mzlf/congounis.jpg",
+          "title": "CONGO UNIS"
+ },
  
 { "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com", "sources": [ "http://livestream.kgsols.com/push/KeurN/playlist.m3u8" ], "number": "67", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg", "title": "KEUR NDANANE TV"},  
 
