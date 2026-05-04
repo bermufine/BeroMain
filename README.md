@@ -227,6 +227,17 @@ Dominion TV — Raising a generation called to reign in Christ",
   },
 
    {
+     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
+          ],
+	  "number": "143",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "title": "FM TV"
+},
+
+   {
      "description": "RTK Monde Télévision est une chaîne kimbanguiste emettant depuis kinshasa en République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live:19360/rtk-monde/rtk-monde.m3u8"
@@ -1095,16 +1106,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "NOVO SOPRO TV"
  },
 
-   {
-     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
-          "title": "FM TV"
-},
+  
 {
      "description": "Hertina, est une chaîne télévision généraliste émettant à partir depuis Kinshasa",
           "sources": [
