@@ -635,6 +635,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "LES Z'AMOURS"
  },
 
+  {
+     "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
+          ],
+	  "number": "141",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIwNTE5NzJf/Zamirirtv.png",
+          "title": "ZAMIRI TV"
+ },
+
  {
      "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
           "sources": [
@@ -797,16 +808,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumb": "https://od.lk/s/NDZfOTE5Njk5Njhf/envractv.jpg",
           "title": "EN VRAC TV"
  },
- {
-     "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
-          ],
-	  "number": "141",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5NzQ4MDhf/zamiritv.jpg",
-          "title": "ZAMIRI TV"
- },
+
 
  { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "number": "86", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
 
