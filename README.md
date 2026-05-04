@@ -134,14 +134,14 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
 
 {
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+     "description": "Z-Channel Télévision, la chaîne d'expression.",
           "sources": [
-            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
+            "http://84.234.17.48:8080/zchannel/video.m3u8"
           ],
-	  "number": "511",
+	  "number": "144",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
+          "thumb": "https://od.lk/s/NDZfOTIwNzQyMzFf/Zchannel.jpg",
+          "title": "Z-CHANNEL TV"
  },
 
  {
@@ -444,6 +444,16 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "AFRI TV"
 },
 
+ {
+     "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
+          ],
+	  "number": "141",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIwNTE5NzJf/Zamirirtv.png",
+          "title": "ZAMIRI TV"
+ },
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
@@ -635,17 +645,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "LES Z'AMOURS"
  },
 
-  {
-     "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
-          ],
-	  "number": "141",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIwNTE5NzJf/Zamirirtv.png",
-          "title": "ZAMIRI TV"
- },
-
  {
      "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
           "sources": [
@@ -706,6 +705,17 @@ CONTACTS: +2250788422056/0596455112",
           "thumb": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
           "title": " P'AFRICA TV"
 },
+
+{
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
+ },
 
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
