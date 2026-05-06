@@ -193,9 +193,9 @@ Dominion TV — Raising a generation called to reign in Christ",
 
 {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [
-            "https://stream.berosat.live:19360/mstv/mstv.m3u8"
-          ],
+          "sources": [    
+		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
+		  ],
 	  "number": "142",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
