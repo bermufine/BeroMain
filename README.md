@@ -321,17 +321,6 @@ Dominion TV — Raising a generation called to reign in Christ",
  { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
- {
-     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
-          ],
-	  "number": "118",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjkwODFf/Espectele.jpg",
-          "title": "ESPEC TV"
- },
-
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
 {
@@ -406,17 +395,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
-
-{
-     "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
-          ],
-	  "number": "118",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
-          "title": "MAITRE ADELARD"
-}, 
 
   { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
@@ -643,17 +621,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
- },
-
- {
-     "description": "Radio et Télévision Marafiki de Kasumbalesa, c’est donc la voix de la communauté, le miroir de la ville et un acteur du développement local dans le Haut-Katanga.",
-          "sources": [
-            "https://stream.berosat.live:19360/marafiki-tv/marafiki-tv.m3u8"
-          ],
-	  "number": "91",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEzMTUyODdf/mafirikitv.jpg",
-          "title": "MARAFIKI RTV"
  },  
  
  { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
@@ -715,7 +682,17 @@ CONTACTS: +2250788422056/0596455112",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
           "title": "OCEAN TV"
- },
+ }, 
+  {
+     "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
+          "title": "MAITRE ADELARD"
+}, 
 
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
@@ -752,6 +729,17 @@ CONTACTS: +2250788422056/0596455112",
           "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
           "title": "LOLLYWOOD HD TV"
 }, 
+
+ {
+     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODFf/Espectele.jpg",
+          "title": "ESPEC TV"
+ },
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
