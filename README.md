@@ -74,7 +74,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "09",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTI",
+          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
           "title": "BERO NOVELAS"
  },
 
