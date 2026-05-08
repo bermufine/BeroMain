@@ -226,6 +226,17 @@ Dominion TV — Raising a generation called to reign in Christ",
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
+ {
+     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
+          "title": "ESPEC TV"
+ },
+
   {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -247,17 +258,6 @@ Dominion TV — Raising a generation called to reign in Christ",
      "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
      "title": "TOP NOVELAS"
   },
-
-   {
-     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
-          ],
-	  "number": "143",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
-          "title": "FM TV"
-},
 
    {
      "description": "RTK Monde Télévision est une chaîne kimbanguiste emettant depuis kinshasa en République démocratique du Congo",
@@ -716,6 +716,17 @@ CONTACTS: +2250788422056/0596455112",
           "title": "MAITRE ADELARD"
 }, 
 
+ {
+     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8"
+          ],
+	  "number": "143",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "title": "FM TV"
+},
+
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
@@ -752,16 +763,7 @@ CONTACTS: +2250788422056/0596455112",
           "title": "LOLLYWOOD HD TV"
 }, 
 
- {
-     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
-          ],
-	  "number": "118",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjkwODFf/Espectele.jpg",
-          "title": "ESPEC TV"
- },
+
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
