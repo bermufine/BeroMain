@@ -270,6 +270,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "RTK MONDE"
  },
 
+  {
+     "description": "Centre Evangelique Parole Vivante TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live:19360/cepv/cepv.m3u8"
+          ],
+	  "number": "144",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIzMjI4MjZf/Cepvtv.jpg",
+          "title": "CEPV TV"
+},
+
  {
      "description": "Hello TV est une Television d’information générale qui  émet depuis République démocratique du Congo. FryComs TV",
           "sources": [
