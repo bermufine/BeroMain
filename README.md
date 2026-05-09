@@ -238,6 +238,17 @@ Dominion TV — Raising a generation called to reign in Christ",
  },
 
   {
+     "description": "Siloe TV Monde.",
+          "sources": [
+            "https://stream.berosat.live:19360/siloe-monde/siloe-monde.m3u8"
+          ],
+	  "number": "145",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIzMzYwOTNf/SiloeMonde.jpg",
+          "title": "SILOE-MONDE"
+},
+
+  {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
             "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
