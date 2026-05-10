@@ -192,17 +192,6 @@ Dominion TV — Raising a generation called to reign in Christ",
  },
 
 {
-     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
-          ],
-	  "number": "123",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
-          "title": "CNL TV"
-},
-
-{
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
 		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
@@ -291,17 +280,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTIzMjI4MjZf/Cepvtv.jpg",
           "title": "CEPV TV"
 },
-
- {
-     "description": "Hello TV est une Television d’information générale qui  émet depuis République démocratique du Congo. FryComs TV",
-          "sources": [
-            "https://stream.berosat.live:19360/hello-tv/hello-tv.m3u8"
-          ],
-	  "number": "126",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
-          "title": "HELLO TV"
- },
 
 {
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
@@ -649,8 +627,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
     },
 
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://255107.global.ssl.fastly.net/69496b32c63e44e37d789f03/live_a2555b10df6111f0851d555ab6ecb103/index.m3u8" ], "number": "104", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
-
- { "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
  
 { "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
@@ -666,8 +642,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
  },  
- 
- { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 {
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
@@ -693,18 +667,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "PAMOJA CANAL"
  },
 
- 
-{
-     "description": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
-          ],
-	  "number": "998",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
-          "title": "RUPTURE TV"
-},
-
 {
      "description": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions.
 CONTACTS: +2250788422056/0596455112",
@@ -727,16 +689,6 @@ CONTACTS: +2250788422056/0596455112",
           "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
           "title": "OCEAN TV"
  }, 
-  {
-     "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
-          ],
-	  "number": "118",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
-          "title": "MAITRE ADELARD"
-}, 
 
  {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
@@ -784,6 +736,49 @@ CONTACTS: +2250788422056/0596455112",
           "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
           "title": "LOLLYWOOD HD TV"
 }, 
+ { "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
+{
+     "description": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
+          ],
+	  "number": "998",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
+          "title": "RUPTURE TV"
+},
+ {
+     "description": "Hello TV est une Television d’information générale qui  émet depuis République démocratique du Congo. FryComs TV",
+          "sources": [
+            "https://stream.berosat.live:19360/hello-tv/hello-tv.m3u8"
+          ],
+	  "number": "126",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
+          "title": "HELLO TV"
+ },
+ {
+     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
+          ],
+	  "number": "123",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
+          "title": "CNL TV"
+},
+ {
+     "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
+          "title": "MAITRE ADELARD"
+}, 
+
+ { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 
  {
