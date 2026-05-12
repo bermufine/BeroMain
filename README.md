@@ -282,6 +282,17 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
 {
+     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
+          ],
+	  "number": "104",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
+          "title": "GPLUS TV"
+}, 
+
+{
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
             "https://stream.berosat.live:19360/kmk-index/kmk-index.m3u8"
@@ -317,17 +328,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
  {"description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.", "sources":["https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"], "number": "59", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg","title": "ESAIE 45 TELE"},
-
-  {
-     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
-          "title": "JSN TV"
-},
 
 {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
@@ -403,17 +403,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 		  "number": "88",
           "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
           "title": "DESTINY CHANNEL"
-},
-
- {
-     "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/prijana/prijana.m3u8"
-          ],
-	  "number": "432",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
-          "title": "PRIJANA TV"
 },
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
@@ -642,17 +631,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
  },  
-
-{
-     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
-          ],
-	  "number": "104",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
-          "title": "GPLUS TV"
-}, 
  
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
@@ -666,6 +644,28 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
           "title": "PAMOJA CANAL"
  },
+
+ {
+     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "title": "JSN TV"
+},
+
+ {
+     "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live:19360/prijana/prijana.m3u8"
+          ],
+	  "number": "432",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
+          "title": "PRIJANA TV"
+},
 
 {
       "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
