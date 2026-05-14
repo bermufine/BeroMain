@@ -59,7 +59,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
   {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
-            "http://iptv.berosat.live/hls/INFOS-PLUS/index.m3u8"
+            "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
           ],
 	  "number": "142",
           "subtitle": "All Channels",
