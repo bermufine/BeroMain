@@ -1,6 +1,16 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
+          "sources": [    
+		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
+		  ],
+	  "number": "142",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "title": "MS TV"
+},
+{
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
@@ -120,17 +130,6 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "WALK OF FAITH TV"
 },
 
- {
-     "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
-          "sources": [
-            "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
-          ],
-	  "number": "413",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
-          "title": "SIFA TV"
-},
-
 {
      "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
           "sources": [
@@ -191,15 +190,26 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "DOMINION TV"
  },
 
-{
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
-		  ],
-	  "number": "142",
+ {
+     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/eloko-tv/eloko-tv.m3u8"
+          ],
+	  "number": "127",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
+          "title": "ELOKO STAR"
+ },
+
+  {
+     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/afri-tv/afri-tv.m3u8"
+          ],
+	  "number": "131",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
+          "title": "AFRI TV"
 },
 
  {
@@ -259,17 +269,6 @@ Dominion TV — Raising a generation called to reign in Christ",
      "title": "TOP NOVELAS"
   },
 
-   {
-     "description": "RTK Monde Télévision est une chaîne kimbanguiste emettant depuis kinshasa en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/rtk-monde/rtk-monde.m3u8"
-          ],
-	  "number": "121",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDY2NjZf/rtkmondetv.jpg",
-          "title": "RTK MONDE"
- },
-
   {
      "description": "Centre Evangelique Parole Vivante TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
@@ -302,17 +301,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
           "title": "KMK TV"
 },
-
- {
-     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/eloko-tv/eloko-tv.m3u8"
-          ],
-	  "number": "127",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
-          "title": "ELOKO STAR"
- },
 
 {
      "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
@@ -421,17 +409,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
  },
-
-  {
-     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/afri-tv/afri-tv.m3u8"
-          ],
-	  "number": "131",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
-          "title": "AFRI TV"
-},
 
  {
      "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
@@ -678,16 +655,27 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "OCEAN TV"
  }, 
 
-{
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+ {
+     "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
           "sources": [
-            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
+            "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
           ],
-	  "number": "511",
+	  "number": "413",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
-          "title": "FRYCOMS TV"
- 				}
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
+          "title": "SIFA TV"
+},
+
+{
+     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
+          "sources": [    
+		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
+		  ],
+	  "number": "142",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "title": "MS TV"
+				}
 			]
 		}
 	]
@@ -713,6 +701,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
           "title": "LOLLYWOOD HD TV"
 }, 
+ {
+     "description": "RTK Monde Télévision est une chaîne kimbanguiste emettant depuis kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/rtk-monde/rtk-monde.m3u8"
+          ],
+	  "number": "121",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDY2NjZf/rtkmondetv.jpg",
+          "title": "RTK MONDE"
+ },
  { "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
 {
      "description": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
