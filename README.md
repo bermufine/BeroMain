@@ -1,16 +1,6 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
-		  ],
-	  "number": "142",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
-},
-{
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
@@ -77,6 +67,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "INFO + HD TV"
 },
 
+{
+     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
+          "sources": [    
+		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
+		  ],
+	  "number": "142",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "title": "MS TV"
+},
+
  {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
@@ -90,17 +91,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
-
- {
-     "description": "Télé Plus télévision c’est une chaîne generaliste émettant depuis la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/tele-plus/tele-plus.m3u8"
-          ],
-	  "number": "125",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NTE0NDdf/teleplus.jpg",
-          "title": "TELE PLUS"
-},
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
 
@@ -294,7 +284,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 {
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
-            "https://stream.berosat.live:19360/kmk-index/kmk-index.m3u8"
+            "http://iptv.berosat.live/hls/KMK-TV/index.m3u8"
           ],
 	  "number": "885",
           "subtitle": "All Channels",
@@ -408,17 +398,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
- },
-
- {
-     "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
-          ],
-	  "number": "141",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIwNTE5NzJf/Zamirirtv.png",
-          "title": "ZAMIRI TV"
  },
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
@@ -690,6 +669,26 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
+ {
+     "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
+          ],
+	  "number": "141",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIwNTE5NzJf/Zamirirtv.png",
+          "title": "ZAMIRI TV"
+ },
+  {
+     "description": "Télé Plus télévision c’est une chaîne generaliste émettant depuis la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/tele-plus/tele-plus.m3u8"
+          ],
+	  "number": "125",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NTE0NDdf/teleplus.jpg",
+          "title": "TELE PLUS"
+},
 
 {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
