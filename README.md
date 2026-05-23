@@ -405,6 +405,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "ACK TV"
 },
 
+  {
+     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
+          ],
+	  "number": "123",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
+          "title": "CNL TV"
+},
+
 { 
       "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
 	   "sources": [
@@ -529,7 +540,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 {
      "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo...",
           "sources": [
-            "https://bmtv1.be/stream/play.m3u8"
+            "https://bmtv.be/stream/play.m3u8"
           ],
 	  "number": "415",
           "subtitle": "All Channels",
@@ -643,17 +654,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
           "title": "PRIJANA TV"
-},
-
-  {
-     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
-          ],
-	  "number": "123",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
-          "title": "CNL TV"
 },
 
  {
