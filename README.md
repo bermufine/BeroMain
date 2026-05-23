@@ -225,6 +225,17 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
  {
+     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
+          ],
+	  "number": "133",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
+          "title": "PAMOJA CANAL"
+ },
+
+ {
      "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
           "sources": [
             "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
@@ -611,17 +622,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  },  
  
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
-
- {
-     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
-          ],
-	  "number": "133",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
-          "title": "PAMOJA CANAL"
- },
 
  {
      "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
