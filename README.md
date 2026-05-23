@@ -656,27 +656,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "PRIJANA TV"
 },
 
- {
-     "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
-          "sources": [
-            "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
-          ],
-	  "number": "413",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
-          "title": "SIFA TV"
-},
-
 {
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
-		  ],
-	  "number": "142",
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
+          ],
+	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
-				}
+          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "title": "FRYCOMS TV"
+ 				}
 			]
 		}
 	]
@@ -710,6 +699,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE2NTE0NDdf/teleplus.jpg",
           "title": "TELE PLUS"
+},
+
+ {
+     "description": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais",
+          "sources": [
+            "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
+          ],
+	  "number": "413",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
+          "title": "SIFA TV"
 },
 
 {
