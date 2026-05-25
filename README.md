@@ -61,7 +61,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "sources": [
             "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
           ],
-	  "number": "142",
+	  "number": "144",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
           "title": "INFO + HD TV"
@@ -284,7 +284,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
-     "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+     "http://ip-pro.berosat.live/hls/live/TOP-NOVELAS/index.m3u8"
           ],
 	 "number": "421",
      "subtitle": "All Channel",
