@@ -52,7 +52,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
           "title": "NURU RTV"
-}, 
+},
+
+{
+     "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
+          "sources": [
+            "https://stream.berosat.live:19360/yabiso-tv/yabiso-tv.m3u8"
+          ],
+	  "number": "146",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI3MjYzNTZf/Yabisotv.jpg",
+          "title": "YA BISO TV"
+ },
 
  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
