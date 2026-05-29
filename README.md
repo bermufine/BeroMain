@@ -16,7 +16,7 @@
  {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
-     "http://ip-pro.berosat.live/hls/live/TOP-NOVELAS/index.m3u8"
+     "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
           ],
 	 "number": "421",
      "subtitle": "All Channel",
