@@ -1,6 +1,33 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
+          "sources": [    
+		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
+		  ],
+	  "number": "142",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "title": "MS TV"
+},
+
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "http://ip-pro.berosat.live/hls/live/BALADE-MONDE/index.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
+
+ {
+    "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+    "sources": [
+     "http://ip-pro.berosat.live/hls/live/TOP-NOVELAS/index.m3u8"
+          ],
+	 "number": "421",
+     "subtitle": "All Channel",
+     "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+     "title": "TOP NOVELAS"
+  },
+
+{
+   "description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["http://ip-pro.berosat.live/hls/live/JOS-TV/index.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
+
+{
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
@@ -65,8 +92,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "YA BISO TV"
  },
 
- {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
-
   {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
@@ -76,17 +101,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
           "title": "INFO + HD TV"
-},
-
-{
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
-		  ],
-	  "number": "142",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
 },
 
  {
@@ -131,34 +145,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "WALK OF FAITH TV"
 },
 
-{
-     "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
-          "sources": [
-            "https://stream.berosat.live:19360/tv7vie/tv7vie.m3u8"
-          ],
-	  "number": "140",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5NDYxMTZf/Tv7vie.jpg",
-          "title": "TV7 VIE"
- },
-
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
-
-{ "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "http://ip-pro.berosat.live/hls/live/BALADE-MONDE/index.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
-
- {
-   "description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["http://ip-pro.berosat.live/hls/live/JOS-TV/index.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
-
-{
-     "description": "Z-Channel Télévision, la chaîne d'expression.",
-          "sources": [
-            "http://84.234.17.48:8080/zchannel/video.m3u8"
-          ],
-	  "number": "144",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIwNzQyMzFf/Zchannel.jpg",
-          "title": "Z-CHANNEL TV"
- },
 
  {
      "description": "Central Voice Television is a broadcasting channel from Zambia",
@@ -241,17 +228,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
  {
-     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
-          ],
-	  "number": "133",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
-          "title": "PAMOJA CANAL"
- },
-
- {
      "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
           "sources": [
             "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
@@ -296,17 +272,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIAS TV 3"
 },
-
- {
-    "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
-    "sources": [
-     "http://ip-pro.berosat.live/hls/live/TOP-NOVELAS/index.m3u8"
-          ],
-	 "number": "421",
-     "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
-     "title": "TOP NOVELAS"
-  },
 
   {
      "description": "Centre Evangelique Parole Vivante TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
@@ -667,6 +632,40 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "JSN TV"
 },
 
+{
+     "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
+          "sources": [
+            "https://stream.berosat.live:19360/tv7vie/tv7vie.m3u8"
+          ],
+	  "number": "140",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NDYxMTZf/Tv7vie.jpg",
+          "title": "TV7 VIE"
+ },
+  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
+
+  {
+     "description": "Z-Channel Télévision, la chaîne d'expression.",
+          "sources": [
+            "http://84.234.17.48:8080/zchannel/video.m3u8"
+          ],
+	  "number": "144",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIwNzQyMzFf/Zchannel.jpg",
+          "title": "Z-CHANNEL TV"
+ },
+
+ {
+     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
+          ],
+	  "number": "133",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
+          "title": "PAMOJA CANAL"
+ },
+
  {
      "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -679,15 +678,15 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
 {
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
-          ],
-	  "number": "511",
+     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
+          "sources": [    
+		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
+		  ],
+	  "number": "142",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
-          "title": "FRYCOMS TV"
- 				}
+          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "title": "MS TV"
+              }
 			]
 		}
 	]
@@ -699,7 +698,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
-
+{
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "title": "FRYCOMS TV"
+ 				}
 
 
  {
