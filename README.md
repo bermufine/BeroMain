@@ -3,7 +3,7 @@
 {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
-		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
+		  "https://stream.berosat.live/hls/live-tv/live-tv.m3u8"
 		  ],
 	  "number": "142",
           "subtitle": "All Channels",
