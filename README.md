@@ -79,7 +79,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
   {
      "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
           "sources": [
-            "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"
+            "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8"
           ],
 	  "number": "59",
           "subtitle": "All Channels",
@@ -90,7 +90,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
           "sources": [
-            "https://stream.berosat.live:19360/yabiso-tv/yabiso-tv.m3u8"
+            "https://stream.berosat.live/hls/yabiso-tv/yabiso-tv.m3u8"
           ],
 	  "number": "146",
           "subtitle": "All Channels",
@@ -100,14 +100,14 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://iptv.berosat.live/hls/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
 
-{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
+{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
-{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
+{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
  {
      "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
-            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
+            "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8"
           ],
 	  "number": "93",
           "subtitle": "All Channels",
@@ -118,7 +118,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
           "sources": [
-            "https://stream.berosat.live:19360/nuru-tv/nuru-tv.m3u8"
+            "https://stream.berosat.live/hls/nuru-tv/nuru-tv.m3u8"
           ],
 	  "number": "94",
           "subtitle": "All Channels",
@@ -138,17 +138,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 
-{ "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
+{ "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
 
-{ "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
+{ "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
 
 
- { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
+ { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
 
   {
      "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
-            "https://stream.berosat.live:19360/liberty-tv/liberty-tv.m3u8"
+            "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
           ],
 	  "number": "188",
           "subtitle": "All Channels",
@@ -159,7 +159,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
-            "https://stream.berosat.live:19360/lollywood-hd/lollywood-hd.m3u8"
+            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
           ],
 	  "number": "785",
           "subtitle": "All Channels",
@@ -171,7 +171,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
      "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
 Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
           "sources": [
-            "https://stream.berosat.live:19360/walk-faith/walk-faith.m3u8"
+            "https://stream.berosat.live/hls/walk-faith/walk-faith.m3u8"
           ],
 	  "number": "117",
           "subtitle": "All Channels",
@@ -179,12 +179,12 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "WALK OF FAITH TV"
 },
 
-{"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
+{"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
  
  {
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
           "sources": [
-            "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8"
+            "https://stream.berosat.live/hls/mtv-index/mtv-index.m3u8"
           ],
 	  "number": "408",
           "subtitle": "All Channels",
@@ -195,7 +195,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 {
       "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
+            "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
           ],
 	  "number": "511",
           "subtitle": "All Channels",
@@ -220,7 +220,7 @@ Through inspiring teachings, prophetic broadcasts, worship experiences, and life
 At Dominion TV, we believe that every believer is called not just to survive—but to reign.
 Dominion TV — Raising a generation called to reign in Christ",
           "sources": [
-            "https://stream.berosat.live:19360/dominion-tv/dominion-tv.m3u8"
+            "https://stream.berosat.live/hls/dominion-tv/dominion-tv.m3u8"
           ],
 	  "number": "132",
           "subtitle": "All Channels",
@@ -231,7 +231,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
      "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/eloko-tv/eloko-tv.m3u8"
+            "https://stream.berosat.live/hls/eloko-tv/eloko-tv.m3u8"
           ],
 	  "number": "127",
           "subtitle": "All Channels",
@@ -242,7 +242,7 @@ Dominion TV — Raising a generation called to reign in Christ",
   {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/afri-tv/afri-tv.m3u8"
+            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
           ],
 	  "number": "131",
           "subtitle": "All Channels",
@@ -253,7 +253,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
      "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
           "sources": [
-            "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
+            "https://stream.berosat.live/hls/sv-stream-tv/sv-stream-tv.m3u8"
           ],
 	  "number": "89",
           "subtitle": "All Channels",
@@ -264,7 +264,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
      "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
-            "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
+            "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
           ],
 	  "number": "118",
           "subtitle": "All Channels",
@@ -275,7 +275,7 @@ Dominion TV — Raising a generation called to reign in Christ",
   {
      "description": "Siloe TV Monde.",
           "sources": [
-            "https://stream.berosat.live:19360/siloe-monde/siloe-monde.m3u8"
+            "https://stream.berosat.live/hls/siloe-monde/siloe-monde.m3u8"
           ],
 	  "number": "145",
           "subtitle": "All Channels",
@@ -286,7 +286,7 @@ Dominion TV — Raising a generation called to reign in Christ",
   {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+            "https://stream.berosat.live/hls/s-media-stream/s-media-stream.m3u8"
           ],
 	  "number": "85",
           "subtitle": "All Channels",
@@ -297,7 +297,7 @@ Dominion TV — Raising a generation called to reign in Christ",
   {
      "description": "Centre Evangelique Parole Vivante TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
-            "https://stream.berosat.live:19360/cepv/cepv.m3u8"
+            "https://stream.berosat.live/hls/cepv/cepv.m3u8"
           ],
 	  "number": "144",
           "subtitle": "All Channels",
@@ -308,7 +308,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 {
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
+            "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
           ],
 	  "number": "104",
           "subtitle": "All Channels",
@@ -330,7 +330,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 {
      "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
           "sources": [
-            "https://stream.berosat.live:19360/c-one/c-one.m3u8"
+            "https://stream.berosat.live/hls/c-one/c-one.m3u8"
           ],
 	  "number": "417",
           "subtitle": "All Channels",
@@ -341,7 +341,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
-            "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
+            "https://stream.berosat.live/hls/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8"
           ],
 	  "number": "57",
           "subtitle": "All Channels",
@@ -352,12 +352,12 @@ Dominion TV — Raising a generation called to reign in Christ",
  { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
-{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
+{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
 {
       "description": "RT Afrika Telema TV est une chaîne généraliste",
           "sources": [
-            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
+            "https://stream.berosat.live/hls/afrika-index/afrika-index.m3u8"
           ],
 	  "number": "657",
           "subtitle": "All Channels",
@@ -365,12 +365,12 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "RT AFRIKA TELEMA"
  },
 
-{ "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
+{ "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live/hls/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
   {
      "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
-            "https://stream.berosat.live:19360/laborne-tv/laborne-tv.m3u8"
+            "https://stream.berosat.live/hls/laborne-tv/laborne-tv.m3u8"
           ],
 	  "number": "371",
           "subtitle": "All Channels",
@@ -381,7 +381,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
      "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
           "sources": [
-            "https://stream.berosat.live:19360/sm-video/sm-video.m3u8"
+            "https://stream.berosat.live/hls/sm-video/sm-video.m3u8"
           ],
 	  "number": "128",
           "subtitle": "All Channels",
@@ -392,7 +392,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
      "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/ack-tv/ack-tv.m3u8"
+            "https://stream.berosat.live/hls/ack-tv/ack-tv.m3u8"
           ],
 	  "number": "129",
           "subtitle": "All Channels",
@@ -403,7 +403,7 @@ Dominion TV — Raising a generation called to reign in Christ",
   {
      "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
+            "https://stream.berosat.live/hls/cnltv-index/cnltv-index.m3u8"
           ],
 	  "number": "123",
           "subtitle": "All Channels",
@@ -414,7 +414,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 { 
       "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
 	   "sources": [
-            "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"
+            "https://stream.berosat.live/hls/destiny-channel/destiny-channel.m3u8"
           ],
           "subtitle": "All Channels",
 		  "number": "88",
@@ -422,16 +422,16 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "DESTINY CHANNEL"
 },
 
-{"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
+{"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
 
   { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
-{ "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
+{ "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live/hls/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
 
 {
      "description": "KKTV est une chane generaliste emettant depui londre",
           "sources": [
-            "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8"
+            "https://stream.berosat.live/hls/kk-tv/kk-tv.m3u8"
           ],
 	  "number": "729",
           "subtitle": "All Channels",
@@ -441,7 +441,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
- {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
+ {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
   {
      "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
@@ -641,61 +641,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
  {
-     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
-          ],
-	  "number": "393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
-          "title": "JSN TV"
-},
-
-{
-     "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
-          "sources": [
-            "https://stream.berosat.live:19360/tv7vie/tv7vie.m3u8"
-          ],
-	  "number": "140",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5NDYxMTZf/Tv7vie.jpg",
-          "title": "TV7 VIE"
- },
-  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
-
-  {
-     "description": "Z-Channel Télévision, la chaîne d'expression.",
-          "sources": [
-            "http://84.234.17.48:8080/zchannel/video.m3u8"
-          ],
-	  "number": "144",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIwNzQyMzFf/Zchannel.jpg",
-          "title": "Z-CHANNEL TV"
- },
-
- {
      "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "https://stream.berosat.live:19360/pamoja-canal/pamoja-canal.m3u8"
+            "https://stream.berosat.live/hls/pamoja-canal/pamoja-canal.m3u8"
           ],
 	  "number": "133",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
           "title": "PAMOJA CANAL"
  },
-
- {
-     "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/prijana/prijana.m3u8"
-          ],
-	  "number": "432",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
-          "title": "PRIJANA TV"
-},
-
+ 
 {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
@@ -716,6 +671,50 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
+
+
+{
+     "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
+          "sources": [
+            "https://stream.berosat.live/hls/tv7vie/tv7vie.m3u8"
+          ],
+	  "number": "140",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NDYxMTZf/Tv7vie.jpg",
+          "title": "TV7 VIE"
+ },
+ {
+     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/jsn-tv/jsn-tv.m3u8"
+          ],
+	  "number": "393",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "title": "JSN TV"
+},
+ {
+     "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/prijana/prijana.m3u8"
+          ],
+	  "number": "432",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
+          "title": "PRIJANA TV"
+},
+  {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
+
+  {
+     "description": "Z-Channel Télévision, la chaîne d'expression.",
+          "sources": [
+            "http://84.234.17.48:8080/zchannel/video.m3u8"
+          ],
+	  "number": "144",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIwNzQyMzFf/Zchannel.jpg",
+          "title": "Z-CHANNEL TV"
+ },
 
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
