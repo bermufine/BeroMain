@@ -1,28 +1,9 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
-{
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "https://stream.berosat.live/hls/mstv/mstv.m3u8"
-		  ],
-	  "number": "142",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
-},
+ { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
+Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" },
 
 { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
-
- {
-    "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
-    "sources": [
-     "https://stream.berosat.live/hls/top-novelas/top-novelas.m3u8"
-          ],
-	 "number": "421",
-     "subtitle": "All Channel",
-     "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
-     "title": "TOP NOVELAS"
-  },
 
 {
    "description":"La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
@@ -38,10 +19,7 @@
           "title": "FRYCOMS TV"
  },
 
- { "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" },
-
- { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
-Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }, 
+ { "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
 
   {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
@@ -96,9 +74,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTI3MjYzNTZf/Yabisotv.jpg",
           "title": "YA BISO TV"
- },	   
+ },	  
 
-{ "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://iptv.berosat.live/hls/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
+ {
+     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
+          "sources": [    
+		  "https://stream.berosat.live/hls/mstv/mstv.m3u8"
+		  ],
+	  "number": "142",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "title": "MS TV"
+},
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
@@ -127,16 +114,15 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
  {
-     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
           "sources": [
-            "http://iptv.berosat.live/hls/BERO-NOVELAS/index.m3u8"
+            "https://stream.berosat.live/hls/eloko-tv/eloko-tv.m3u8"
           ],
-	  "number": "09",
+	  "number": "127",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
-          "title": "BERO NOVELAS"
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
+          "title": "ELOKO STAR"
  },
-
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
 
@@ -193,6 +179,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 },
 
 {
+     "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
+          "sources": [
+            "http://iptv.berosat.live/hls/KMK-TV/index.m3u8"
+          ],
+	  "number": "885",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
+          "title": "KMK TV"
+},
+
+{
       "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
@@ -228,17 +225,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "DOMINION TV"
  },
 
- {
-     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/eloko-tv/eloko-tv.m3u8"
-          ],
-	  "number": "127",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
-          "title": "ELOKO STAR"
- },
-
   {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
           "sources": [
@@ -251,17 +237,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
  {
-     "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live/hls/sv-stream-tv/sv-stream-tv.m3u8"
-          ],
-	  "number": "89",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
-          "title": "SV TV"
-},
-
- {
      "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
             "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
@@ -271,6 +246,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
           "title": "ESPEC TV"
  },
+
+  {
+    "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+    "sources": [
+     "https://stream.berosat.live/hls/top-novelas/top-novelas.m3u8"
+          ],
+	 "number": "421",
+     "subtitle": "All Channel",
+     "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+     "title": "TOP NOVELAS"
+  },
 
   {
      "description": "Siloe TV Monde.",
@@ -316,15 +302,26 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "GPLUS TV"
 }, 
 
-{
-     "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
+ {
+     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
           "sources": [
-            "http://iptv.berosat.live/hls/KMK-TV/index.m3u8"
+            "https://stream.berosat.live/hls/sm-video/sm-video.m3u8"
           ],
-	  "number": "885",
+	  "number": "128",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
-          "title": "KMK TV"
+          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
+          "title": "SM-VIDEO TV"
+},
+
+ {
+     "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/ack-tv/ack-tv.m3u8"
+          ],
+	  "number": "129",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjczNzFf/Ackbangunza.jpg",
+          "title": "ACK TV"
 },
 
 {
@@ -337,6 +334,8 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
           "title": "C-ONE TV"
  },
+
+ { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://iptv.berosat.live/hls/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
 
 {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
@@ -351,8 +350,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 
  { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
-
-{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
 
 {
       "description": "RT Afrika Telema TV est une chaîne généraliste",
@@ -378,28 +375,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "LA BORNE TV"
 },
 
- {
-     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/sm-video/sm-video.m3u8"
-          ],
-	  "number": "128",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
-          "title": "SM-VIDEO TV"
-},
-
- {
-     "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/ack-tv/ack-tv.m3u8"
-          ],
-	  "number": "129",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjczNzFf/Ackbangunza.jpg",
-          "title": "ACK TV"
-},
-
   {
      "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
@@ -411,18 +386,18 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "CNL TV"
 },
 
-{ 
-      "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
-	   "sources": [
-            "https://stream.berosat.live/hls/destiny-channel/destiny-channel.m3u8"
-          ],
-          "subtitle": "All Channels",
-		  "number": "88",
-          "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
-          "title": "DESTINY CHANNEL"
-},
+{"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"},
 
-{"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"}, 
+ {
+     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "http://iptv.berosat.live/hls/BERO-NOVELAS/index.m3u8"
+          ],
+	  "number": "09",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
+          "title": "BERO NOVELAS"
+ },
 
   { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
@@ -650,17 +625,33 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
           "title": "PAMOJA CANAL"
  },
- 
-{
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "http://iptv.berosat.live/hls/MSTV/index.m3u8"
-		  ],
-	  "number": "142",
+
+  {
+     "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live/hls/sv-stream-tv/sv-stream-tv.m3u8"
+          ],
+	  "number": "89",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
-              }
+          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
+          "title": "SV TV"
+},
+
+{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
+
+{ 
+      "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
+	   "sources": [
+            "https://stream.berosat.live/hls/destiny-channel/destiny-channel.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "88",
+          "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
+          "title": "DESTINY CHANNEL"
+},
+ 
+ { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
+Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }
 			]
 		}
 	]
