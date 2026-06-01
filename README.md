@@ -434,7 +434,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 {
      "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
-            "https://eggproiptv.duckdns.org:3256/hybrid/play.m3u8"
+            "https://37.187.138.41/grandMedia/index.m3u8"
           ],
 	  "number": "1002",
           "subtitle": "All Channels",
