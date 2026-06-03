@@ -378,7 +378,7 @@ Dominion TV — Raising a generation called to reign in Christ",
           "sources": [
             "http://37.187.138.41/grandMedia/index.m3u8"
           ],
-	  "number": "1002",
+	  "number": "158",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE5NTk5NjJf/grandmeddia.jpg",
           "title": "GRAND MEDIA TV"
