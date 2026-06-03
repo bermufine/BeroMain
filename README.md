@@ -115,6 +115,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
 
+ {
+     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
+          "sources": [
+            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
+          ],
+	  "number": "157",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI4MTMwMzVf/wangutv.jpg",
+          "title": "WANGU TV"
+},
+
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
 
 
