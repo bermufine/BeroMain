@@ -23,7 +23,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "785",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTI4MTMzMjZf/LOLLYTV.jpg",
           "title": "LOLLYWOOD HD TV"
 }, 
 
