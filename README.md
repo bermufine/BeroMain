@@ -373,6 +373,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "HORIZON 2000 TV"
  },
 
+ {
+     "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://37.187.138.41/grandMedia/index.m3u8"
+          ],
+	  "number": "1002",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NTk5NjJf/grandmeddia.jpg",
+          "title": "GRAND MEDIA TV"
+},
+
  { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
@@ -457,17 +468,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 {"description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.", "sources":["https://stella.streamerr.co:3776/hybrid/play.m3u8"], "number": "75", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title": "POURIM-RTV"},
 
 {
-     "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "https://37.187.138.41/grandMedia/index.m3u8"
-          ],
-	  "number": "1002",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5NTk5NjJf/grandmeddia.jpg",
-          "title": "GRAND MEDIA TV"
-},
-
- {
      "description": "Yeshoua Tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
             "https://neriyastreaming.ddns.net/memfs/72d07006-7c26-411e-b192-4b425e2f0366.m3u8"
@@ -584,7 +584,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 	      "number": "139",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
-          "title": "GRAND MEDIA TV"
+          "title": "H3 TV"
 },
 
 {
