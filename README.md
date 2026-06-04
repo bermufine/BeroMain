@@ -226,6 +226,17 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 },
 
 {
+     "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live/hls/auapajr-tv/auapajr-tv.m3u8"
+          ],
+	  "number": "160",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI4NDU4NjBf/Auapatv.jpg",
+          "title": "AUAPAJR TV"
+ },
+
+{
      "description": "Called to Reign in Christ, Dominion TV is a faith-based media platform committed to proclaiming the Gospel of Jesus Christ with power, clarity, and purpose. Rooted in the mandate of kingdom dominion, we exist to raise believers who understand their identity in Christ and walk boldly in authority, victory, and righteousness.
 Through inspiring teachings, prophetic broadcasts, worship experiences, and life-transforming programs, Dominion TV reaches nations with a message of hope, restoration, and spiritual empowerment. We are dedicated to equipping individuals, families, and ministries to reign in life through Christ Jesus.
 At Dominion TV, we believe that every believer is called not just to survive—but to reign.
