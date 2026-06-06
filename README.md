@@ -271,6 +271,17 @@ Dominion TV — Raising a generation called to reign in Christ",
   },
 
   {
+     "description": "Parole d'Esperance Television est une chaîne généraliste chrétienne qui diffuse que des predications, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live/hls/parole-esperance/parole-esperance.m3u8"
+          ],
+	  "number": "161",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI5Nzk0Mjdf/paroleesperence.jpg",
+          "title": "PAROLE D'ESPERANCE"
+  },
+
+  {
      "description": "Siloe TV Monde.",
           "sources": [
             "https://stream.berosat.live/hls/siloe-monde/siloe-monde.m3u8"
