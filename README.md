@@ -278,7 +278,7 @@ Dominion TV — Raising a generation called to reign in Christ",
 	  "number": "161",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTI5Nzk0Mjdf/paroleesperence.jpg",
-          "title": "PAROLE D'ESPERANCE"
+          "title": "PE TV"
   },
 
   {
