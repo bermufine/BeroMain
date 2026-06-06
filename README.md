@@ -60,17 +60,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "ESAIE 45 TELE"
  },
 
-{
-     "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
-          "sources": [
-            "https://stream.berosat.live/hls/yabiso-tv/yabiso-tv.m3u8"
-          ],
-	  "number": "146",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI3MjYzNTZf/Yabisotv.jpg",
-          "title": "YA BISO TV"
- },	  
-
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
@@ -89,18 +78,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
 
  { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
-
-
- {
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
-          "sources": [
-            "https://stream.berosat.live/hls/nuru-tv/nuru-tv.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
-          "title": "NURU RTV"
-},
 
  {
      "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
@@ -144,18 +121,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
           "title": "LIBERTY TV"
  },
-
-  {
-     "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
-Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
-          "sources": [
-            "https://stream.berosat.live/hls/walk-faith/walk-faith.m3u8"
-          ],
-	  "number": "117",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
-          "title": "WALK OF FAITH TV"
-},
 
  {
      "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
@@ -696,6 +661,38 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
           "title": "DESTINY CHANNEL"
 },
+
+  {
+     "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
+Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
+          "sources": [
+            "https://stream.berosat.live/hls/walk-faith/walk-faith.m3u8"
+          ],
+	  "number": "117",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
+          "title": "WALK OF FAITH TV"
+},
+ {
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+          "sources": [
+            "https://stream.berosat.live/hls/nuru-tv/nuru-tv.m3u8"
+          ],
+	  "number": "94",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
+          "title": "NURU RTV"
+},
+{
+     "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
+          "sources": [
+            "https://stream.berosat.live/hls/yabiso-tv/yabiso-tv.m3u8"
+          ],
+	  "number": "146",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI3MjYzNTZf/Yabisotv.jpg",
+          "title": "YA BISO TV"
+ },
  
  { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" }
