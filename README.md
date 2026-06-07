@@ -270,7 +270,18 @@ Dominion TV — Raising a generation called to reign in Christ",
      "title": "TOP NOVELAS"
   },
 
-  {
+   {
+     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/jerubaal/jerubaal.m3u8"
+          ],
+	  "number": "163",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
+          "title": "JERUBAAL TV"
+},
+
+{
      "description": "Parole d'Esperance Television est une chaîne généraliste chrétienne qui diffuse que des predications, musiques, magazine et autres chritienne....",
           "sources": [
             "https://stream.berosat.live/hls/parole-esperance/parole-esperance.m3u8"
@@ -750,8 +761,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "PRIJANA TV"
 },
 
-
-  {
+{
      "description": "Z-Channel Télévision, la chaîne d'expression.",
           "sources": [
             "http://84.234.17.48:8080/zchannel/video.m3u8"
@@ -853,16 +863,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8" ], "number": "145", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg", "title": "CH TV HD" },
 
 
- {
-     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
-          ],
-	  "number": "997",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
-          "title": "JERUBAAL TV"
-},
+
 {
           "description": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV",
           "sources": [
