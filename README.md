@@ -423,7 +423,7 @@ Dominion TV — Raising a generation called to reign in Christ",
   {
      "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live/hls/cnltv-index/cnltv-index.m3u8"
+            "https://stream.berosat.live/hls/cntv-index/cntv-index.m3u8"
           ],
 	  "number": "123",
           "subtitle": "All Channels",
