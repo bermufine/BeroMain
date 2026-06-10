@@ -258,6 +258,28 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "ESPEC TV"
  },
 
+ {
+     "description": "kINGDOM TV est une Télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.",
+          "sources": [
+            "https://stream.berosat.live/hls/kingdom-tv/kingdom-tv.m3u8"
+          ],
+	  "number": "163",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI5OTgxNjZf/Kingdomtv.jpg",
+          "title": "KINGDOM TV"
+ },
+
+ {
+     "description": "Alliance TV est une Télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.",
+          "sources": [
+            "https://stream.berosat.live/hls/alliance-tv/alliance-tv.m3u8"
+          ],
+	  "number": "164",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI5OTgxNjVf/Alliance.jpg",
+          "title": "ALLIANCE TV"
+ },
+
   {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
