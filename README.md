@@ -279,8 +279,18 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTI5OTgxNjVf/Alliance.jpg",
           "title": "ALLIANCE TV"
  },
+{
+     "description": "Elan TV est une Télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.",
+          "sources": [
+            "https://stream.berosat.live/hls/elan-tv/elan-tv.m3u8"
+          ],
+	  "number": "165",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI5OTg5Nzlf/Elantv.jpg",
+          "title": "ELAN TV"
+ },
 
-  {
+{
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
      "https://stream.berosat.live/hls/top-novelas/top-novelas.m3u8"
@@ -313,7 +323,7 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "S-MEDIAS TV 3"
 },
 
-  {
+{
      "description": "Centre Evangelique Parole Vivante TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
             "https://stream.berosat.live/hls/cepv/cepv.m3u8"
