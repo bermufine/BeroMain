@@ -113,6 +113,16 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
           "title": "JERUBAAL TV"
 },
+{
+     "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
+          "sources": [
+            "https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8"
+          ],
+	  "number": "885",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
+          "title": "KMK TV"
+},
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
 
@@ -158,17 +168,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
-          "sources": [
-            "https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8"
-          ],
-	  "number": "885",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
-          "title": "KMK TV"
-},
-
- {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
 		  "https://stream.berosat.live/hls/mstv/mstv.m3u8"
@@ -237,18 +236,7 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "INTELLO+ TV"
 },
 
-  {
-     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
-          ],
-	  "number": "144",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
-          "title": "INFO + HD TV"
-},
-
-  {
+{
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
@@ -291,17 +279,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTI5Nzk0Mjdf/paroleesperence.jpg",
           "title": "PE TV"
   },
-
-  {
-     "description": "Siloe TV Monde.",
-          "sources": [
-            "https://stream.berosat.live/hls/siloe-monde/siloe-monde.m3u8"
-          ],
-	  "number": "145",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIzMzYwOTNf/SiloeMonde.jpg",
-          "title": "SILOE-MONDE"
-},
 
   {
      "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
@@ -649,40 +626,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  
  { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
- {
-     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live/hls/pamoja-canal/pamoja-canal.m3u8"
-          ],
-	  "number": "133",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
-          "title": "PAMOJA CANAL"
- },
-
-  {
-     "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
-          "sources": [
-            "https://stream.berosat.live/hls/sv-stream-tv/sv-stream-tv.m3u8"
-          ],
-	  "number": "89",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
-          "title": "SV TV"
-},
-
 { "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
-
-{ 
-      "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
-	   "sources": [
-            "https://stream.berosat.live/hls/destiny-channel/destiny-channel.m3u8"
-          ],
-          "subtitle": "All Channels",
-		  "number": "88",
-          "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
-          "title": "DESTINY CHANNEL"
-},
 
   {
      "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
@@ -730,6 +674,58 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 
 
+
+
+ {
+     "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live/hls/pamoja-canal/pamoja-canal.m3u8"
+          ],
+	  "number": "133",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE3MTk3Njhf/Pamojacanaltele.jpg",
+          "title": "PAMOJA CANAL"
+ },
+  {
+     "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live/hls/sv-stream-tv/sv-stream-tv.m3u8"
+          ],
+	  "number": "89",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
+          "title": "SV TV"
+},
+{ 
+      "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
+	   "sources": [
+            "https://stream.berosat.live/hls/destiny-channel/destiny-channel.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "88",
+          "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
+          "title": "DESTINY CHANNEL"
+},
+  {
+     "description": "Siloe TV Monde.",
+          "sources": [
+            "https://stream.berosat.live/hls/siloe-monde/siloe-monde.m3u8"
+          ],
+	  "number": "145",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIzMzYwOTNf/SiloeMonde.jpg",
+          "title": "SILOE-MONDE"
+},
+{
+     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
+          ],
+	  "number": "144",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
+          "title": "INFO + HD TV"
+},
 {
      "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
           "sources": [
