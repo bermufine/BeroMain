@@ -280,7 +280,7 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "ALLIANCE TV"
  },
 {
-     "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Émettant depuis la République Démocratique du Congo",
+     "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Émettant depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
           "sources": [
             "https://stream.berosat.live/hls/elan-tv/elan-tv.m3u8"
           ],
