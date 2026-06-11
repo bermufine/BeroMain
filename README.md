@@ -178,17 +178,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "MS TV"
 },
 
-{
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
- }, 
-
  {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
@@ -290,6 +279,29 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTI5OTg5Nzlf/Elantv.jpg",
           "title": "ELAN TV"
  },
+
+ {
+      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
+          ],
+	  "number": "166",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMDEzNTFf/Amanitv.jpg",
+          "title": "AMANI TV"
+ }, 
+
+{
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
+ }, 
+
 
 {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
