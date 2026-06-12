@@ -292,16 +292,15 @@ Dominion TV — Raising a generation called to reign in Christ",
  }, 
 
 {
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+      "description": "Lualaba Verite TV est une chaîne généraliste émettant depuis la ville de Kolwezi en République démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
+            "https://stream.berosat.live/hls/lualaba-verite/lualaba-verite.m3u8"
           ],
-	  "number": "511",
+	  "number": "167",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
- }, 
-
+          "thumb": "https://od.lk/s/NDZfOTMwMDcwODlf/Lualabaverite.jpg",
+          "title": "LUALABA VERITE"
+}, 
 
 {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
@@ -484,17 +483,6 @@ Dominion TV — Raising a generation called to reign in Christ",
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
  {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
-
-  {
-     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/BLUESKY-TV/index.m3u8"
-          ],
-	  "number": "149",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
-          "title": "BLUESKY TV"
- },
 
 {"description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.", "sources":["https://stella.streamerr.co:3776/hybrid/play.m3u8"], "number": "75", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title": "POURIM-RTV"},
 
@@ -694,6 +682,26 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
           "title": "NURU RTV"
 },
+ {
+     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/BLUESKY-TV/index.m3u8"
+          ],
+	  "number": "149",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
+          "title": "BLUESKY TV"
+ },
+ {
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
+ }, 
 {
      "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
           "sources": [
