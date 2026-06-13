@@ -442,9 +442,16 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "CNL TV"
 },
 
-{"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"},
-
-{ "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},
+{
+     "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information.",
+          "sources": [
+            "https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"
+          ],
+	  "number": "48",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
+          "title": "RTE TV HD"
+ },
 
 {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
@@ -753,7 +760,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 
 
+ {
+     "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information.",
+          "sources": [
+            "https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"
+          ],
+	  "number": "48",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
+          "title": "RTE TV HD"
+ },
 
+{ "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},
  {
      "description": "Pamoja Canal Télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
