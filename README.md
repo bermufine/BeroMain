@@ -447,17 +447,6 @@ Dominion TV — Raising a generation called to reign in Christ",
 { "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},
 
 {
-     "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio ( HOPE FM AFRICA) Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés (JT) et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
-          "sources": [
-            "https://live.hopetvafrica.com/hls/stream.m3u8"
-          ],
-	  "number": "169",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMTU5ODRf/Hopeafrica.jpg",
-          "title": "HOPE TV AFRICA"
-},
-
-{
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
@@ -467,6 +456,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
           "title": "BERO NOVELAS"
  },
+
+ {
+     "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio HOPE FM AFRICA Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés JT et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
+          "sources": [
+            "https://live.hopetvafrica.com/hls/stream.m3u8"
+          ],
+	  "number": "169",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMTU5ODRf/Hopeafrica.jpg",
+          "title": "HOPE TV AFRICA"
+},
 
   { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
