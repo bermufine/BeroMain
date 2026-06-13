@@ -1,6 +1,28 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
- { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
+{
+     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
+          "sources": [
+            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
+          ],
+	  "number": "157",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI4MTMwMzVf/wangutv.jpg",
+          "title": "WANGU TV"
+},
+
+{
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI4MTMzMjZf/LOLLYTV.jpg",
+          "title": "LOLLYWOOD HD TV"
+}, 
+
+{ "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" },
 
 {
@@ -14,55 +36,10 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "FRYCOMS TV"
  },
 
-   {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
-
-{
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
-          ],
-	  "number": "785",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI4MTMzMjZf/LOLLYTV.jpg",
-          "title": "LOLLYWOOD HD TV"
-}, 
-
  {
-     "description": "Central Voice Television is a broadcasting channel from Zambia",
-          "sources": [
-            "https://stream.berosat.live/hls/central-voice/central-voice.m3u8"
-          ],
-	  "number": "102",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
-          "title": "CENTRAL VOICE"
- }, 
+     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
-  {
-     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live/hls/toseka-tv/toseka-tv.m3u8"
-          ],
-	  "number": "786",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
-          "title": "TOSEKA TV"
- },
-
-  {
-     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
-          "sources": [
-            "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8"
-          ],
-	  "number": "59",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
-          "title": "ESAIE 45 TELE"
- },
-
-{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
-
-{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
+   { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
  {
      "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
@@ -75,7 +52,31 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "EXPLOITS TV"
 },
 
- { "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
+ {
+     "description": "Central Voice Television is a broadcasting channel from Zambia",
+          "sources": [
+            "https://stream.berosat.live/hls/central-voice/central-voice.m3u8"
+          ],
+	  "number": "102",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
+          "title": "CENTRAL VOICE"
+ }, 
+
+{
+     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
+          "sources": [
+            "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8"
+          ],
+	  "number": "59",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
+          "title": "ESAIE 45 TELE"
+ },
+
+{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
+
+{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
 
  { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
@@ -91,17 +92,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
-
- {
-     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
-          "sources": [
-            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
-          ],
-	  "number": "157",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI4MTMwMzVf/wangutv.jpg",
-          "title": "WANGU TV"
-},
 
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -142,17 +132,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  {
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"},
-
-  {
-     "description": "Liberty Télévision, la chaîne d'expression.",
-          "sources": [
-            "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
-          ],
-	  "number": "188",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
-          "title": "LIBERTY TV"
- },
 
  {
      "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
@@ -468,7 +447,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "http://iptv.berosat.live/hls/BERO-NOVELAS/index.m3u8"
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
           ],
 	  "number": "09",
           "subtitle": "All Channels",
@@ -693,6 +672,26 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
           "title": "NURU RTV"
 },
+ {
+     "description": "Liberty Télévision, la chaîne d'expression.",
+          "sources": [
+            "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
+          ],
+	  "number": "188",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
+          "title": "LIBERTY TV"
+ },
+ {
+     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live/hls/toseka-tv/toseka-tv.m3u8"
+          ],
+	  "number": "786",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
+          "title": "TOSEKA TV"
+ },
  {
      "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
           "sources": [
