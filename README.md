@@ -447,17 +447,17 @@ Dominion TV — Raising a generation called to reign in Christ",
 { "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},
 
 {
-      "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio ( HOPE FM AFRICA) Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés (JT) et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
-      "sources": [
-        "https://live.hopetvafrica.com/hls/stream.m3u8"
-      ],
+     "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio ( HOPE FM AFRICA) Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés (JT) et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
+          "sources": [
+            "https://live.hopetvafrica.com/hls/stream.m3u8"
+          ],
 	  "number": "169",
-      "subtitle": "All Channel",
-      "thumb": "https://od.lk/s/NDZfOTMwMTU5ODRf/Hopeafrica.jpg",
-      "title": "HOPE TV AFRICA"
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMTU5ODRf/Hopeafrica.jpg",
+          "title": "HOPE TV AFRICA"
 },
 
- {
+{
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
