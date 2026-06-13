@@ -145,6 +145,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
+
+ {
+     "description": "Liberty Télévision, la chaîne d'expression.",
+          "sources": [
+            "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
+          ],
+	  "number": "188",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
+          "title": "LIBERTY TV"
+ },
  
  {
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
@@ -433,6 +444,19 @@ Dominion TV — Raising a generation called to reign in Christ",
 
 {"description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information", "sources":["https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"], "number": "48", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg","title": "RTE TV HD"},
 
+{ "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},
+
+{
+      "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio ( HOPE FM AFRICA) Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés (JT) et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
+      "sources": [
+        "https://live.hopetvafrica.com/hls/stream.m3u8"
+      ],
+	  "number": "169",
+      "subtitle": "All Channel",
+      "thumb": "https://od.lk/s/NDZfOTMwMTU5ODRf/Hopeafrica.jpg",
+      "title": "HOPE TV AFRICA"
+},
+
  {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
@@ -661,16 +685,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
           "title": "NURU RTV"
 },
- {
-     "description": "Liberty Télévision, la chaîne d'expression.",
-          "sources": [
-            "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
-          ],
-	  "number": "188",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
-          "title": "LIBERTY TV"
- },
+
  {
      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
@@ -1407,17 +1422,6 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "thumb": "https://od.lk/s/NDZfODY2MzI5Mzdf/bosengatv.jpg",
           "title": "BOSENGA YA PEUPLE"
  },
-
- {
-      "description": "WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne emattant depuis la ville de kolwezi en Republique Democratique du Congo....",
-          "sources": [
-            "https://stream.berosat.live:19360/wangu-index/wangu-index.m3u8"
-          ],
-	  "number": "57",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg",
-          "title": "WANGU TV HD"
- },
   {
      "description": "Haut-Parleur tv, est une chaîne géneraliste emettant en Republique Democratique du Congo",
           "sources": [
@@ -1741,7 +1745,7 @@ CONTACTS: +2250788422056/0596455112",
 
 { "description": "Global Line television, the generaliste Business channel, Entertainment and Educative from Ghana.", "sources": [ "https://stream.berosat.live:19360/global-line-tv/global-line-tv.m3u8" ], "number": "69", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg", "title": "GLOBAL LINE TV" },
 
-{ "description": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "sources": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "number": "83", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "title": "FIDEDI MOVIE TV" }, 
+
 
  {"description":"Zamiri tv sera une chaîne purement éducatif notre sible éveil delà conscience de la population ds tout. Les domaines possible","sources":["https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"], "number": "112", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODI0NzU2NDlf/zamireTV.jpg","title":"ZAMIRI TV"},
 
@@ -1789,16 +1793,7 @@ CONTACTS: +2250788422056/0596455112",
 { "description":"Shavax tv est une chaîne de télévision generaliste émettant en côte d'ivoire avec un programme riche en couleur, musique, sports, documentaires, religion, films et tant d'autres....", "sources": [ "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png", "title": "SHAVAX TV" }, 
 { "description": "Nour Television est une chaîne generaliste émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MTkxNTVf/nourtv.jpg", "title": "NOUR TV"}, 
 
-{ "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},
-{
-      "description": "Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
-      "sources": [
-        "https://stream.hopetvafrica.com/hls/stream.m3u8"
-      ],
-      "subtitle": "All Channel",
-      "thumb": "https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg",
-      "title": "HOPE TV AFRICA"
-    },
+
      {
           "description": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email ?? hopetvafrica2020@gmail.com contact 0027846809542",
           "sources": [
