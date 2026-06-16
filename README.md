@@ -41,6 +41,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
    { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
+{
+     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "http://iptv.berosat.live/hls/FM-TV/index.m3u8"
+          ],
+	  "number": "143",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "title": "FM TV"
+},
+
  {
      "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
@@ -657,6 +668,28 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 { "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
  {
+     "description": "Mbegu Télévision (FM TV), est une chaîne generaliste émettant en République Démocratique du Congo",
+          "sources": [
+            "https://5caf24a595d94.streamlock.net:1937/8144/8144/playlist.m3u8"
+          ],
+	  "number": "171",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMjk2OTJf/mbegutv.png",
+          "title": "MBEGU TV"
+},
+
+{
+     "description": "EADTV Télévision (FM TV), est une chaîne generaliste émettant en République Démocratique du Congo",
+          "sources": [
+            "https://playtv4k.live/live/CE2026/index.m3u8"
+          ],
+	  "number": "172",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMjk2ODZf/eadtv.jpg",
+          "title": "EADTV"
+},
+
+{
       "description": "Les Z'Amours television est une chaine generaliste.",
           "sources": [
             "https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8"
