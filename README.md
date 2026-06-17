@@ -191,14 +191,25 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
  {
-     "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+     "description": "Bosenga Ya Peuple Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
-            "http://iptv.berosat.live/hls/FM-TV/index.m3u8"
+            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
           ],
-	  "number": "143",
+	  "number": "173",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
-          "title": "FM TV"
+          "thumb": "https://od.lk/s/NDZfOTMwMzY3Mzlf/Bosenga.jpg",
+          "title": "BOSENGA TV"
+},
+
+{
+     "description": "Best Pro Vision Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/best-pro/best-pro.m3u8"
+          ],
+	  "number": "174",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzY3NTFf/Bestprotv.jpg",
+          "title": "BEST-PRO TV"
 },
 
 {
