@@ -167,6 +167,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
+
+{
+     "description": "Étoile du berger Télévision (EDB TV), est une chaîne privée généraliste d'information, de formation et de divertissement.
+Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
+          "sources": [    
+		  "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+		  ],
+	  "number": "175",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzcwMDVf/Edbtele.jpg",
+          "title": "EDB TV"
+},
  
  {
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
