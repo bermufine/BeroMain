@@ -180,7 +180,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
           ],
@@ -191,7 +191,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
           ],
@@ -678,7 +678,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 { "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
  {
-     "description": "Mbegu Télévision (FM TV), est une chaîne generaliste émettant en République Démocratique du Congo",
+     "description": "Mbegu Télévision, est une chaîne generaliste émettant en République Démocratique du Congo",
           "sources": [
             "https://5caf24a595d94.streamlock.net:1937/8144/8144/playlist.m3u8"
           ],
@@ -689,7 +689,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
 {
-     "description": "EADTV Télévision (FM TV), est une chaîne generaliste émettant en République Démocratique du Congo",
+     "description": "EADTV Télévision, est une chaîne generaliste émettant en République Démocratique du Congo",
           "sources": [
             "https://playtv4k.live/live/CE2026/index.m3u8"
           ],
@@ -709,12 +709,8 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
  },  
- 
- { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
-{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
-
-  {
+{
      "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
 Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
           "sources": [
@@ -725,18 +721,8 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
           "title": "WALK OF FAITH TV"
 },
- {
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
-          "sources": [
-            "https://stream.berosat.live/hls/nuru-tv/nuru-tv.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
-          "title": "NURU RTV"
-},
 
- {
+{
      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "https://stream.berosat.live/hls/toseka-tv/toseka-tv.m3u8"
@@ -745,17 +731,8 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
           "title": "TOSEKA TV"
- },
- {
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
- }, 
+},
+ 
 {
      "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
           "sources": [
@@ -765,39 +742,12 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTI3MjYzNTZf/Yabisotv.jpg",
           "title": "YA BISO TV"
- },
- {
-     "description": "Étoile du berger Télévision (EDB TV), est une chaîne privée généraliste d'information, de formation et de divertissement.
-Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
-          "sources": [    
-		  "https://stream.berosat.live/hls/edb-tv/edb-tv.m3u8"
-		  ],
-	  "number": "175",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMzcwMDVf/Edbtele.jpg",
-          "title": "EDB TV"
-},
- {
-     "description": "Bosenga Ya Peuple Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
-          ],
-	  "number": "173",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMzY3Mzlf/Bosenga.jpg",
-          "title": "BOSENGA TV"
 },
 
-{
-     "description": "Best Pro Vision Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/best-pro/best-pro.m3u8"
-          ],
-	  "number": "174",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMzY3NTFf/Bestprotv.jpg",
-          "title": "BEST-PRO TV"
-},
+ { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
+
+{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
+
 {
      "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
@@ -821,6 +771,59 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
 
 
 
+
+
+ {
+     "description": "Bosenga Ya Peuple Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
+          ],
+	  "number": "173",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzY3Mzlf/Bosenga.jpg",
+          "title": "BOSENGA TV"
+},
+{
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+          "sources": [
+            "https://stream.berosat.live/hls/nuru-tv/nuru-tv.m3u8"
+          ],
+	  "number": "94",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
+          "title": "NURU RTV"
+},
+ {
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
+ },
+{
+     "description": "Étoile du berger Télévision (EDB TV), est une chaîne privée généraliste d'information, de formation et de divertissement.
+Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
+          "sources": [    
+		  "https://stream.berosat.live/hls/edb-tv/edb-tv.m3u8"
+		  ],
+	  "number": "175",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzcwMDVf/Edbtele.jpg",
+          "title": "EDB TV"
+},
+{
+     "description": "Best Pro Vision Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/best-pro/best-pro.m3u8"
+          ],
+	  "number": "174",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzY3NTFf/Bestprotv.jpg",
+          "title": "BEST-PRO TV"
+},
 {
       "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
