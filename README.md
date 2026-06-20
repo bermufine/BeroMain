@@ -167,20 +167,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
-
-{
-     "description": "Étoile du berger Télévision (EDB TV), est une chaîne privée généraliste d'information, de formation et de divertissement.
-Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
-          "sources": [    
-		  "https://stream.berosat.live/hls/edb-tv/edb-tv.m3u8"
-		  ],
-	  "number": "175",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMzcwMDVf/Edbtele.jpg",
-          "title": "EDB TV"
-},
  
- {
+{
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
           "sources": [
             "https://stream.berosat.live/hls/mtv-index/mtv-index.m3u8"
@@ -201,29 +189,6 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
           "title": "MS TV"
 },
-
- {
-     "description": "Bosenga Ya Peuple Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
-          ],
-	  "number": "173",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMzY3Mzlf/Bosenga.jpg",
-          "title": "BOSENGA TV"
-},
-
-{
-     "description": "Best Pro Vision Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/best-pro/best-pro.m3u8"
-          ],
-	  "number": "174",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMzY3NTFf/Bestprotv.jpg",
-          "title": "BEST-PRO TV"
-},
-
 {
      "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
@@ -607,7 +572,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
 {
-     "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo...",
+     "description": "Chaîne de télévision à vocation chrétienne et éducative, dédiée à la promotion de l’Évangile à travers des prédications, enseignements bibliques, émissions, temps de prière et programmes édifiants. Elle propose également des magazines, documentaires, analyses, films et séries à caractère éducatif, conçus pour informer, instruire et édifier le public tout en transmettant des valeurs positives pour la société. Email : bmofficiel@yahoo.com, Youtube : BM TV HD OFFICIEL, Whatsapp : +243823107920",
           "sources": [
             "https://bmtv.be/stream/play.m3u8"
           ],
@@ -760,16 +725,6 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "TOSEKA TV"
  },
  {
-     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/BLUESKY-TV/index.m3u8"
-          ],
-	  "number": "149",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
-          "title": "BLUESKY TV"
- },
- {
       "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/ocean-tv/ocean-tv.m3u8"
@@ -789,8 +744,39 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfOTI3MjYzNTZf/Yabisotv.jpg",
           "title": "YA BISO TV"
  },
- 
-  {
+ {
+     "description": "Étoile du berger Télévision (EDB TV), est une chaîne privée généraliste d'information, de formation et de divertissement.
+Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
+          "sources": [    
+		  "https://stream.berosat.live/hls/edb-tv/edb-tv.m3u8"
+		  ],
+	  "number": "175",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzcwMDVf/Edbtele.jpg",
+          "title": "EDB TV"
+},
+ {
+     "description": "Bosenga Ya Peuple Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
+          ],
+	  "number": "173",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzY3Mzlf/Bosenga.jpg",
+          "title": "BOSENGA TV"
+},
+
+{
+     "description": "Best Pro Vision Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/best-pro/best-pro.m3u8"
+          ],
+	  "number": "174",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwMzY3NTFf/Bestprotv.jpg",
+          "title": "BEST-PRO TV"
+},
+{
      "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
             "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
@@ -823,6 +809,16 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
           "title": "HORIZON 2000 TV"
  },
+{
+     "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/BLUESKY-TV/index.m3u8"
+          ],
+	  "number": "149",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
+          "title": "BLUESKY TV"
+},
 {
      "description": "Coming soon",
           "sources": [
