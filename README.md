@@ -180,6 +180,28 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
+          ],
+	  "number": "176",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwNTc5MjBf/Filamutv.jpg",
+          "title": "FILAMU TV"
+},
+
+{
+     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
+          ],
+	  "number": "177",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMwNTc5MjFf/Kinoiserie.jpg",
+          "title": "KINOISERIE TV"
+},
+
+{
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
 		  "https://stream.berosat.live/hls/mstv/mstv.m3u8"
