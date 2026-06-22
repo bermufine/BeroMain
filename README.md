@@ -222,20 +222,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "AUAPAJR TV"
  },
 
-{
-     "description": "Called to Reign in Christ, Dominion TV is a faith-based media platform committed to proclaiming the Gospel of Jesus Christ with power, clarity, and purpose. Rooted in the mandate of kingdom dominion, we exist to raise believers who understand their identity in Christ and walk boldly in authority, victory, and righteousness.
-Through inspiring teachings, prophetic broadcasts, worship experiences, and life-transforming programs, Dominion TV reaches nations with a message of hope, restoration, and spiritual empowerment. We are dedicated to equipping individuals, families, and ministries to reign in life through Christ Jesus.
-At Dominion TV, we believe that every believer is called not just to survive—but to reign.
-Dominion TV — Raising a generation called to reign in Christ",
-          "sources": [
-            "https://stream.berosat.live/hls/dominion-tv/dominion-tv.m3u8"
-          ],
-	  "number": "132",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE3MDk1MThf/Domingos.jpg",
-          "title": "DOMINION TV"
- },
-
  {
      "description": "Intello Plus Afrik TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
@@ -267,17 +253,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
           "title": "ESPEC TV"
- },
-
- {
-     "description": "kINGDOM TV est une Télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.",
-          "sources": [
-            "https://stream.berosat.live/hls/kingdom-tv/kingdom-tv.m3u8"
-          ],
-	  "number": "163",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI5OTgxNjZf/Kingdomtv.jpg",
-          "title": "KINGDOM TV"
  },
 
  {
@@ -428,40 +403,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
 
-{
-      "description": "RT Afrika Telema TV est une chaîne généraliste",
-          "sources": [
-            "https://stream.berosat.live/hls/afrika-index/afrika-index.m3u8"
-          ],
-	  "number": "657",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
-          "title": "RT AFRIKA TELEMA"
- },
-
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live/hls/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
-
-  {
-     "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live/hls/laborne-tv/laborne-tv.m3u8"
-          ],
-	  "number": "371",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg",
-          "title": "LA BORNE TV"
-},
-
-  {
-     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/cntv-index/cntv-index.m3u8"
-          ],
-	  "number": "123",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
-          "title": "CNL TV"
-},
 
 {
      "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information.",
@@ -711,18 +653,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  },  
 
 {
-     "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
-Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
-          "sources": [
-            "https://stream.berosat.live/hls/walk-faith/walk-faith.m3u8"
-          ],
-	  "number": "117",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
-          "title": "WALK OF FAITH TV"
-},
-
-{
      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "https://stream.berosat.live/hls/toseka-tv/toseka-tv.m3u8"
@@ -744,9 +674,41 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "title": "YA BISO TV"
 },
 
- { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
+{
+      "description": "RT Afrika Telema TV est une chaîne généraliste",
+          "sources": [
+            "https://stream.berosat.live/hls/afrika-index/afrika-index.m3u8"
+          ],
+	  "number": "657",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
+          "title": "RT AFRIKA TELEMA"
+ },
 
-{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
+  {
+     "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/laborne-tv/laborne-tv.m3u8"
+          ],
+	  "number": "371",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg",
+          "title": "LA BORNE TV"
+},
+
+ {
+     "description": "Called to Reign in Christ, Dominion TV is a faith-based media platform committed to proclaiming the Gospel of Jesus Christ with power, clarity, and purpose. Rooted in the mandate of kingdom dominion, we exist to raise believers who understand their identity in Christ and walk boldly in authority, victory, and righteousness.
+Through inspiring teachings, prophetic broadcasts, worship experiences, and life-transforming programs, Dominion TV reaches nations with a message of hope, restoration, and spiritual empowerment. We are dedicated to equipping individuals, families, and ministries to reign in life through Christ Jesus.
+At Dominion TV, we believe that every believer is called not just to survive—but to reign.
+Dominion TV — Raising a generation called to reign in Christ",
+          "sources": [
+            "https://stream.berosat.live/hls/dominion-tv/dominion-tv.m3u8"
+          ],
+	  "number": "132",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE3MDk1MThf/Domingos.jpg",
+          "title": "DOMINION TV"
+ },
 
 {
      "description": "Liberty Télévision, la chaîne d'expression.",
@@ -771,8 +733,40 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
 
 
 
+{
+     "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
+Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
+          "sources": [
+            "https://stream.berosat.live/hls/walk-faith/walk-faith.m3u8"
+          ],
+	  "number": "117",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
+          "title": "WALK OF FAITH TV"
+},
+  {
+     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/cntv-index/cntv-index.m3u8"
+          ],
+	  "number": "123",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
+          "title": "CNL TV"
+},
+ { "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8" ], "number": "524", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg", "title": "LUBEMBE TV" },
 
-
+{ "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...", "sources": [ "https://stream.berosat.live/hls/joy-tv/joy-tv.m3u8" ], "number": "514", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg", "title": "JOY TV" },
+ {
+     "description": "kINGDOM TV est une Télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.",
+          "sources": [
+            "https://stream.berosat.live/hls/kingdom-tv/kingdom-tv.m3u8"
+          ],
+	  "number": "163",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI5OTgxNjZf/Kingdomtv.jpg",
+          "title": "KINGDOM TV"
+ },
  {
      "description": "Bosenga Ya Peuple Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
