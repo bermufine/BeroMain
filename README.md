@@ -233,28 +233,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "INTELLO+ TV"
 },
 
-{
-     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
-          ],
-	  "number": "131",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
-          "title": "AFRI TV"
-},
-
- {
-     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
-          ],
-	  "number": "118",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
-          "title": "ESPEC TV"
- },
-
  {
      "description": "Alliance TV est une Télévision  est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo",
           "sources": [
@@ -364,17 +342,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
           "title": "GPLUS TV"
 }, 
-
- {
-     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/sm-video/sm-video.m3u8"
-          ],
-	  "number": "128",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
-          "title": "SM-VIDEO TV"
-},
 
  {
      "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
@@ -651,17 +618,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
  },  
-
-{
-     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live/hls/toseka-tv/toseka-tv.m3u8"
-          ],
-	  "number": "786",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
-          "title": "TOSEKA TV"
-},
  
 {
      "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
@@ -710,6 +666,17 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "DOMINION TV"
  },
 
+ {
+     "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live/hls/toseka-tv/toseka-tv.m3u8"
+          ],
+	  "number": "786",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
+          "title": "TOSEKA TV"
+},
+
 {
      "description": "Liberty Télévision, la chaîne d'expression.",
           "sources": [
@@ -732,7 +699,37 @@ Dominion TV — Raising a generation called to reign in Christ",
 
 
 
+ {
+     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/sm-video/sm-video.m3u8"
+          ],
+	  "number": "128",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
+          "title": "SM-VIDEO TV"
+},
+{
+     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
+          ],
+	  "number": "131",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
+          "title": "AFRI TV"
+},
 
+ {
+     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
+          "title": "ESPEC TV"
+ },
 {
      "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
 Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
