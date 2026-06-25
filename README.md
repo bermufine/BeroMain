@@ -217,7 +217,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
-		  "https://stream.berosat.live/hls/mstv/mstv.m3u8"
+		  "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
 		  ],
 	  "number": "142",
           "subtitle": "All Channels",
