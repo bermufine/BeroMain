@@ -245,6 +245,16 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
           "title": "INTELLO+ TV"
 },
+{
+     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
+          ],
+	  "number": "131",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
+          "title": "AFRI TV"
+},
 
  {
      "description": "Alliance TV est une Télévision  est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo",
@@ -719,16 +729,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
           "title": "SM-VIDEO TV"
-},
-{
-     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
-          ],
-	  "number": "131",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
-          "title": "AFRI TV"
 },
 
  {
