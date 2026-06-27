@@ -215,6 +215,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8"
+          ],
+	  "number": "94",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
+          "title": "NURU RTV"
+},
+
+{
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
 		  "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
@@ -785,16 +796,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfOTMwMzY3Mzlf/Bosenga.jpg",
           "title": "BOSENGA TV"
 },
-{
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
-          "sources": [
-            "https://stream.berosat.live/hls/nuru-tv/nuru-tv.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
-          "title": "NURU RTV"
-},
+
  {
      "description": "Étoile du berger Télévision (EDB TV), est une chaîne privée généraliste d'information, de formation et de divertissement.
 Nous émettons depuis la ville de Matadi en République Démocratique du Congo. EDB TV, la chaine qui vous informe, EDB TV, la  chaine qui vous éclaire, EDBTV, la chaine qui vous détend",
