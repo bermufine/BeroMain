@@ -1,6 +1,16 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
+ },
+{
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
@@ -179,17 +189,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
   { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
 
-{
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
- },
-
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
  
 {
@@ -244,6 +243,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTI4NDU4NjBf/Auapatv.jpg",
           "title": "AUAPAJR TV"
+ },
+
+ {
+     "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
+          "sources": [
+            "https://stream.berosat.live/hls/ccpv-tv/ccpv-tv.m3u8"
+          ],
+	  "number": "111",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
+          "title": "CCPV TV"
  },
 
  {
@@ -436,8 +446,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTMwMTU5ODRf/Hopeafrica.jpg",
           "title": "HOPE TV AFRICA"
 },
-
-  { "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres", "sources": [ "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8" ], "number": "111", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg", "title": "CCPV TV" }, 
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live/hls/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
 
@@ -710,14 +718,14 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
 {
-     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
+            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
           ],
-	  "number": "176",
+	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwNTc5MjBf/Filamutv.jpg",
-          "title": "FILAMU TV"
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
             }
 		  ]
 		}
