@@ -123,17 +123,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
- {
-     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/eloko-tv/eloko-tv.m3u8"
-          ],
-	  "number": "127",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
-          "title": "ELOKO STAR"
- },
-
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
 
  {
@@ -172,6 +161,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
+
+  {
+     "description": "OUAVELAS TV,Coming Soon ...",
+          "sources": [
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+          ],
+	  "number": "169",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMxMTY5NThf/ouavelastv.jpg",
+          "title": "OUAVELAS TV"
+},
 
  {
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"}, 
@@ -716,6 +716,29 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
           "title": "TOSEKA TV"
 },
+
+
+ {
+     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/eloko-tv/eloko-tv.m3u8"
+          ],
+	  "number": "127",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
+          "title": "ELOKO STAR"
+ },
+ 
+ {
+     "description": "Eloko Star TV est une Television générale depusn République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/eloko-tv/eloko-tv.m3u8"
+          ],
+	  "number": "127",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODVf/ElokostarTV.jpg",
+          "title": "ELOKO STAR"
+ },
 
 {
       "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
