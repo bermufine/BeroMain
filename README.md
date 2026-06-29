@@ -169,7 +169,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "169",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMxMTY5NThf/ouavelastv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTMxMTY5ODZf/ouavelas.jpg",
           "title": "OUAVELAS TV"
 },
 
