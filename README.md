@@ -84,6 +84,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "EXPLOITS TV"
 },
 
+{
+     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMxMTg4NTlf/Safinatv.jpg",
+          "title": "SAFINA TV"
+ },
+
  {
      "description": "Central Voice Television is a broadcasting channel from Zambia",
           "sources": [
