@@ -65,7 +65,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
-            "http://iptv.berosat.live/hls/FM-TV/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/FM-TV/index.m3u8"
           ],
 	  "number": "143",
           "subtitle": "All Channels",
