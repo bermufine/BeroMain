@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI4MTMzMjZf/LOLLYTV.jpg",
+          "title": "LOLLYWOOD HD TV"
+}, 
+
+{
       "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
@@ -31,17 +42,6 @@
           "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
           "title": "LIBERTY TV"
  },
-
-{
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
-          ],
-	  "number": "785",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI4MTMzMjZf/LOLLYTV.jpg",
-          "title": "LOLLYWOOD HD TV"
-}, 
 
 { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" },
@@ -185,13 +185,13 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg", "title": "FINESSE MONDE TV"},  
 
   {
-     "description": "OUAVELAS TV,Coming Soon ...",
+     "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
           "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+            "http://ip-pro.berosat.live/hls/live/OUAVILAS-TV/index.m3u8"
           ],
 	  "number": "169",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMxMTY5ODZf/ouavelas.jpg",
+          "thumb": "tps://od.lk/s/NDZfOTMyNTE3OTRf/Ouavalastv.png",
           "title": "OUAVELAS TV"
 },
 
@@ -728,6 +728,39 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "DOMINION TV"
  },
 
+{
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTI4MTMzMjZf/LOLLYTV.jpg",
+          "title": "LOLLYWOOD HD TV"
+            }
+		  ]
+		}
+	]
+}
+
+
+
+
+
+
+
+
+ {
+     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/sm-video/sm-video.m3u8"
+          ],
+	  "number": "128",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
+          "title": "SM-VIDEO TV"
+},
+
  {
      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
@@ -762,38 +795,6 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "ELOKO STAR"
  },
 
-{
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
-            }
-		  ]
-		}
-	]
-}
-
-
-
-
-
-
-
-
- {
-     "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/sm-video/sm-video.m3u8"
-          ],
-	  "number": "128",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
-          "title": "SM-VIDEO TV"
-},
 
  {
      "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
