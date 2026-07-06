@@ -149,7 +149,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 	  "number": "169",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTMyNTQ2MTBf/TvOuavalas.png",
-          "title": "OUAVELAS TV"
+          "title": "OUAVILA'S TV"
 },
 
 { "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
