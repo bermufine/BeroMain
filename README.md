@@ -20,7 +20,7 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
           "title": "OCEAN TV"
- },
+},
 {
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
@@ -94,6 +94,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTMxMTg4NTlf/Safinatv.jpg",
           "title": "SAFINA TV"
  },
+
+ {
+      "description": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
+          ],
+	  "number": "171",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
+          "title": "3D-CINEMA"
+},
 
  {
      "description": "Central Voice Television is a broadcasting channel from Zambia",
@@ -217,7 +228,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 	  "number": "155",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTI3Njg1Nzdf/mobavision.jpg",
-          "title": "MOBA-VISION TV"
+          "title": "MOBA-VISION"
  },
 
   { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg", "title": "RL PRO TV" },
