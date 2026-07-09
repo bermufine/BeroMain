@@ -258,6 +258,19 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
+          ],
+	  "number": "172",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMyNjU1MzZf/rtba.jpg",
+          "title": "RTBA"
+},
+
+
+
+{
      "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
