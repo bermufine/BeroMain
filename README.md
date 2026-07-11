@@ -51,7 +51,7 @@
           ],
 	  "number": "188",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUzXw",
           "title": "LIBERTY TV"
  },
 
@@ -65,11 +65,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
           "title": "FRYCOMS TV"
  },
 
-{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
+{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
 {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
@@ -78,7 +78,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "143",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ4Xw",
           "title": "FM TV"
 },
 
@@ -111,7 +111,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "93",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
           "title": "EXPLOITS TV"
 },
 
@@ -144,7 +144,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "102",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQxXw",
           "title": "CENTRAL VOICE"
  }, 
 
@@ -155,11 +155,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "59",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
           "title": "ESAIE 45 TELE"
  },
 
-{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
+{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQyXw", "title": "CHAMPION TV" },
 
 {
      "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
@@ -168,7 +168,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "157",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI4MTMwMzVf/wangutv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
           "title": "WANGU TV"
 },
 
@@ -198,7 +198,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
-{ "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg", "title": "GOLGOTHA TV"}, 
+{ "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"}, 
 
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -232,13 +232,13 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "RTA-OPH TV"
 },
 
-{ "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp", "title": "DER-TV" },
+{ "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ0Xw", "title": "DER-TV" },
 
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"},  
 
  {
-   "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg","title":"JOS-TV HD"}, 
+   "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"}, 
 
  {
      "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
@@ -253,7 +253,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
   { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODlf", "title": "RL PRO TV" },
 
-{"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg","title":"TV LA CAPITALE"},
+{"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw","title":"TV LA CAPITALE"},
  
 {
      "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
@@ -262,7 +262,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "408",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU2Xw",
           "title": "METEO TV"
 },
 
@@ -337,7 +337,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "131",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
           "title": "AFRI TV"
 },
 
@@ -425,7 +425,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "85",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU1Xw",
           "title": "S-MEDIAS TV 3"
 },
 
@@ -458,7 +458,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "129",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NjczNzFf/Ackbangunza.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM3Xw",
           "title": "ACK TV"
 },
 
@@ -469,7 +469,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "417",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQzXw",
           "title": "C-ONE TV"
  },
 
@@ -485,7 +485,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "48",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU4Xw",
           "title": "RTE TV HD"
  },
 
@@ -697,7 +697,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           ],
 	  "number": "171",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMjk2OTJf/mbegutv.png",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU0Xw",
           "title": "MBEGU TV"
 },
 
@@ -708,7 +708,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           ],
 	  "number": "172",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMjk2ODZf/eadtv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ1Xw",
           "title": "EADTV"
 },
 
@@ -724,7 +724,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  }, 
 
 {
-     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
+     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDM5Xw","title":"ANTENNE A"},
  
 {
      "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
@@ -733,7 +733,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           ],
 	  "number": "146",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI3MjYzNTZf/Yabisotv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDYwXw",
           "title": "YA BISO TV"
 },
 
@@ -755,7 +755,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           ],
 	  "number": "371",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM4Xw",
           "title": "LA BORNE TV"
 },
 
@@ -791,7 +791,7 @@ Dominion TV — Raising a generation called to reign in Christ",
           ],
 	  "number": "172",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNjU1MzZf/rtba.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTBf",
           "title": "RTBA"
             }
 		  ]
