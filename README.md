@@ -764,7 +764,7 @@ Dominion TV — Raising a generation called to reign in Christ",
  {
       "description": "M6 TV est une chaîne généraliste Francaise",
           "sources": [
-            "http://41.205.70.146/M6/index.m3u8"
+            "https://cdn.haititivi.net/M6-HD/index.m3u8"
           ],
 	  "number": "200",
           "subtitle": "All Channels",
