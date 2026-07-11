@@ -1,14 +1,14 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
-{
-      "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
+ {
+     "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
           ],
-	  "number": "170",
+	  "number": "172",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNjYwNTlf/Musiqbisotv.jpg",
-          "title": "MUSIC NA BISO"
+          "thumb": "https://od.lk/s/NDZfOTMyNjU1MzZf/rtba.jpg",
+          "title": "RTBA"
 },
  
 {
@@ -22,16 +22,17 @@
           "title": "LOLLYWOOD HD TV"
 }, 
 
-{
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
-          ],
-	  "number": "511",
+ {
+     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
+          "sources": [    
+		  "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
+		  ],
+	  "number": "142",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
-          "title": "OCEAN TV"
+          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "title": "MS TV"
 },
+
 {
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
@@ -68,21 +69,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "FRYCOMS TV"
  },
 
- {
-     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
-
-   { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
-
- {
-     "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
-          ],
-	  "number": "172",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNjU1MzZf/rtba.jpg",
-          "title": "RTBA"
-},
+{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg", "title": "LE MONDE EN 24H" },
 
 {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
@@ -95,7 +82,29 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "FM TV"
 },
 
- {
+{
+      "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMyNjYwNTlf/Musiqbisotv.jpg",
+          "title": "MUSIC NA BISO"
+},
+
+{
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "title": "OCEAN TV"
+},
+
+{
      "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
             "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8"
@@ -149,17 +158,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
           "title": "ESAIE 45 TELE"
  },
-
- {
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
-		  ],
-	  "number": "142",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
-},
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
@@ -723,7 +721,10 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
- },  
+ }, 
+
+{
+     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
  
 {
      "description": "Ya Biso Tv est une chaîne de télévision numérique et communautaire à vocation culturelle et généraliste, diffusée en clair en République du Congo et accessible en ligne via YouTube, Facebook, Instagram ainsi que d’autres plateformes numériques. Sa mission est d’informer, d’éduquer, de divertir et de promouvoir la culture africaine, avec une attention particulière portée à la richesse de la culture congolaise. En tant que média de proximité, culturel et généraliste, Ya Biso Tv valorise la diversité linguistique en intégrant les langues vernaculaires du Congo ainsi que les langues étrangères. Ya Biso Tv se veut une chaîne multidirectionnelle, moderne et inclusive, reflétant la réalité des médias au Congo tout en offrant un espace d’expression, de partage et de valorisation des talents, des cultures et des initiatives locales.",
@@ -783,15 +784,15 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "M6 TV"
 },
 
-{
-      "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
+ {
+     "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
           ],
-	  "number": "170",
+	  "number": "172",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNjYwNTlf/Musiqbisotv.jpg",
-          "title": "MUSIC NA BISO"
+          "thumb": "https://od.lk/s/NDZfOTMyNjU1MzZf/rtba.jpg",
+          "title": "RTBA"
             }
 		  ]
 		}
