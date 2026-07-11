@@ -18,7 +18,7 @@
           ],
 	  "number": "785",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI4MTMzMjZf/LOLLYTV.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjRf",
           "title": "LOLLYWOOD HD TV"
 }, 
 
@@ -29,7 +29,7 @@
 		  ],
 	  "number": "142",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjZf",
           "title": "MS TV"
 },
 
@@ -40,7 +40,7 @@
           ],
 	  "number": "176",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwNTc5MjBf/Filamutv.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
           "title": "FILAMU TV"
 },
 
@@ -179,7 +179,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "169",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNTQ2MTBf/TvOuavalas.png",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0Mjdf",
           "title": "OUAVILA'S TV"
 },
 
@@ -247,7 +247,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "155",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI3Njg1Nzdf/mobavision.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
           "title": "MOBA-VISION"
  },
 
@@ -273,7 +273,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "177",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwNTc5MjFf/Kinoiserie.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
           "title": "KINOISERIE TV"
 },
 
@@ -305,7 +305,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "160",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI4NDU4NjBf/Auapatv.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
           "title": "AUAPAJR TV"
  },
 
@@ -359,7 +359,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "165",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI5OTg5Nzlf/Elantv.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjFf",
           "title": "ELAN TV"
  },
 
@@ -370,7 +370,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "166",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMDEzNTFf/Amanitv.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
           "title": "AMANI TV"
  }, 
 
@@ -414,7 +414,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "161",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI5Nzk0Mjdf/paroleesperence.jpg",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0Mjhf",
           "title": "PE TV"
   },
 
