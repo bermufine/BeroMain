@@ -239,7 +239,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "168",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMTA0NzRf/rta_oph.png",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM3NzRf",
           "title": "RTA-OPH TV"
 },
 
@@ -305,7 +305,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "164",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTI5OTgxNjVf/Alliance.jpg",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM3Nzhf",
           "title": "ALLIANCE TV"
 },
 
@@ -360,7 +360,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "167",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMDcwODlf/Lualabaverite.jpg",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM3Nzdf",
           "title": "LUALABA VERITE"
 },
 
