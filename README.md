@@ -111,7 +111,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjI4NDlf/oceantele.jpg",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2NDFf",
           "title": "OCEAN TV"
 },
 
@@ -172,8 +172,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "OUAVILA'S TV"
 },
 
-{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
-
 {
       "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
           "sources": [
@@ -189,7 +187,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"}, 
 
-{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
+{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjNf", "title": "NTI TV" }, 
 
 {
       "description": "Esakola télévision est une chaîne généraliste communautaire émettant à  depuis Kimpese en République Démocratique du Congo",
@@ -257,27 +255,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw","title":"TV LA CAPITALE"},
 
-{
-     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
-          ],
-	  "number": "177",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
-          "title": "KINOISERIE TV"
-},
-
-{
-     "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
-          "sources": [    
-		  "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
-		  ],
-	  "number": "142",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-          "title": "MS TV"
-},
 {
      "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
@@ -438,7 +415,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "144",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIzMjI4MjZf/Cepvtv.jpg",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MzBf",
           "title": "CEPV TV"
 },
 
@@ -476,7 +453,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
  { 
-	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg", "title": "KIN DIRECT TV" }, 
+	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjBf", "title": "KIN DIRECT TV" }, 
 
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "https://stream.berosat.live/hls/evi-tv/evi-tv.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
@@ -509,7 +486,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "169",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMTU5ODRf/Hopeafrica.jpg",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjFf",
           "title": "HOPE TV AFRICA"
 },
 
@@ -528,7 +505,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590", "sources": [ "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8" ], "number": "54", "subtitle": "All Channels", "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", "title": "BOSS BROTHER" }, 
 
- {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
+ {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/thumb/NDNfNDcxMDM2OTlf","title":"ESPOIR TV"},
 
 {"description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.", "sources":["https://stella.streamerr.co:3776/hybrid/play.m3u8"], "number": "75", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title": "POURIM-RTV"},
 
@@ -604,7 +581,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           ],
 	  "number": "393",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODU1NjgxNTlf/guildtv.jpg",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2NTFf",
           "title": " GUILD TV"
 },
 
@@ -793,7 +770,7 @@ Dominion TV — Raising a generation called to reign in Christ",
           ],
 	  "number": "94",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
           "title": "NURU RTV"
 },
 
