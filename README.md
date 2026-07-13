@@ -192,7 +192,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
       "description": "Esakola télévision est une chaîne généraliste communautaire émettant à  depuis Kimpese en République Démocratique du Congo",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/ESAKOLA-TV/index.m3u8"
           ],
 	  "number": "174",
           "subtitle": "All Channels",
