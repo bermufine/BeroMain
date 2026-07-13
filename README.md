@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
- {
+{
+     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
+          ],
+	  "number": "177",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
+          "title": "KINOISERIE TV"
+},
+
+{
      "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
@@ -10,7 +21,32 @@
           "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTBf",
           "title": "RTBA"
 },
- 
+
+{
+      "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODhf",
+          "title": "MUSIC NA BISO"
+},
+
+{ "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
+Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" },
+
+{
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
+          "title": "FRYCOMS TV"
+},
+
 {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
@@ -32,6 +68,8 @@
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjZf",
           "title": "MS TV"
 },
+
+{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
 {
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
@@ -55,22 +93,6 @@
           "title": "LIBERTY TV"
  },
 
-{ "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
-Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" },
-
-{
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
-          "title": "FRYCOMS TV"
- },
-
-{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
-
 {
      "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
           "sources": [
@@ -80,17 +102,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ4Xw",
           "title": "FM TV"
-},
-
-{
-      "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
-          ],
-	  "number": "170",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODhf",
-          "title": "MUSIC NA BISO"
 },
 
 {
@@ -116,28 +127,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
-          ],
-	  "number": "170",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
-          "title": "SAFINA TV"
- },
-
- {
-      "description": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
-          ],
-	  "number": "171",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
-          "title": "3D-CINEMA"
-},
-
- {
      "description": "Central Voice Television is a broadcasting channel from Zambia",
           "sources": [
             "https://stream.berosat.live/hls/central-voice/central-voice.m3u8"
@@ -196,9 +185,33 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "LUKALA TV"
 },
 
- { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
+ { "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"}, 
+
+{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg", "title": "NTI TV" }, 
+
+{
+      "description": "Esakola télévision est une chaîne généraliste communautaire émettant à  depuis Kimpese en République Démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
+          ],
+	  "number": "174",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDMwODlf",
+          "title": "ESAKOLA TV"
+},
+
+{
+     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
+          ],
+	  "number": "155",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
+          "title": "MOBA-VISION"
+ },
 
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -240,31 +253,9 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"}, 
 
- {
-     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
-          ],
-	  "number": "155",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
-          "title": "MOBA-VISION"
- },
-
   { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODlf", "title": "RL PRO TV" },
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw","title":"TV LA CAPITALE"},
- 
-{
-     "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
-          "sources": [
-            "https://stream.berosat.live/hls/mtv-index/mtv-index.m3u8"
-          ],
-	  "number": "408",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU2Xw",
-          "title": "METEO TV"
-},
 
 {
      "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
@@ -275,17 +266,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
           "title": "KINOISERIE TV"
-},
-
-{
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
-          "title": "NURU RTV"
 },
 
 {
@@ -350,7 +330,29 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTI5OTgxNjVf/Alliance.jpg",
           "title": "ALLIANCE TV"
+},
+
+{
+     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
+          "title": "SAFINA TV"
  },
+
+ {
+      "description": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
+          ],
+	  "number": "171",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
+          "title": "3D-CINEMA"
+},
 
 {
      "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
@@ -784,15 +786,37 @@ Dominion TV — Raising a generation called to reign in Christ",
           "title": "M6 TV"
 },
 
- {
-     "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
+{
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
           ],
-	  "number": "172",
+	  "number": "94",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTBf",
-          "title": "RTBA"
+          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
+          "title": "NURU RTV"
+},
+
+{
+     "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
+          "sources": [
+            "https://stream.berosat.live/hls/mtv-index/mtv-index.m3u8"
+          ],
+	  "number": "408",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU2Xw",
+          "title": "METEO TV"
+},
+
+{
+     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
+          ],
+	  "number": "177",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
+          "title": "KINOISERIE TV"
             }
 		  ]
 		}
