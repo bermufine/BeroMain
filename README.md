@@ -287,6 +287,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
           "title": "INTELLO+ TV"
 },
+
+{
+     "description": "La Voix du Réveil télévision est unechaine culturelle émettant depuis la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/VOIX-REVEIL/VOIX-REVEIL.m3u8"
+          ],
+	  "number": "175",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDNfNDcxMTUyOTBf/Voixreveil.jpg",
+          "title": "VOIX DU REVEIL"
+},
+
 {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
           "sources": [
@@ -467,6 +479,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU4Xw",
           "title": "RTE TV HD"
  },
+
+{
+     "description": "MKV télévision est une Une chaîne de prospérité.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/MKV-TV/index.m3u8"
+          ],
+	  "number": "176",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDNfNDcxMTUzMDVf/mkvtv.jpg",
+          "title": "MKV TV"
+},
 
 {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
