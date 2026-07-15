@@ -299,6 +299,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
  },
+ 
+{
+     "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/PRO-FM/index.m3u8"
+          ],
+	  "number": "178",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
+          "title": "PRO TV"
+},
 
  {
      "description": "Intello Plus Afrik TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
