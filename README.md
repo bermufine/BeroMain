@@ -184,6 +184,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "North-West Television is a broadcasting channel from Zambia",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
+          ],
+	  "number": "102",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMTYwODNf",
+          "title": "NORTH-WEST TV"
+}, 
+
+{
       "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
