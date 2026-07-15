@@ -263,7 +263,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 	  "number": "175",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDNfNDcxMTUyOTBf/Voixreveil.jpg",
-          "title": "VOIX DU REVEIL"
+          "title": "LA VOIX DU RÉVEIL"
 },
 
 {
