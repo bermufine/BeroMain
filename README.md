@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
+          ],
+	  "number": "155",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
+          "title": "MOBA-VISION"
+ },
+
+{
      "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
@@ -200,17 +211,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "ESAKOLA TV"
 },
 
-{
-     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
-          ],
-	  "number": "155",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
-          "title": "MOBA-VISION"
- },
-
  {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -256,6 +256,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw","title":"TV LA CAPITALE"},
 
 {
+     "description": "La Voix du Réveil télévision est unechaine culturelle émettant depuis la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
+          ],
+	  "number": "175",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDNfNDcxMTUyOTBf/Voixreveil.jpg",
+          "title": "VOIX DU REVEIL"
+},
+
+{
      "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "https://stream.berosat.live/hls/auapajr-tv/auapajr-tv.m3u8"
@@ -286,17 +297,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
           "title": "INTELLO+ TV"
-},
-
-{
-     "description": "La Voix du Réveil télévision est unechaine culturelle émettant depuis la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/VOIX-REVEIL/VOIX-REVEIL.m3u8"
-          ],
-	  "number": "175",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDNfNDcxMTUyOTBf/Voixreveil.jpg",
-          "title": "VOIX DU REVEIL"
 },
 
 {
@@ -809,15 +809,15 @@ Dominion TV — Raising a generation called to reign in Christ",
 },
 
 {
-     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
+            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
           ],
-	  "number": "177",
+	  "number": "155",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
-          "title": "KINOISERIE TV"
-            }
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
+          "title": "MOBA-VISION"
+             }
 		  ]
 		}
 	]
