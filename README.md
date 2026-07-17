@@ -197,7 +197,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
       "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
           ],
 	  "number": "173",
           "subtitle": "All Channels",
@@ -214,7 +214,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
       "description": "Esakola télévision est une chaîne généraliste communautaire émettant à  depuis Kimpese en République Démocratique du Congo",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/ESAKOLA-TV/index.m3u8"
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
           ],
 	  "number": "174",
           "subtitle": "All Channels",
@@ -281,7 +281,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "https://stream.berosat.live/hls/auapajr-tv/auapajr-tv.m3u8"
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
           ],
 	  "number": "160",
           "subtitle": "All Channels",
@@ -303,7 +303,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/PRO-FM/index.m3u8"
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
           ],
 	  "number": "178",
           "subtitle": "All Channels",
@@ -347,7 +347,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
           ],
 	  "number": "170",
           "subtitle": "All Channels",
@@ -517,7 +517,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+            "https://stream.berosat.live/hls/top-novelas/top-novelas.m3u8"
           ],
 	  "number": "09",
           "subtitle": "All Channels",
