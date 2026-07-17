@@ -199,7 +199,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "sources": [
             "http://ip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
           ],
-	  "number": "102",
+	  "number": "179",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDNfNDcxMTYwODNf",
           "title": "NORTH-WEST TV"
