@@ -303,7 +303,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+            "http://ip-pro.berosat.live/hls/live/PRO-FM/index.m3u8"
           ],
 	  "number": "178",
           "subtitle": "All Channels",
