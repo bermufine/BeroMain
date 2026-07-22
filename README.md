@@ -223,14 +223,14 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-      "description": "Esakola télévision est une chaîne généraliste communautaire émettant à  depuis Kimpese en République Démocratique du Congo",
+     "description": "La Voix du Réveil télévision est unechaine culturelle émettant depuis la République démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+            "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
           ],
-	  "number": "174",
+	  "number": "175",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDMwODlf",
-          "title": "ESAKOLA TV"
+          "thumb": "https://od.lk/s/NDNfNDcyMjI0OTBf/lavoixreveil.jpg",
+          "title": "LA VOIX DU RÉVEIL"
 },
 
 {
@@ -260,34 +260,34 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"},  
 
+{
+     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/jerubaal/jerubaal.m3u8"
+          ],
+	  "number": "163",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
+          "title": "JERUBAAL TV"
+},
+
+ {
+      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
+          ],
+	  "number": "166",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
+          "title": "AMANI TV"
+ }, 
+
  {
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"}, 
 
   { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODlf", "title": "RL PRO TV" },
 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw","title":"TV LA CAPITALE"},
-
-{
-     "description": "La Voix du Réveil télévision est unechaine culturelle émettant depuis la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
-          ],
-	  "number": "175",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDNfNDcxMTUyOTBf/Voixreveil.jpg",
-          "title": "LA VOIX DU RÉVEIL"
-},
-
-{
-     "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
-          ],
-	  "number": "160",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
-          "title": "AUAPAJR TV"
- },
 
  {
      "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
@@ -310,6 +310,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
           "title": "PRO TV"
 },
+
+{
+     "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+          ],
+	  "number": "160",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
+          "title": "AUAPAJR TV"
+ },
 
 {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
@@ -365,17 +376,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjFf",
           "title": "ELAN TV"
  },
-
- {
-      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
-          ],
-	  "number": "166",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
-          "title": "AMANI TV"
- }, 
 
 {
       "description": "Lualaba Verite TV est une chaîne généraliste émettant depuis la ville de Kolwezi en République démocratique du Congo",
@@ -774,18 +774,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
  {
-     "description": "Called to Reign in Christ, Dominion TV is a faith-based media platform committed to proclaiming the Gospel of Jesus Christ with power, clarity, and purpose. Rooted in the mandate of kingdom dominion, we exist to raise believers who understand their identity in Christ and walk boldly in authority, victory, and righteousness.
-Through inspiring teachings, prophetic broadcasts, worship experiences, and life-transforming programs, Dominion TV reaches nations with a message of hope, restoration, and spiritual empowerment. We are dedicated to equipping individuals, families, and ministries to reign in life through Christ Jesus.
-At Dominion TV, we believe that every believer is called not just to survive—but to reign.
-Dominion TV — Raising a generation called to reign in Christ",
+      "description": "Esakola télévision est une chaîne généraliste communautaire émettant à  depuis Kimpese en République Démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live/hls/dominion-tv/dominion-tv.m3u8"
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
           ],
-	  "number": "132",
+	  "number": "174",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE3MDk1MThf/Domingos.jpg",
-          "title": "DOMINION TV"
- },
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDMwODlf",
+          "title": "ESAKOLA TV"
+},
+
 
  {
       "description": "M6 TV est une chaîne généraliste Francaise",
@@ -840,16 +838,21 @@ Dominion TV — Raising a generation called to reign in Christ",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
           "title": "INTELLO+ TV"
 },
-{
-     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+
+ {
+     "description": "Called to Reign in Christ, Dominion TV is a faith-based media platform committed to proclaiming the Gospel of Jesus Christ with power, clarity, and purpose. Rooted in the mandate of kingdom dominion, we exist to raise believers who understand their identity in Christ and walk boldly in authority, victory, and righteousness.
+Through inspiring teachings, prophetic broadcasts, worship experiences, and life-transforming programs, Dominion TV reaches nations with a message of hope, restoration, and spiritual empowerment. We are dedicated to equipping individuals, families, and ministries to reign in life through Christ Jesus.
+At Dominion TV, we believe that every believer is called not just to survive—but to reign.
+Dominion TV — Raising a generation called to reign in Christ",
           "sources": [
-            "https://stream.berosat.live/hls/jerubaal/jerubaal.m3u8"
+            "https://stream.berosat.live/hls/dominion-tv/dominion-tv.m3u8"
           ],
-	  "number": "163",
+	  "number": "132",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
-          "title": "JERUBAAL TV"
-},
+          "thumb": "https://od.lk/s/NDZfOTE3MDk1MThf/Domingos.jpg",
+          "title": "DOMINION TV"
+ },
+
  {
      "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
           "sources": [
