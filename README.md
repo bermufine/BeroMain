@@ -258,7 +258,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ0Xw", "title": "DER-TV" },
 
 
- { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"},  
+ { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"}, 
+
+ {
+     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/cite-david/cite-david.m3u8"
+          ],
+	  "number": "183",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "title": "CITE DE DAVID"
+},
 
 {
      "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -312,17 +323,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
-          ],
-	  "number": "160",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
-          "title": "AUAPAJR TV"
- },
-
-{
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
@@ -354,17 +354,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
           "title": "SAFINA TV"
  },
-
- {
-      "description": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
-          ],
-	  "number": "171",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
-          "title": "3D-CINEMA"
-},
 
 {
      "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
@@ -806,6 +795,27 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU2Xw",
           "title": "METEO TV"
 },
+
+ {
+      "description": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
+          ],
+	  "number": "171",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
+          "title": "3D-CINEMA"
+},
+{
+     "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+          ],
+	  "number": "160",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
+          "title": "AUAPAJR TV"
+ },
 
 {
       "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
