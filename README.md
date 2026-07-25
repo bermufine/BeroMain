@@ -223,7 +223,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "La Voix du Réveil télévision est unechaine culturelle émettant depuis la République démocratique du Congo",
+     "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
           ],
