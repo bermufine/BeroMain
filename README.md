@@ -12,6 +12,17 @@
 },
 
 {
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
+          "title": "FRYCOMS TV"
+},
+
+{
       "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
@@ -34,17 +45,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
           "title": "MOBA-VISION"
- },
-
-{
-     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
-          ],
-	  "number": "177",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
-          "title": "KINOISERIE TV"
 },
 
 {
@@ -59,14 +59,36 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
           "sources": [
-            "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8"
+            "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8"
           ],
-	  "number": "511",
+	  "number": "93",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
-          "title": "FRYCOMS TV"
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
+          "title": "EXPLOITS TV"
+},
+
+{
+     "description": "Central Voice Television is a broadcasting channel from Zambia",
+          "sources": [
+            "https://stream.berosat.live/hls/central-voice/central-voice.m3u8"
+          ],
+	  "number": "102",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQxXw",
+          "title": "CENTRAL VOICE"
+},
+
+{
+     "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/kinoiserie-tv/kinoiserie-tv.m3u8"
+          ],
+	  "number": "177",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
+          "title": "KINOISERIE TV"
 },
 
 {
@@ -90,6 +112,41 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjZf",
           "title": "MS TV"
 },
+
+{
+     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
+          "sources": [
+            "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8"
+          ],
+	  "number": "59",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
+          "title": "ESAIE 45 TELE"
+ },
+
+ {
+     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
+          "sources": [
+            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
+          ],
+	  "number": "157",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
+          "title": "WANGU TV"
+},
+
+{
+     "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/OUAVILAS-TV/index.m3u8"
+          ],
+	  "number": "169",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0Mjdf",
+          "title": "OUAVILA'S TV"
+},
+
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
@@ -135,64 +192,9 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDNfNDcxMDM2NDFf",
           "title": "OCEAN TV"
-},
-
-{
-     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8"
-          ],
-	  "number": "93",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
-          "title": "EXPLOITS TV"
-},
-
-{
-     "description": "Central Voice Television is a broadcasting channel from Zambia",
-          "sources": [
-            "https://stream.berosat.live/hls/central-voice/central-voice.m3u8"
-          ],
-	  "number": "102",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQxXw",
-          "title": "CENTRAL VOICE"
- }, 
-
-{
-     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
-          "sources": [
-            "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8"
-          ],
-	  "number": "59",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
-          "title": "ESAIE 45 TELE"
- },
+}, 
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQyXw", "title": "CHAMPION TV" },
-
-{
-     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
-          "sources": [
-            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
-          ],
-	  "number": "157",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
-          "title": "WANGU TV"
-},
-
-{
-     "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/OUAVILAS-TV/index.m3u8"
-          ],
-	  "number": "169",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0Mjdf",
-          "title": "OUAVILA'S TV"
-},
 
 {
      "description": "North-West Television is a broadcasting channel from Zambia",
@@ -205,7 +207,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "NORTH-WEST TV"
 }, 
 
- { "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }, 
 
 { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"}, 
 
