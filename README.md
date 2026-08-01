@@ -234,6 +234,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "North-West Television is a broadcasting channel from Zambia",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
+          ],
+	  "number": "179",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDNfNDcyODEyODhf/Northwest.jpg",
+          "title": "NORTH-WEST TV"
+},
+
+{
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
             "https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8"
@@ -854,16 +865,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "thumb": "https://od.lk/thumb/NDNfNDcxMDM3Nzdf",
           "title": "LUALABA VERITE"
 },
-{
-     "description": "North-West Television is a broadcasting channel from Zambia",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
-          ],
-	  "number": "179",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMTYwODNf",
-          "title": "NORTH-WEST TV"
-}, 
+ 
 {"description":"TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.","sources":["https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8"], "number": "56", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw","title":"TV LA CAPITALE"},
 
  {
