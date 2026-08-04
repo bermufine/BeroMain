@@ -266,6 +266,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KMK TV"
 },
 
+{
+     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
+          "title": "SAFINA TV"
+ },
+
  {
      "description": "RTA-OPH TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -352,17 +363,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
           "title": "AFRI TV"
 },
-
-{
-     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
-          ],
-	  "number": "170",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
-          "title": "SAFINA TV"
- },
 
 {
      "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
