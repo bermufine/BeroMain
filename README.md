@@ -14,7 +14,7 @@
 {
       "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+            "http://music-na-biso.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
           ],
 	  "number": "170",
           "subtitle": "All Channels",
