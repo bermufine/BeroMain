@@ -3,7 +3,7 @@
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+            "http://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
           ],
 	  "number": "511",
           "subtitle": "All Channels",
