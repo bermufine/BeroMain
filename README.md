@@ -1,6 +1,15 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
-{ "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" },
+{
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
+          "title": "FRYCOMS TV"
+},
 
 {
       "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
@@ -11,17 +20,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODhf",
           "title": "MUSIC NA BISO"
-},
-
-{
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
-          "title": "FRYCOMS TV"
 },
 
 { "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
@@ -103,6 +101,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjZf",
           "title": "MS TV"
 },
+
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" },
 
 {
      "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
@@ -754,7 +754,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "KK TV"
  },
 
-{ "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" }
+{
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
+          "title": "FRYCOMS TV"
+            }
 		  ]
 		}
 	]
