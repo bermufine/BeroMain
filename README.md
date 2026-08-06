@@ -193,16 +193,16 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "FM TV"
 },
 
-{
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+ {
+     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
           ],
-	  "number": "511",
+	  "number": "183",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2NDFf",
-          "title": "OCEAN TV"
-}, 
+          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "title": "CITE DE DAVID"
+},
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQyXw", "title": "CHAMPION TV" },
 
@@ -231,17 +231,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDNfNDcyMjI0OTBf/lavoixreveil.jpg",
           "title": "LA VOIX DU RÉVEIL"
-},
-
- {
-     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
-          "sources": [
-            "https://stream.berosat.live/hls/cite-david/cite-david.m3u8"
-          ],
-	  "number": "183",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "title": "CITE DE DAVID"
 },
 
 {
@@ -293,17 +282,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"}, 
 
-{
-     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live/hls/jerubaal/jerubaal.m3u8"
-          ],
-	  "number": "163",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
-          "title": "JERUBAAL TV"
-},
-
  {
       "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
           "sources": [
@@ -341,17 +319,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
  },
- 
-{
-     "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/PRO-FM/index.m3u8"
-          ],
-	  "number": "178",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
-          "title": "PRO TV"
-},
 
 {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
@@ -378,7 +345,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
-            "https://stream.berosat.live/hls/grand-media/grand-media.m3u8"
+            "http://ip-pro.berosat.live/hls/live/GRAND-MEDIA/index.m3u8"
           ],
 	  "number": "158",
           "subtitle": "All Channels",
@@ -440,6 +407,37 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQzXw",
           "title": "C-ONE TV"
  },
+
+ {
+     "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/PRO-FM/index.m3u8"
+          ],
+	  "number": "178",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
+          "title": "PRO TV"
+},
+{
+     "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/jerubaal/jerubaal.m3u8"
+          ],
+	  "number": "163",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
+          "title": "JERUBAAL TV"
+},
+{
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2NDFf",
+          "title": "OCEAN TV"
+}, 
 
  { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjBf", "title": "KIN DIRECT TV" }, 
