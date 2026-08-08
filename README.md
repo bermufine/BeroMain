@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
+          ],
+	  "number": "09",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
+          "title": "BERO NOVELAS"
+},
+
+{
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "http://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
@@ -368,7 +379,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
-     "https://stream.berosat.live/hls/top-novelas/top-novelas.m3u8"
+     "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
           ],
 	 "number": "421",
      "subtitle": "All Channel",
@@ -477,17 +488,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDNfNDcxMTUzMDVf/mkvtv.jpg",
           "title": "MKV TV"
 },
-
-{
-     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live/hls/top-novelas/top-novelas.m3u8"
-          ],
-	  "number": "09",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
-          "title": "BERO NOVELAS"
- },
 
  {
      "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio HOPE FM AFRICA Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés JT et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
@@ -740,17 +740,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "M6 TV"
 },
 
-{
-     "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
-          ],
-	  "number": "160",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
-          "title": "AUAPAJR TV"
- },
-
  { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live/hls/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
 
 {
@@ -765,14 +754,14 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  },
 
 {
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
           ],
-	  "number": "511",
+	  "number": "09",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
-          "title": "FRYCOMS TV"
+          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
+          "title": "BERO NOVELAS"
             }
 		  ]
 		}
@@ -784,7 +773,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
-
+{
+     "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
+          ],
+	  "number": "160",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
+          "title": "AUAPAJR TV"
+ },
  {
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
