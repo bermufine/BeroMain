@@ -304,6 +304,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "Nguya Aigle est une chaine de Television généralaliste qui  émet à partir de Kinshasa, en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/nguya-aigle/nguya-aigle.m3u8"
+          ],
+	  "number": "198",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzMyMTY3NDdfbkE3eFg",
+          "title": "NGUYA TV"
+},
+
+{
      "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
