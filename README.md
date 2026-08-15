@@ -309,6 +309,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"}, 
 
  {
+     "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "https://stream.berosat.live/hls/pro-tv/pro-tv.m3u8"
+          ],
+	  "number": "178",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
+          "title": "PRO TV"
+},
+
+ {
       "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
@@ -796,16 +807,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
-{
-     "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/PRO-FM/index.m3u8"
-          ],
-	  "number": "178",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
-          "title": "PRO TV"
-},
+
 
 {
      "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
