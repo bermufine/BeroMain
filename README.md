@@ -288,7 +288,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "198",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzMyMTY3NDdfbkE3eFg",
+          "thumb": "https://od.lk/thumb/M18zMzM0NTU0MDJfeE5Icks",
           "title": "NGUYA TV"
 },
 
