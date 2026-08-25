@@ -141,7 +141,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
-		  "http://ipP-pro.berosat.live/hls/live/MSTV/index.m3u8"
+		  "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
 		  ],
 	  "number": "142",
           "subtitle": "All Channels",
@@ -324,17 +324,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
   { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODlf", "title": "RL PRO TV" },
 
-  {
-     "description": "Intello Plus Afrik TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "https://stream.berosat.live/hls/intello-plus/intello-plus.m3u8"
-          ],
-	  "number": "159",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
-          "title": "INTELLO+ TV"
-},
-
 {
      "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
           "sources": [
@@ -346,15 +335,15 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "CCPV TV"
  },
 
-{
-     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
+ {
+     "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations.  Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé.  À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé.",
           "sources": [
-            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
+            "https://stream.berosat.live/hls/onmctv/onmctv.m3u8"
           ],
-	  "number": "131",
+	  "number": "199",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
-          "title": "AFRI TV"
+          "thumb": "https://od.lk/thumb/M18zMzQ3MjgxOTVfY1JZTkU",
+          "title": "ONMCI TV"
 },
 
 {
@@ -731,7 +720,26 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
-
+{
+     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
+          ],
+	  "number": "131",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
+          "title": "AFRI TV"
+},
+  {
+     "description": "Intello Plus Afrik TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "https://stream.berosat.live/hls/intello-plus/intello-plus.m3u8"
+          ],
+	  "number": "159",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
+          "title": "INTELLO+ TV"
+},
 
  {
      "description": "Centre Evangelique Parole Vivante TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
