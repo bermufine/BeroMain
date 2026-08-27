@@ -309,6 +309,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ0Xw", "title": "DER-TV" },
 
 
+{
+     "description": "VOX KONGO TV est une Television d’information générale qui  émet à partir deLubumbashi, Province du Haut-Katanga, en République démocratique du Congo.",
+          "sources": [
+            "https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8"
+          ],
+	  "number": "511",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTY3MzA0ODRfSW5kNW8",
+          "title": "VOX KONGO TV"
+},
+
+
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"}, 
 
  {
