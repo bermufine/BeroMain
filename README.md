@@ -421,13 +421,15 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information.",
           "sources": [
-            "https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"
+            "https://pro-iptv.berosat.live/hls/FMG-TV.m3u8"
           ],
 	  "number": "48",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU4Xw",
           "title": "RTE TV HD"
  },
+
+  { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live/hls/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
 
 {
      "description": "MKV télévision est une Une chaîne de prospérité.",
@@ -776,7 +778,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MzBf",
           "title": "CEPV TV"
 },
- { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live/hls/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
+
 
 {
      "description": "KKTV est une chane generaliste emettant depui londre",
