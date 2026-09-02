@@ -14,7 +14,7 @@
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "http://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+            "https://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
           ],
 	  "number": "511",
           "subtitle": "All Channels",
@@ -72,7 +72,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
           ],
 	  "number": "144",
           "subtitle": "All Channels",
