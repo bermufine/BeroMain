@@ -3,7 +3,7 @@
 {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/SERIE-TV/index.m3u8"
           ],
 	  "number": "09",
           "subtitle": "All Channels",
