@@ -266,7 +266,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "196",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzMxNDA0MzVfTjlZZGw",
+          "thumb": "https://od.lk/thumb/M18zMzUyOTE0NDJfd0Y1clM",
           "title": "TSHIMANGA TV"
 },
 
