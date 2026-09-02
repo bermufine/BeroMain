@@ -14,7 +14,7 @@
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "https://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+            "http://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
           ],
 	  "number": "511",
           "subtitle": "All Channels",
@@ -72,7 +72,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
-            "https://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
           ],
 	  "number": "144",
           "subtitle": "All Channels",
@@ -82,28 +82,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 {
      "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDM5Xw","title":"ANTENNE A"},
-
-{
-     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
-          "sources": [
-            "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8"
-          ],
-	  "number": "93",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
-          "title": "EXPLOITS TV"
-},
-
-{
-     "description": "Central Voice Television is a broadcasting channel from Zambia",
-          "sources": [
-            "http://ipP-pro.berosat.live/hls/live/CENTRAL-VOICE/index.m3u8"
-          ],
-	  "number": "102",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQxXw",
-          "title": "CENTRAL VOICE"
-},
 
 {
      "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
@@ -125,17 +103,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDNfNDcyODEyODhf/Northwest.jpg",
           "title": "NORTH-WEST TV"
-},
-
-{
-      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
-          ],
-	  "number": "200",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2NDFf",
-          "title": "OCEAN TV"
 },
 
 {
@@ -714,6 +681,38 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
           "title": "SAFINA TV"
  },
+
+ {
+      "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/OCEAN-TV/index.m3u8"
+          ],
+	  "number": "200",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2NDFf",
+          "title": "OCEAN TV"
+},
+{
+     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....",
+          "sources": [
+            "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8"
+          ],
+	  "number": "93",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
+          "title": "EXPLOITS TV"
+},
+
+{
+     "description": "Central Voice Television is a broadcasting channel from Zambia",
+          "sources": [
+            "http://ipP-pro.berosat.live/hls/live/CENTRAL-VOICE/index.m3u8"
+          ],
+	  "number": "102",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQxXw",
+          "title": "CENTRAL VOICE"
+},
 
  {
      "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
