@@ -370,6 +370,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
  {
+     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
+          "title": "ESPEC TV"
+ },
+
+ {
      "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live/hls/ack-tv/ack-tv.m3u8"
@@ -979,16 +990,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
  },
  
 
- {
-     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
-          ],
-	  "number": "118",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
-          "title": "ESPEC TV"
- },
+
 {
      "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
 Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose.",
@@ -1076,16 +1078,6 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "thumb": "https://od.lk/s/NDZfOTMwMTkwNTdf/Empiretv.png",
           "title": "EMPIRE TV"
 },
- {
-     "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information.",
-          "sources": [
-            "https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"
-          ],
-	  "number": "48",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
-          "title": "RTE TV HD"
- },
 
 { "description": "Ben World Télévision est une chaîne chrétienne émettant à Kinshasa", "sources": [ "https://stream.berosat.live:19360/ben-world-index/ben-world-index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE4MDIwMjhf/bentvworld.jpg", "title": "BEN WORLD TV"},
  {
@@ -1170,18 +1162,6 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "thumb": "https://od.lk/s/NDZfOTIwNzQyMzFf/Zchannel.jpg",
           "title": "Z-CHANNEL TV"
  },
-
-{
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
-          "title": "FRYCOMS TV"
- 				}
-
 
  {
      "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
