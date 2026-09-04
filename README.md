@@ -238,7 +238,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 
-{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQyXw", "title": "CHAMPION TV" },
+{ "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://pro-iptv.berosat.live/hls/CHAMPION-TV.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQyXw", "title": "CHAMPION TV" },
 
 {
      "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
