@@ -14,7 +14,7 @@
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "http://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+            "https://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
           ],
 	  "number": "511",
           "subtitle": "All Channels",
@@ -25,7 +25,7 @@
 {
       "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
           "sources": [
-            "http://music-na-biso.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+            "https://music-na-biso.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
           ],
 	  "number": "170",
           "subtitle": "All Channels",
@@ -50,7 +50,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
           ],
 	  "number": "172",
           "subtitle": "All Channels",
@@ -61,7 +61,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
           ],
 	  "number": "144",
           "subtitle": "All Channels",
@@ -75,7 +75,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
           ],
 	  "number": "183",
           "subtitle": "All Channels",
@@ -86,7 +86,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "North-West Television is a broadcasting channel from Zambia",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
+            "https://Kip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
           ],
 	  "number": "179",
           "subtitle": "All Channels",
@@ -108,7 +108,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Cong...",
           "sources": [    
-		  "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
+		  "https://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
 		  ],
 	  "number": "142",
           "subtitle": "All Channels",
@@ -396,7 +396,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "RTE TV HD"
  },
 
-  { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live/hls/fmg-rtv/fmg-rtv.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
+  { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://pro-iptv.berosat.live/hls/FMG-TV.m3u8" ], "number": "109", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" },
 
 {
      "description": "MKV télévision est une Une chaîne de prospérité.",
