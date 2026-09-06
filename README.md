@@ -194,6 +194,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"},
 
 {
+     "description": "MCSE télévision est une chaine chretienne",
+          "sources": [
+            "https://stream.berosat.live/hls/mcsetv/mcsetv.m3u8"
+          ],
+	  "number": "202",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzU3MTUxNDBfOTRlcm0",
+          "title": "MECSE TV"
+},
+
+{
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
