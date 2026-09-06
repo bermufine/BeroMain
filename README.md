@@ -25,7 +25,7 @@
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "https://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
           ],
 	  "number": "511",
           "subtitle": "All Channels",
@@ -36,7 +36,7 @@
 {
       "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
           "sources": [
-            "https://music-na-biso.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
           ],
 	  "number": "170",
           "subtitle": "All Channels",
