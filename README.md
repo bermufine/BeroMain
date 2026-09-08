@@ -83,6 +83,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "NORTH-WEST TV"
 },
 
+ {
+     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
+          ],
+	  "number": "155",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
+          "title": "MOBA-VISION"
+},
+
 {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
@@ -131,17 +142,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
           "title": "WANGU TV"
-},
-
-{
-      "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
-          ],
-	  "number": "173",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODVf",
-          "title": "LUKALA TV"
 },
 
 {
@@ -384,7 +384,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "204",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
+          "thumb": "https://od.lk/thumb/M18zMzU5MjAzOTFfbWdHcXc",
           "title": "BALAFON TV"
 },
 
@@ -626,30 +626,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "LES Z'AMOURS"
  }, 
 
- {
-     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
-          "sources": [
-            "https://stream.berosat.live/hls/c-one/c-one.m3u8"
-          ],
-	  "number": "417",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQzXw",
-          "title": "C-ONE TV"
- },
-
- { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"}, 
-
- {
-     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
-          ],
-	  "number": "155",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
-          "title": "MOBA-VISION"
-},
-
 {
      "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
           "sources": [
@@ -660,18 +636,8 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
           "title": "NURU RTV"
 },
-{
-     "description": "Liberty Télévision, la chaîne d'expression.",
-          "sources": [
-            "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
-          ],
-	  "number": "188",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUzXw",
-          "title": "LIBERTY TV"
- },
 
-  {
+{
      "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
             "https://stream.berosat.live/hls/laborne-tv/laborne-tv.m3u8"
@@ -704,6 +670,58 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "SAFINA TV"
  },
 
+ {
+      "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
+          ],
+	  "number": "173",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODVf",
+          "title": "LUKALA TV"
+},
+
+{
+     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
+          ],
+	  "number": "183",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "title": "CITE DE DAVID"
+             }
+		  ]
+		}
+	]
+}
+
+
+
+
+
+{
+     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+          "sources": [
+            "https://stream.berosat.live/hls/c-one/c-one.m3u8"
+          ],
+	  "number": "417",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQzXw",
+          "title": "C-ONE TV"
+ },
+
+{
+     "description": "Liberty Télévision, la chaîne d'expression.",
+          "sources": [
+            "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8"
+          ],
+	  "number": "188",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUzXw",
+          "title": "LIBERTY TV"
+ },
+ 
  {
       "description": "Ocean TV est une chaîne généraliste émettant à Kinshasa en République démocratique du Congo",
           "sources": [
@@ -757,26 +775,8 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDNfNDcxMTUzMDVf/mkvtv.jpg",
           "title": "MKV TV"
 },
-{
-     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
-          "sources": [
-            "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
-          ],
-	  "number": "183",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "title": "CITE DE DAVID"
-             }
-		  ]
-		}
-	]
-}
 
-
-
-
-
-
+ { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"}, 
 
 {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
