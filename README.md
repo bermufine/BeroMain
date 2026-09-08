@@ -396,7 +396,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information.",
           "sources": [
-            "https://pro-iptv.berosat.live/hls/FMG-TV.m3u8"
+            "https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8"
           ],
 	  "number": "48",
           "subtitle": "All Channels",
