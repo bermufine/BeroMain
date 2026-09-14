@@ -106,6 +106,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "RTAE HD, la première chaine chrétienne en République Democratique du Congo sur TNT",
+          "sources": [
+            "https://stream.berosat.live/hls/rtae/rtae.m3u8"
+          ],
+	  "number": "205",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTc1NTk3MTVfY2tqMjA",
+          "title": "RTAE HD"
+},
+
+{
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
