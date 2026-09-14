@@ -321,14 +321,14 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
+     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
           "sources": [
-            "https://stream.berosat.live/hls/cntv-tv/cntv-tv.m3u8"
+            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
           ],
-	  "number": "123",
+	  "number": "131",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
-          "title": "CNL TV"
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
+          "title": "AFRI TV"
 },
 
  {
@@ -704,6 +704,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
 {
+     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/cntv-tv/cntv-tv.m3u8"
+          ],
+	  "number": "123",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
+          "title": "CNL TV"
+},
+
+{
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
@@ -799,17 +810,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
  { "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo", "sources": [ "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8" ], "number": "12", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODdf", "title": "FINESSE MONDE TV"}, 
-
-{
-     "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8"
-          ],
-	  "number": "131",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
-          "title": "AFRI TV"
-},
   {
      "description": "Intello Plus Afrik TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
