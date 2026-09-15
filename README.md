@@ -59,20 +59,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDM5Xw","title":"ANTENNE A"},
-
-{
-     "description": "North-West Television is a broadcasting channel from Zambia",
-          "sources": [
-            "https://Kip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
-          ],
-	  "number": "179",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDNfNDcyODEyODhf/Northwest.jpg",
-          "title": "NORTH-WEST TV"
-},
-
- {
      "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
@@ -103,17 +89,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
           "title": "KMK TV"
-},
-
-{
-     "description": "RTAE HD, la première chaine chrétienne en République Democratique du Congo sur TNT",
-          "sources": [
-            "https://stream.berosat.live/hls/rtae/rtae.m3u8"
-          ],
-	  "number": "205",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTc1NTk3MTVfY2tqMjA",
-          "title": "RTAE HD"
 },
 
 {
@@ -491,17 +466,6 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
 },
 
  { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://live-onetv.eu:5866/hls/Clive1.m3u8" ], "number": "105", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" }, 
-
-{
-     "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
-          "sources": [
-            "http://37.187.138.41:80/BISO/index.m3u8"
-          ],
-	  "number": "95",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg",
-          "title": "BISO TV"
- },
  
  { "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "sources": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "number": "91", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "title": "GOSPEL CHANNEL" },
 
@@ -560,17 +524,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
           "title": "EV TELE"
-},
-
-{
-     "description": "H3 tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-          "sources": [
-            "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
-          ],
-	      "number": "139",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
-          "title": "H3 TV"
 },
 
 {
@@ -659,17 +612,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "NURU RTV"
 },
 
-{
-     "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live/hls/laborne-tv/laborne-tv.m3u8"
-          ],
-	  "number": "371",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM4Xw",
-          "title": "LA BORNE TV"
-},
-
  {
       "description": "M6 TV est une chaîne généraliste Francaise",
           "sources": [
@@ -691,17 +633,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
           "title": "SAFINA TV"
  },
-
- {
-      "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
-          ],
-	  "number": "173",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODVf",
-          "title": "LUKALA TV"
-},
 
 {
      "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
@@ -733,6 +664,64 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
+
+
+
+
+{
+     "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
+          "sources": [
+            "http://37.187.138.41:80/BISO/index.m3u8"
+          ],
+	  "number": "95",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg",
+          "title": "BISO TV"
+ },
+  {
+      "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8"
+          ],
+	  "number": "173",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODVf",
+          "title": "LUKALA TV"
+},
+{
+     "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/laborne-tv/laborne-tv.m3u8"
+          ],
+	  "number": "371",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM4Xw",
+          "title": "LA BORNE TV"
+},
+ {
+     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDM5Xw","title":"ANTENNE A"},
+
+{
+     "description": "North-West Television is a broadcasting channel from Zambia",
+          "sources": [
+            "https://Kip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
+          ],
+	  "number": "179",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDNfNDcyODEyODhf/Northwest.jpg",
+          "title": "NORTH-WEST TV"
+},
+
+{
+     "description": "RTAE HD, la première chaine chrétienne en République Democratique du Congo sur TNT",
+          "sources": [
+            "https://stream.berosat.live/hls/rtae/rtae.m3u8"
+          ],
+	  "number": "205",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTc1NTk3MTVfY2tqMjA",
+          "title": "RTAE HD"
+},
 {
      "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
           "sources": [
@@ -1032,7 +1021,16 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "title": "ELOKO STAR"
  },
  
-
+{
+     "description": "H3 tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "sources": [
+            "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
+          ],
+	      "number": "139",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
+          "title": "H3 TV"
+},
 
 {
      "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message.
