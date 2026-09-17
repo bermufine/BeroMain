@@ -272,6 +272,16 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ0Xw", "title": "DER-TV" },
 
+{
+     "description": "C6 TV est une chaîne généraliste qui émet depuis Kinshasa, en République démocratique du Cong...",
+          "sources": [    
+		  "https://stream.berosat.live/hls/c6tv/c6tv.m3u8"
+		  ],
+	  "number": "206",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ3NTI1OTg4X3Ztczk1",
+          "title": "C6-TV"
+},
 
 {
      "description": "VOX KONGO TV est une Television d’information générale qui  émet à partir deLubumbashi, Province du Haut-Katanga, en République démocratique du Congo.",
