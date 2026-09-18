@@ -316,6 +316,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "AFRI TV"
 },
 
+{
+     "description": "Identite Chretienne TV est une chaîne généraliste nous émettons depuis Kinshasa, en République démocratique du Cong...",
+          "sources": [    
+		  "https://stream.berosat.live/hls/ictv/ictv.m3u8"
+		  ],
+	  "number": "207",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ3NTM2MDU4X3lZYlBo",
+          "title": "IC-TV"
+},
+
  {
       "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
           "sources": [
