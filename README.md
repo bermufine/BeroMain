@@ -273,17 +273,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ0Xw", "title": "DER-TV" },
 
 {
-     "description": "C6 TV est une chaîne généraliste qui émet depuis Kinshasa, en République démocratique du Cong...",
-          "sources": [    
-		  "https://stream.berosat.live/hls/c6tv/c6tv.m3u8"
-		  ],
-	  "number": "206",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTQ3NTI1OTg4X3Ztczk1",
-          "title": "C6-TV"
-},
-
-{
      "description": "VOX KONGO TV est une Television d’information générale qui  émet à partir deLubumbashi, Province du Haut-Katanga, en République démocratique du Congo.",
           "sources": [
             "https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8"
@@ -570,8 +559,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
   { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "https://kali.vdopanel.com:3443/live/striemielive.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
- { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC SD" },	
-
  {
      "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
@@ -623,39 +610,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  }, 
 
 {
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
-          "title": "NURU RTV"
-},
-
- {
-      "description": "M6 TV est une chaîne généraliste Francaise",
-          "sources": [
-            "https://cdn.haititivi.net/M6-HD/index.m3u8"
-          ],
-	  "number": "200",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMyNjYyMzJf/m6tv.jpeg",
-          "title": "M6 TV"
-},
-
-{
-     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
-          ],
-	  "number": "170",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
-          "title": "SAFINA TV"
- },
-
-{
      "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live/hls/cntv-tv/cntv-tv.m3u8"
@@ -688,7 +642,50 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
+ {
+      "description": "M6 TV est une chaîne généraliste Francaise",
+          "sources": [
+            "https://cdn.haititivi.net/M6-HD/index.m3u8"
+          ],
+	  "number": "200",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTMyNjYyMzJf/m6tv.jpeg",
+          "title": "M6 TV"
+},
 
+{
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
+          ],
+	  "number": "94",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
+          "title": "NURU RTV"
+},
+
+{
+     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
+          "title": "SAFINA TV"
+ },
+  { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC SD" },	
+
+ {
+     "description": "C6 TV est une chaîne généraliste qui émet depuis Kinshasa, en République démocratique du Cong...",
+          "sources": [    
+		  "https://stream.berosat.live/hls/c6tv/c6tv.m3u8"
+		  ],
+	  "number": "206",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ3NTI1OTg4X3Ztczk1",
+          "title": "C6-TV"
+},
 {
      "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
           "sources": [
