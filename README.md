@@ -202,17 +202,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"},
 
 {
-     "description": "MCSE télévision est une chaine chretienne",
-          "sources": [
-            "https://stream.berosat.live/hls/mcsetv/mcsetv.m3u8"
-          ],
-	  "number": "202",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzU3MTUxNDBfOTRlcm0",
-          "title": "MECSE TV"
-},
-
-{
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
@@ -328,17 +317,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },  
 
   { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODlf", "title": "RL PRO TV" },
-
-{
-     "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
-          "sources": [
-            "https://stream.berosat.live/hls/ccpv-tv/ccpv-tv.m3u8"
-          ],
-	  "number": "111",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
-          "title": "CCPV TV"
- },
 
  {
      "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
@@ -514,17 +492,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "BM TV"
 },
 
-  {
-      "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "http://37.187.138.41:80/Sentinelle/index.m3u8"
-          ],
-	  	  "number": "98",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
-          "title": "SENTINELLE TV"
-	},
-
  {
           "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
           "sources": [
@@ -557,7 +524,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "HEROS TV 2"
  },
 
-  { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "https://kali.vdopanel.com:3443/live/striemielive.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
+  { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "https://tnt-television.com/RTNC_ZAP/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
  {
      "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
@@ -610,17 +577,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  }, 
 
 {
-     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/cntv-tv/cntv-tv.m3u8"
-          ],
-	  "number": "123",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
-          "title": "CNL TV"
-},
-
-{
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
@@ -651,6 +607,51 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTMyNjYyMzJf/m6tv.jpeg",
           "title": "M6 TV"
+},
+
+ {
+      "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "http://37.187.138.41:80/Sentinelle/index.m3u8"
+          ],
+	  	  "number": "98",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
+          "title": "SENTINELLE TV"
+	},
+
+{
+     "description": "MCSE télévision est une chaine chretienne",
+          "sources": [
+            "https://stream.berosat.live/hls/mcsetv/mcsetv.m3u8"
+          ],
+	  "number": "202",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzU3MTUxNDBfOTRlcm0",
+          "title": "MECSE TV"
+},
+
+{
+     "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
+          "sources": [
+            "https://stream.berosat.live/hls/ccpv-tv/ccpv-tv.m3u8"
+          ],
+	  "number": "111",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
+          "title": "CCPV TV"
+ },
+
+ 
+{
+     "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/cntv-tv/cntv-tv.m3u8"
+          ],
+	  "number": "123",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
+          "title": "CNL TV"
 },
 
 {
