@@ -301,7 +301,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 		  ],
 	  "number": "207",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTQ3NTM2MDU4X3lZYlBo",
+          "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
           "title": "IC-TV"
 },
 
