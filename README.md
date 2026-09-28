@@ -92,7 +92,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "SMK Kongo est une chaîne de télévision généraliste basée sur l'économie, emettant en République démocratique du Congo",
+     "description": "SMK Kongo est une chaîne de télévision basée sur l'économie, emettant en République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/smk-kongo/smk-kongo.m3u8"
           ],
