@@ -92,17 +92,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "SMK Kongo est une chaîne de télévision basée sur l'économie, emettant en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/smk-kongo/smk-kongo.m3u8"
-          ],
-	  "number": "208",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTQ3NzcwOTU4X0s2Vzgy",
-          "title": "SMK KONGO"
-},
-
-{
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
