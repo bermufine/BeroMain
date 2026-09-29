@@ -56,12 +56,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDZfOTU1MDk4MzRf",
           "title": "INFO+ HD"
-            }
-		  ]
-		}
-	]
-}
-
+},
 
 {
      "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
@@ -72,7 +67,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
           "title": "MOBA-VISION"
-			},
+},
 
 {
      "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
@@ -105,7 +100,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjRf",
           "title": "LOLLYWOOD HD TV"
-}, 
+			}
+		  ]
+		}
+	]
+}
 
  {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo,
