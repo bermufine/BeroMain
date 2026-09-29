@@ -100,6 +100,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjRf",
           "title": "LOLLYWOOD HD TV"
+},
+
+{
+     "description": "SMK Kongo est une chaîne de télévision basée sur l'économie, emettant en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/smk-kongo/smk-kongo.m3u8"
+          ],
+	  "number": "208",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ3NzcwOTU4X0s2Vzgy",
+          "title": "SMK KONGO"
 			}
  		  ]
 		}
@@ -191,17 +202,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
-
-{
-     "description": "SMK Kongo est une chaîne de télévision basée sur l'économie, emettant en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/smk-kongo/smk-kongo.m3u8"
-          ],
-	  "number": "208",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTQ3NzcwOTU4X0s2Vzgy",
-          "title": "SMK KONGO"
-},
 
 {
      "description": "Lapana tv, est une chaîne généraliste  et nous émettons depuis la ville de Kinshasa en République démocratique du Congo .  Nous sommes un média centré sur les actualités politiques et culturelles.  Nous organisons des reportages dans le seul but d informer, divertir et former la masse. Vos suggestions et remarques au  numéro +243893616911.",
