@@ -100,7 +100,12 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjRf",
           "title": "LOLLYWOOD HD TV"
-},
+			}
+ 		  ]
+		}
+	]
+}
+
 
 {
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo,
@@ -111,10 +116,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjZf",
           "title": "MS TV"
-			}
- 		  ]
-		}
-	]
 }
 
 { "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" },
