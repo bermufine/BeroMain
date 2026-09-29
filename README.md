@@ -597,7 +597,11 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
           "title": "BERO NOVELAS"
-            }
+			}
+        ] 
+     }
+  ]
+}
 
 
 
