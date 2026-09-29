@@ -56,7 +56,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDZfOTU1MDk4MzRf",
           "title": "INFO+ HD"
-},
+}
 
 {
      "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
@@ -67,7 +67,12 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
           "title": "MOBA-VISION"
-},
+			}
+		  ]
+		}
+	]
+}
+
 
 {
      "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
@@ -186,6 +191,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  },
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
+
+{
+     "description": "SMK Kongo est une chaîne de télévision basée sur l'économie, emettant en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/smk-kongo/smk-kongo.m3u8"
+          ],
+	  "number": "208",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ3NzcwOTU4X0s2Vzgy",
+          "title": "SMK KONGO"
+},
 
 {
      "description": "Lapana tv, est une chaîne généraliste  et nous émettons depuis la ville de Kinshasa en République démocratique du Congo .  Nous sommes un média centré sur les actualités politiques et culturelles.  Nous organisons des reportages dans le seul but d informer, divertir et former la masse. Vos suggestions et remarques au  numéro +243893616911.",
@@ -529,7 +545,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  {
      "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
           "sources": [
-            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
+            "https://tnt-television.com/TELE50_ZAP/index.m3u8"
           ],
           "subtitle": "All Channels",
 		  "number": "794",
@@ -586,10 +602,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
           "title": "BERO NOVELAS"
             }
-		  ]
-		}
-	]
-}
 
 
 
