@@ -9,7 +9,12 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
           "title": "BERO NOVELAS"
-},
+			}
+		  ]
+		}
+	]
+}
+
 
 {
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
@@ -67,12 +72,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
           "title": "MOBA-VISION"
-			}
-		  ]
-		}
-	]
-}
-
+			},
 
 {
      "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
