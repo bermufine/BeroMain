@@ -195,7 +195,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjFf",
           "title": "ELAN TV"
- },
+},
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
@@ -208,6 +208,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDNfNDcyODEzMjNf/Lapana.jpg",
           "title": "LAPANA TV"
+},
+
+{
+     "description": "CPT TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "sources": [
+            "https://stream.berosat.live/hls/cpt-tv/cpt-tv.m3u8"
+          ],
+	  "number": "210",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzcyNTU3MTJfQzF3OUc",
+          "title": CPT TV"
 },
 
  {
