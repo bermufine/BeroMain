@@ -211,14 +211,14 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "CPT TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+     "description": "CPT TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live/hls/cpt-tv/cpt-tv.m3u8"
           ],
 	  "number": "210",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzcyNTU3MTJfQzF3OUc",
-          "title": CPT TV"
+          "title": "CPT TV"
 },
 
  {
