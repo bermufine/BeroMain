@@ -187,7 +187,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "HK6 TV est une Television d’information générale qui  émet à partir de Lubumbashi, Province du Haut-Katanga, en République démocratique du Congo",
+     "description": "HK6 TV & Radio est une chaîne généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. Elle propose une programmation diversifiée destinée à informer, divertir, éduquer et accompagner son public au quotidien. À travers ses contenus télévisuels et radiophoniques, HK6 TV & Radio couvre notamment l’actualité, la politique, la société, la culture, le sport, la musique, l’économie et les faits de société. Ancrée dans la réalité locale tout en restant ouverte sur l’actualité nationale et internationale, la chaîne s’attache à offrir une information de proximité, des émissions de qualité et des programmes répondant aux attentes de son audience. HK6 TV, la chaîne au-delà de l'imagination!",
           "sources": [
             "https://ip-pro.berosat.live/hls/live/HK6-TV/index.m3u8"
           ],
@@ -230,6 +230,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzcyNTU3MTJfQzF3OUc",
           "title": "CPT TV"
+},
+
+{
+     "description": "ORTOLAN TV est une chaîne de télévision généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. À travers une programmation riche et diversifiée, ORTOLAN TV propose à son public des contenus consacrés à l’information, la culture, la société, la politique, le sport, la musique, le divertissement et les grandes questions de l’actualité. Attachée à la valorisation des talents, des initiatives et des réalités de la société congolaise, la chaîne ambitionne de proposer une télévision moderne, dynamique et proche de son audience. ORTOLAN TV se veut également une vitrine des réussites, des potentialités et des initiatives qui contribuent au développement de la communauté. ORTOLAN TV — Le reflet de la grandeur.",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/ORTOLAN-TV/index.m3u8"
+          ],
+	  "number": "212",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyNDIyX1hQS1N0",
+          "title": "ORTOLAN TV"
 },
 
  {
