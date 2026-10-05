@@ -187,6 +187,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "HK6 TV est une Television d’information générale qui  émet à partir de Lubumbashi, Province du Haut-Katanga, en République démocratique du Congo",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/HK6-TV/index.m3u8"
+          ],
+	  "number": "211",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyMzcyX2NrdWNF",
+          "title": "HK6 TV"
+},
+
+{
      "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
           "sources": [
             "https://stream.berosat.live/hls/elan-tv/elan-tv.m3u8"
