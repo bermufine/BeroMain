@@ -143,17 +143,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
-          "sources": [
-            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
-          ],
-	  "number": "157",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
-          "title": "WANGU TV"
-},
-
-{
      "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/OUAVILAS-TV/index.m3u8"
@@ -173,17 +162,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDZfOTc0NDc5MTRfb1VOYVo",
           "title": "RTP"
-},
-
-{
-     "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations.  Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé.  À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé.",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/ONMCI-TV/index.m3u8"
-          ],
-	  "number": "199",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzQ3MjgxOTVfY1JZTkU",
-          "title": "ONMCI TV"
 },
 
 {
@@ -242,9 +220,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyNDIyX1hQS1N0",
           "title": "ORTOLAN TV"
 },
-
- {
-   "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"},
 
 {
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
@@ -350,18 +325,19 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "IC-TV"
 },
 
- {
-      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
+{
+     "description": "Bienvenue sur Vasa Vasorum Club, votre chaîne dédiée à la santé et à la sensibilisation médicale. Notre mission est de rendre les connaissances médicales simples, claires et accessibles à tous. Nous abordons différents sujets de santé, notamment la prévention des maladies, les symptômes, les traitements et les bonnes pratiques, afin de vous aider à mieux comprendre votre santé et à adopter les bons réflexes. Inspiré par les vasa vasorum, ces petits vaisseaux essentiels qui nourrissent les parois des grandes artères, notre objectif est de nourrir vos connaissances médicales grâce à des contenus clairs, précis et fondés sur les données scientifiques actuelles. Restez connecetz dès maintenant à Vasa Vasorum Club et prenez votre santé en main !",
           "sources": [
-            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
+            "https://stream.berosat.live/hls/vasa-vasorum/vasa-vasorum.m3u8"
           ],
-	  "number": "166",
+	  "number": "213",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
-          "title": "AMANI TV"
- },  
+          "thumb": "https://od.lk/thumb/M18zMzc3NTk4NTJfb0NRd2c",
+          "title": "VASA VASORUM"
+},
 
-  { "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODlf", "title": "RL PRO TV" },
+{ 
+   "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM", "sources": [ "https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8" ], "number": "61", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODlf", "title": "RL PRO TV" },
 
  {
      "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
@@ -406,17 +382,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
           "title": "ESPEC TV"
  },
-
- {
-     "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/ack-tv/ack-tv.m3u8"
-          ],
-	  "number": "129",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM3Xw",
-          "title": "ACK TV"
-},
 
 {
      "description": "Balafon TV est une chaîne de télévision camerounaise qui propose une programmation riche, dynamique et proche des réalités du public. Elle met en avant l’actualité, la culture, le divertissement, la musique, les débats et les grands événements qui rythment la vie du Cameroun. À travers ses émissions et ses productions, Balafon TV donne la parole aux acteurs de la société, aux artistes, aux personnalités publiques et aux différents talents camerounais. La chaîne s’inscrit dans une vision moderne de la télévision, en développant des contenus accessibles, interactifs et adaptés aux nouvelles habitudes de consommation audiovisuelle. Balafon TV, c’est une télévision camerounaise proche de son public, qui informe, divertit, valorise la culture et met en lumière les talents et les réalités du Cameroun.",
@@ -620,6 +585,50 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
  }, 
+
+  {
+   "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"},
+   {
+     "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations.  Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé.  À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/ONMCI-TV/index.m3u8"
+          ],
+	  "number": "199",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzQ3MjgxOTVfY1JZTkU",
+          "title": "ONMCI TV"
+},
+{
+     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
+          "sources": [
+            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
+          ],
+	  "number": "157",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
+          "title": "WANGU TV"
+},
+
+ {
+     "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/ack-tv/ack-tv.m3u8"
+          ],
+	  "number": "129",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM3Xw",
+          "title": "ACK TV"
+},
+{
+      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
+          ],
+	  "number": "166",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
+          "title": "AMANI TV"
+ },  
 
 {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
