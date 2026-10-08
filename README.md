@@ -1,17 +1,6 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
-     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
-          ],
-	  "number": "09",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
-          "title": "BERO NOVELAS"
-},
-
-{
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "https://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
@@ -143,15 +132,15 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
+     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/OUAVILAS-TV/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
           ],
-	  "number": "169",
+	  "number": "09",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0Mjdf",
-          "title": "OUAVILA'S TV"
-}, 
+          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
+          "title": "BERO NOVELAS"
+},
 
 {
      "description": "Radio Télé Puissance est la première chaine chrétienne en République Democratique du Congo",
@@ -230,17 +219,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
           "title": "FILAMU TV"
-},
-
-{
-     "description": "Fondation Tshimanga Télévision est une chaine communautaire qui émet à partir de KINSHASA en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/tshimanga-tv/tshimanga-tv.m3u8"
-          ],
-	  "number": "196",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzUyOTE0NDJfd0Y1clM",
-          "title": "TSHIMANGA TV"
 },
 
 {
@@ -586,7 +564,28 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "LES Z'AMOURS"
  }, 
 
-  {
+ {
+     "description": "Fondation Tshimanga Télévision est une chaine communautaire qui émet à partir de KINSHASA en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/tshimanga-tv/tshimanga-tv.m3u8"
+          ],
+	  "number": "196",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzUyOTE0NDJfd0Y1clM",
+          "title": "TSHIMANGA TV"
+},
+{
+     "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/OUAVILAS-TV/index.m3u8"
+          ],
+	  "number": "169",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0Mjdf",
+          "title": "OUAVILA'S TV"
+}, 
+
+{
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"},
    {
      "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations.  Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé.  À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé.",
@@ -631,15 +630,15 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
  },  
 
 {
-     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
           ],
-	  "number": "09",
+	  "number": "511",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
-          "title": "BERO NOVELAS"
-			}
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
+          "title": "FRYCOMS TV"
+          }
         ] 
      }
   ]
