@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
+          ],
+	  "number": "183",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "title": "CITE DE DAVID"
+},
+
+{
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "https://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
@@ -59,17 +70,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
-          "sources": [
-            "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
-          ],
-	  "number": "183",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "title": "CITE DE DAVID"
-},
-
-{
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
             "https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8"
@@ -103,6 +103,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 { "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" },
+
+{
+     "description": "HK6 TV & Radio est une chaîne généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. Elle propose une programmation diversifiée destinée à informer, divertir, éduquer et accompagner son public au quotidien. À travers ses contenus télévisuels et radiophoniques, HK6 TV & Radio couvre notamment l’actualité, la politique, la société, la culture, le sport, la musique, l’économie et les faits de société. Ancrée dans la réalité locale tout en restant ouverte sur l’actualité nationale et internationale, la chaîne s’attache à offrir une information de proximité, des émissions de qualité et des programmes répondant aux attentes de son audience. HK6 TV, la chaîne au-delà de l'imagination!",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/HK6-TV/index.m3u8"
+          ],
+	  "number": "211",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyMzcyX2NrdWNF",
+          "title": "HK6 TV"
+},
 
 {
      "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
@@ -154,17 +165,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "HK6 TV & Radio est une chaîne généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. Elle propose une programmation diversifiée destinée à informer, divertir, éduquer et accompagner son public au quotidien. À travers ses contenus télévisuels et radiophoniques, HK6 TV & Radio couvre notamment l’actualité, la politique, la société, la culture, le sport, la musique, l’économie et les faits de société. Ancrée dans la réalité locale tout en restant ouverte sur l’actualité nationale et internationale, la chaîne s’attache à offrir une information de proximité, des émissions de qualité et des programmes répondant aux attentes de son audience. HK6 TV, la chaîne au-delà de l'imagination!",
-          "sources": [
-            "https://ip-pro.berosat.live/hls/live/HK6-TV/index.m3u8"
-          ],
-	  "number": "211",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyMzcyX2NrdWNF",
-          "title": "HK6 TV"
-},
-
-{
      "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
           "sources": [
             "https://stream.berosat.live/hls/elan-tv/elan-tv.m3u8"
@@ -211,6 +211,28 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "Identite Chretienne TV est une chaîne généraliste nous émettons depuis Kinshasa, en République démocratique du Cong...",
+          "sources": [    
+		  "https://stream.berosat.live/hls/ictv/ictv.m3u8"
+		  ],
+	  "number": "207",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
+          "title": "IC-TV"
+},
+
+{
+      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
+          ],
+	  "number": "166",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
+          "title": "AMANI TV"
+ }, 
+
+{
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
@@ -232,19 +254,19 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "FM TV"
 },
 
+{
+     "description": "Lupundu Radio télévision est une chaine culturelle émettant depuis Kolwezi au Lualaba en République démocratique du Congo",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/LRTV/index.m3u8"
+          ],
+	  "number": "213",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTg5MDcyMTlfRFFSdmk",
+          "title": "LRTV"
+},
+
 
 { "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQyXw", "title": "CHAMPION TV" },
-
-{
-     "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
-          ],
-	  "number": "175",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDNfNDcyMjI0OTBf/lavoixreveil.jpg",
-          "title": "LA VOIX DU RÉVEIL"
-},
 
 {
      "description": "Nguya Aigle est une chaine de Television généralaliste qui  émet à partir de Kinshasa, en République démocratique du Congo.",
@@ -290,17 +312,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
           "title": "AFRI TV"
-},
-
-{
-     "description": "Identite Chretienne TV est une chaîne généraliste nous émettons depuis Kinshasa, en République démocratique du Cong...",
-          "sources": [    
-		  "https://stream.berosat.live/hls/ictv/ictv.m3u8"
-		  ],
-	  "number": "207",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
-          "title": "IC-TV"
 },
 
 {
@@ -501,16 +512,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
           "title": "HEROS TV"
  },
- {
-     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_c83208c05dda11eeaecf77f984d6072c/rewind-3600.m3u8"
-          ],
-	  "number": "507",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
-          "title": "HEROS TV 2"
- },
 
   { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "https://tnt-television.com/RTNC_ZAP/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
@@ -586,6 +587,38 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 }, 
 
 {
+     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
+          "sources": [
+            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
+          ],
+	  "number": "157",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
+          "title": "WANGU TV"
+}, 
+
+{
+     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
+          ],
+	  "number": "183",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "title": "CITE DE DAVID"
+		  }
+        ] 
+     }
+  ]
+}
+
+
+
+
+
+
+
+{
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"},
    {
      "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations.  Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé.  À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé.",
@@ -598,16 +631,15 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "ONMCI TV"
 },
 {
-     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
+     "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
+            "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
           ],
-	  "number": "157",
+	  "number": "175",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
-          "title": "WANGU TV"
+          "thumb": "https://od.lk/s/NDNfNDcyMjI0OTBf/lavoixreveil.jpg",
+          "title": "LA VOIX DU RÉVEIL"
 },
-
  {
      "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
           "sources": [
@@ -618,39 +650,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM3Xw",
           "title": "ACK TV"
 },
-{
-      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
+ {
+     "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
-            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_c83208c05dda11eeaecf77f984d6072c/rewind-3600.m3u8"
           ],
-	  "number": "166",
+	  "number": "507",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
-          "title": "AMANI TV"
- },  
-
-{
-     "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-          "sources": [
-            "https://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
-          ],
-	  "number": "511",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
-          "title": "FRYCOMS TV"
-          }
-        ] 
-     }
-  ]
-}
-
-
-
-
-
-
-
-
+          "thumb": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "title": "HEROS TV 2"
+ },
  {
       "description": "M6 TV est une chaîne généraliste Francaise",
           "sources": [
