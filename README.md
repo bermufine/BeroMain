@@ -12,6 +12,17 @@
 },
 
 {
+     "description": "Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/ANTENNE-A/index.m3u8"
+          ],
+	  "number": "55",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM5Xw",
+          "title": "ANTENNE A"
+},
+
+{
      "description": "FryComs TV est une Television d’information générale qui  émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
             "https://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8"
@@ -22,18 +33,8 @@
           "title": "FRYCOMS TV"
 },
 
-{
-      "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
-          "sources": [
-            "https://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
-          ],
-	  "number": "170",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODhf",
-          "title": "MUSIC NA BISO"
-},
-
-{ "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
+{ 
+	"description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" },
 
 {
@@ -67,6 +68,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
           "title": "MOBA-VISION"
+},
+
+{
+      "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODhf",
+          "title": "MUSIC NA BISO"
 },
 
 {
@@ -126,9 +138,23 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "ESAIE 45 TELE"
  },
 
-  { "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"},
+{ 
+  		"description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"
+},
 
-{ "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjNf", "title": "NTI TV"
+{
+     "description": "Radio Télé Puissance est la première chaine chrétienne en République Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/rtp-hd/rtp-hd.m3u8"
+          ],
+	  "number": "205",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTc0NDc5MTRfb1VOYVo",
+          "title": "RTP"
+},
+
+{ 
+	        "description": "NTI TV est une chaîne privée émettant à Brazzaville", "sources": [ "https://stream.berosat.live/hls/nti-index/nti-index.m3u8" ], "number": "470", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjNf", "title": "NTI TV"
 },
 
 {
@@ -143,6 +169,28 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
+          ],
+	  "number": "94",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
+          "title": "NURU RTV"
+},
+
+{
+     "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
+          ],
+	  "number": "175",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDNfNDcyMjI0OTBf/lavoixreveil.jpg",
+          "title": "LA VOIX DU RÉVEIL"
+},
+
+{
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
@@ -151,17 +199,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
           "title": "BERO NOVELAS"
-},
-
-{
-     "description": "Radio Télé Puissance est la première chaine chrétienne en République Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/rtp-hd/rtp-hd.m3u8"
-          ],
-	  "number": "205",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTc0NDc5MTRfb1VOYVo",
-          "title": "RTP"
 },
 
 {
@@ -630,16 +667,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/M18zMzQ3MjgxOTVfY1JZTkU",
           "title": "ONMCI TV"
 },
-{
-     "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/voix-reveil/voix-reveil.m3u8"
-          ],
-	  "number": "175",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDNfNDcyMjI0OTBf/lavoixreveil.jpg",
-          "title": "LA VOIX DU RÉVEIL"
-},
+
  {
      "description": "La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo.",
           "sources": [
@@ -716,16 +744,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "CNL TV"
 },
 
-{
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
-          "title": "NURU RTV"
-},
 
 {
      "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
@@ -779,19 +797,8 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM4Xw",
           "title": "LA BORNE TV"
 },
- {
-     "description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8"], "number": "55", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDM5Xw","title":"ANTENNE A"},
 
-{
-     "description": "North-West Television is a broadcasting channel from Zambia",
-          "sources": [
-            "https://Kip-pro.berosat.live/hls/live/NORTH-WEST/index.m3u8"
-          ],
-	  "number": "179",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDNfNDcyODEyODhf/Northwest.jpg",
-          "title": "NORTH-WEST TV"
-},
+
 
 {
      "description": "RTAE HD, la première chaine chrétienne en République Democratique du Congo sur TNT",
