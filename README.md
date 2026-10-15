@@ -191,6 +191,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "BSM TV (BSM Télévision) est ume chaîne chrétienne émettant depuis Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/bsm-hd/bsm-hd.m3u8"
+          ],
+	  "number": "216",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MTc3MjY5X3hBb0kw",
+          "title": "BSM HD"
+},
+
+{
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
