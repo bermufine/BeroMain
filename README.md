@@ -114,7 +114,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "SMK KONGO"
 },
 
-{ "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" },
+{ "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "http://ip-pro.berosat.live/hls/live/BALADE-TV/index.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" },
 
 {
      "description": "HK6 TV & Radio est une chaîne généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. Elle propose une programmation diversifiée destinée à informer, divertir, éduquer et accompagner son public au quotidien. À travers ses contenus télévisuels et radiophoniques, HK6 TV & Radio couvre notamment l’actualité, la politique, la société, la culture, le sport, la musique, l’économie et les faits de société. Ancrée dans la réalité locale tout en restant ouverte sur l’actualité nationale et internationale, la chaîne s’attache à offrir une information de proximité, des émissions de qualité et des programmes répondant aux attentes de son audience. HK6 TV, la chaîne au-delà de l'imagination!",
