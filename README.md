@@ -191,7 +191,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "BSM TV (BSM Télévision) est ume chaîne chrétienne émettant depuis Kinshasa en République Démocratique du Congo",
+     "description": "BSM TV (La Bonne Semence dans le Monde Télévision) est ume chaîne chrétienne émettant depuis Kinshasa en République Démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/bsm-hd/bsm-hd.m3u8"
           ],
