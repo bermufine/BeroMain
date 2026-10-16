@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/ESAIE45-TV/index.m3u8"
+          ],
+	  "number": "59",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
+          "title": "ESAIE 45 TELE"
+ },
+ 
+{
      "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
           "sources": [
             "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
@@ -117,7 +128,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Saint Martin est une chaîne de télévision privée basée en Cote d'Ivoire",
           "sources": [
-            "https://ip-pro.berosat.live/hls/live/SM-TV/index.m3u8"
+            "https://stream.berosat.live/hls/sm-tv/sm-tv.m3u8"
           ],
 	  "number": "217",
           "subtitle": "All Channels",
@@ -139,17 +150,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyMzcyX2NrdWNF",
           "title": "HK6 TV"
 },
-
-{
-     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/ESAIE45-TV/index.m3u8"
-          ],
-	  "number": "59",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
-          "title": "ESAIE 45 TELE"
- },
 
 { 
   		"description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"
@@ -659,15 +659,15 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 }, 
 
 {
-     "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
+     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
           "sources": [
-            "https://ip-pro.berosat.live/hls/live/CITE-DAVID/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/ESAIE45-TV/index.m3u8"
           ],
-	  "number": "183",
+	  "number": "59",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "title": "CITE DE DAVID"
-		  }
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
+          "title": "ESAIE 45 TELE"
+ 			}
         ] 
      }
   ]
