@@ -379,7 +379,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {
      "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/GRAND-MEDIA/index.m3u8"
+            "https://stream.berosat.live/hls/grand-media/grand-media.m3u8"
           ],
 	  "number": "158",
           "subtitle": "All Channels",
