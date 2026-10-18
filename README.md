@@ -217,7 +217,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "https://tv.berosat.live:8888/SERIE-TV/index.m3u8"
+            "https://tv.berosat.live:8888/MOVIES/index.m3u8"
           ],
 	  "number": "09",
           "subtitle": "All Channels",
