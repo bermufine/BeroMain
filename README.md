@@ -217,7 +217,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
+            "https://tv.berosat.live:8888/SERIE-TV/index.m3u8"
           ],
 	  "number": "09",
           "subtitle": "All Channels",
@@ -403,7 +403,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
-     "http://ip-pro.berosat.live/hls/live/NOVELAS/index.m3u8"
+     "https://tv.berosat.live:8888/NOVELAS/index.m3u8"
           ],
 	 "number": "421",
      "subtitle": "All Channel",
