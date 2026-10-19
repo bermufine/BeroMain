@@ -403,7 +403,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
     "sources": [
-     "https://tv.berosat.live:8888/NOVELAS/index.m3u8"
+     "http://194.163.158.118:8889/NOVELAS"
           ],
 	 "number": "421",
      "subtitle": "All Channel",
