@@ -293,6 +293,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "AMANI TV"
  }, 
 
+ {
+      "description": "RT Afrika Telema TV est une chaîne de télévision généraliste émettant depuis République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/afrika-index/afrika-index.m3u8"
+          ],
+	  "number": "146",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY1MTgwX2w2SXRX",
+          "title": "RT AFRIKA TELEMA"
+ },
+
 {
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
@@ -974,22 +985,13 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "sources": [
             "https://stream.berosat.live/hls/yabiso-tv/yabiso-tv.m3u8"
           ],
-	  "number": "146",
+	  "number": "100000",
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDYwXw",
           "title": "YA BISO TV"
 },
 
-{
-      "description": "RT Afrika Telema TV est une chaîne généraliste",
-          "sources": [
-            "https://stream.berosat.live/hls/afrika-index/afrika-index.m3u8"
-          ],
-	  "number": "657",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
-          "title": "RT AFRIKA TELEMA"
- },
+
 {
      "description": "L'Association Unis en Action est une organisation a but lucratif, creee pour repondre aux besoins fondamentaux des populations vulnerables du monde. Notre objectif est de promouvoir l'education, la sante, la nformation et le developpement economique pour ameliorer la qualite de vie de nos beneficiaires générale qui  émet à partir de Kinshasa, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "sources": [
