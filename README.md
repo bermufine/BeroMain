@@ -74,6 +74,8 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "INFO+ HD"
 },
 
+{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
+
 {
      "description": "Saint Martin est une chaîne de télévision privée basée en Cote d'Ivoire",
           "sources": [
@@ -236,19 +238,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "ELAN TV"
 },
 
-{ "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
-
-{
-     "description": "Lapana tv, est une chaîne généraliste  et nous émettons depuis la ville de Kinshasa en République démocratique du Congo .  Nous sommes un média centré sur les actualités politiques et culturelles.  Nous organisons des reportages dans le seul but d informer, divertir et former la masse. Vos suggestions et remarques au  numéro +243893616911.",
-          "sources": [
-            "https://stream.berosat.live/hls/lapana-tv/lapana-tv.m3u8"
-          ],
-	  "number": "192",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDNfNDcyODEzMjNf/Lapana.jpg",
-          "title": "LAPANA TV"
-},
-
 {
      "description": "CPT TV (Christ Puissance pour notre Transformation Télévision) 1 Corinthiens 2:4-5. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
@@ -396,17 +385,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
           "title": "AFRI TV"
-},
-
-{
-     "description": "Bienvenue sur Vasa Vasorum Club, votre chaîne dédiée à la santé et à la sensibilisation médicale. Notre mission est de rendre les connaissances médicales simples, claires et accessibles à tous. Nous abordons différents sujets de santé, notamment la prévention des maladies, les symptômes, les traitements et les bonnes pratiques, afin de vous aider à mieux comprendre votre santé et à adopter les bons réflexes. Inspiré par les vasa vasorum, ces petits vaisseaux essentiels qui nourrissent les parois des grandes artères, notre objectif est de nourrir vos connaissances médicales grâce à des contenus clairs, précis et fondés sur les données scientifiques actuelles. Restez connecetz dès maintenant à Vasa Vasorum Club et prenez votre santé en main !",
-          "sources": [
-            "https://stream.berosat.live/hls/vasa-vasorum/vasa-vasorum.m3u8"
-          ],
-	  "number": "213",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzc3NTk4NTJfb0NRd2c",
-          "title": "VASA VASORUM"
 },
 
 { 
@@ -599,10 +577,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
     },
 
 { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://255107.global.ssl.fastly.net/69496b32c63e44e37d789f03/live_a2555b10df6111f0851d555ab6ecb103/index.m3u8" ], "number": "104", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
- 
-{ "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
-
-{ "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
 
  {
      "description": "Mbegu Télévision, est une chaîne generaliste émettant en République Démocratique du Congo",
@@ -637,16 +611,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "LES Z'AMOURS"
  }, 
 
- {
-     "description": "Fondation Tshimanga Télévision est une chaine communautaire qui émet à partir de KINSHASA en République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/tshimanga-tv/tshimanga-tv.m3u8"
-          ],
-	  "number": "196",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzUyOTE0NDJfd0Y1clM",
-          "title": "TSHIMANGA TV"
-},
 {
      "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
           "sources": [
@@ -658,29 +622,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "OUAVILA'S TV"
 }, 
 
-{
-     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
-          "sources": [
-            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
-          ],
-	  "number": "157",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
-          "title": "WANGU TV"
-}, 
-
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "http://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
-
- {
-     "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio HOPE FM AFRICA Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés JT et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
-          "sources": [
-            "https://live.hopetvafrica.com/hls/stream.m3u8"
-          ],
-	  "number": "169",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjFf",
-          "title": "HOPE TV AFRICA"
-},
 
 { 
   		"description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8" ], "number": "49", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDUwXw", "title": "GOLGOTHA TV"
@@ -695,7 +637,59 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
+ {
+     "description": "Fondation Tshimanga Télévision est une chaine communautaire qui émet à partir de KINSHASA en République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/tshimanga-tv/tshimanga-tv.m3u8"
+          ],
+	  "number": "196",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzUyOTE0NDJfd0Y1clM",
+          "title": "TSHIMANGA TV"
+},
+{
+     "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion.",
+          "sources": [
+            "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8"
+          ],
+	  "number": "157",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
+          "title": "WANGU TV"
+}, 
+{
+     "description": "HOPE TV AFRICA est un réseau audiovisuel soudafricaine privée base a Johannesburg, en south africa 🇿🇦. Il propose une chaïne de télévision généraliste et une station de radio HOPE FM AFRICA Fondée par le realisateur et homme de la  presse Christian Mamadou Kadiadia Imhotep, la chaine propose une grille de programmes généralistes incluant des journale télévisés JT et reportage sur la société, la culture, music 🎶 et la diplomatie locale et internationales.",
+          "sources": [
+            "https://live.hopetvafrica.com/hls/stream.m3u8"
+          ],
+	  "number": "169",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjFf",
+          "title": "HOPE TV AFRICA"
+},
+{ "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
+{ "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
+{
+     "description": "Bienvenue sur Vasa Vasorum Club, votre chaîne dédiée à la santé et à la sensibilisation médicale. Notre mission est de rendre les connaissances médicales simples, claires et accessibles à tous. Nous abordons différents sujets de santé, notamment la prévention des maladies, les symptômes, les traitements et les bonnes pratiques, afin de vous aider à mieux comprendre votre santé et à adopter les bons réflexes. Inspiré par les vasa vasorum, ces petits vaisseaux essentiels qui nourrissent les parois des grandes artères, notre objectif est de nourrir vos connaissances médicales grâce à des contenus clairs, précis et fondés sur les données scientifiques actuelles. Restez connecetz dès maintenant à Vasa Vasorum Club et prenez votre santé en main !",
+          "sources": [
+            "https://stream.berosat.live/hls/vasa-vasorum/vasa-vasorum.m3u8"
+          ],
+	  "number": "213",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzc3NTk4NTJfb0NRd2c",
+          "title": "VASA VASORUM"
+},
+{
+     "description": "Lapana tv, est une chaîne généraliste  et nous émettons depuis la ville de Kinshasa en République démocratique du Congo .  Nous sommes un média centré sur les actualités politiques et culturelles.  Nous organisons des reportages dans le seul but d informer, divertir et former la masse. Vos suggestions et remarques au  numéro +243893616911.",
+          "sources": [
+            "https://stream.berosat.live/hls/lapana-tv/lapana-tv.m3u8"
+          ],
+	  "number": "192",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDNfNDcyODEzMjNf/Lapana.jpg",
+          "title": "LAPANA TV"
+},
 {
    "description":"JOS TV HD est une chaîne de télévision généraliste basée à Pointe-Noire, la ville océane de la République du Congo. Diffusée dans plusieurs bouquets IPTV à travers le monde, elle s'adresse aussi bien au public national qu'à la diaspora congolaise et africaine. Fidèle à sa mission de service culturel et d'information, JOS TV HD met en valeur la richesse linguistique et culturelle du Congo-Brazzaville à travers des programmes diffusés en français, en kituba et en lingala. La chaîne propose une grille variée composée de journaux d'information, magazines, émissions culturelles, débats, divertissements, documentaires et programmes éducatifs. JOS TV HD œuvre pour la promotion des cultures congolaises, la préservation des langues nationales et le rayonnement du patrimoine artistique du Congo. À travers ses contenus, la chaîne informe, éduque et divertit tout en contribuant au développement culturel et social de la société. Plus qu'une télévision, JOS TV HD est une vitrine du Congo, de ses talents, de ses traditions et de son dynamisme, accessible aux téléspectateurs du monde entier.","sources":["https://stream.berosat.live/hls/jos-tv-stream/jos-tv-stream.m3u8"], "number": "963", "subtitle":"All Channel","thumb":"https://od.lk/thumb/NzNfMTM1MDQyMDUxXw","title":"JOS-TV HD"},
    {
