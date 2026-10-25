@@ -81,17 +81,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
 {
-     "description": "Saint Martin est une chaîne de télévision privée basée en Cote d'Ivoire",
-          "sources": [
-            "https://stream.berosat.live/hls/sm-tv/sm-tv.m3u8"
-          ],
-	  "number": "217",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTkxOTMzMzFfdjNjMEk",
-          "title": "S-MARTIN TV"
-},
-
-{
      "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
           "sources": [
             "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
@@ -610,6 +599,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2MTk5Njhf/lesAzamourstv.png",
           "title": "LES Z'AMOURS"
  }, 
+
+ {
+     "description": "Saint Martin est une chaîne de télévision privée basée en Cote d'Ivoire",
+          "sources": [
+            "https://stream.berosat.live/hls/sm-tv/sm-tv.m3u8"
+          ],
+	  "number": "217",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTkxOTMzMzFfdjNjMEk",
+          "title": "S-MARTIN TV"
+},
 
 {
      "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
