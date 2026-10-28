@@ -498,11 +498,11 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
 {
      "description": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.",
           "sources": [
-            "https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"
+            "https://stream.lighteco-rdc.org/live/lightecotv/index.m3u8"
           ],
 	  "number": "103",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
+          "thumb": "https://od.lk/thumb/NDZfOTk3NjM3NTBfcGZia2k",
           "title": "LIGHT ECO TV"
  },
 
