@@ -173,6 +173,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
+          "sources": [
+            "https://video.streamerr.co/hls/s523ceeb26d/live.m3u8"
+          ],
+	  "number": "95",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTk4MTc3MjNfUUtuUzQ",
+          "title": "BISO TV"
+},
+
+{
      "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
@@ -181,6 +192,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
           "title": "NURU RTV"
+},
+
+{
+     "description": "Biso Kids TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sources": [
+            "https://video.streamerr.co/hls/sefef62043d/live.m3u8"
+          ],
+	  "number": "384",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTk4MTc3MjFfQlpjVU8",
+          "title": "BISO KIDS"
 },
 
 {
@@ -258,6 +280,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
           "title": "IC-TV"
+},
+
+{
+      "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://video.streamerr.co/hls/c503435c4eb/live.m3u8"
+          ],
+	  	  "number": "98",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTk4MTc3MjRfaEwzSGQ",
+          "title": "SENTINELLE TV"
 },
 
 {
@@ -734,16 +767,10 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "M6 TV"
 },
 
- {
-      "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-          "sources": [
-            "http://37.187.138.41:80/Sentinelle/index.m3u8"
-          ],
-	  	  "number": "98",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
-          "title": "SENTINELLE TV"
-	},
+
+
+
+
 
 {
      "description": "MCSE télévision est une chaine chretienne",
@@ -802,16 +829,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NzNfMTQ3NTI1OTg4X3Ztczk1",
           "title": "C6-TV"
 },
-{
-     "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
-          "sources": [
-            "http://37.187.138.41:80/BISO/index.m3u8"
-          ],
-	  "number": "95",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg",
-          "title": "BISO TV"
- },
+
   {
       "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque  Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
           "sources": [
