@@ -263,7 +263,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
       "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
-            "https://video.streamerr.co/hls/c503435c4eb/live.m3u8"
+            "https://video.streamerr.co/hls/s503435c4eb/live.m3u8"
           ],
 	  	  "number": "98",
           "subtitle": "All Channels",
