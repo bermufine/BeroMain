@@ -1,5 +1,16 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
+{
+     "description": "LollyToon télévision est une chaîne généraliste pour le divertissement dès enfants, émettant depuis Lubumbashi en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/ly-toon/ly-toon.m3u8"
+          ],
+	  "number": "219",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzk3MTY1NTJfTWxYS0Y",
+          "title": "LOLLYTOON TV"
+},
+
 { 
 	"description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" },
@@ -70,17 +81,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
 {
-     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
-          ],
-	  "number": "155",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
-          "title": "MOBA-VISION"
-},
-
-{
       "description": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
           "sources": [
             "https://ip-pro.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
@@ -100,6 +100,18 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
           "title": "KMK TV"
+},
+
+
+{
+     "description": "Congo Débout TV est une Télévision générale et commerciale qui émet à partir de Kinshasa, en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/congo-debout/congo-debout.m3u8"
+          ],
+	  "number": "220",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwMzY1MTM3X0lGMVoz",
+          "title": "CONGO DEBOUT"
 },
 
 {
@@ -159,17 +171,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDZfOTk4MTc3MjNfUUtuUzQ",
           "title": "BISO TV"
-},
-
-{
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
-          "title": "NURU RTV"
 },
 
 {
@@ -260,6 +261,21 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "IC-TV"
 },
 
+ { 
+	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjBf", "title": "KIN DIRECT TV" }, 
+
+{
+     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
+          ],
+	  "number": "785",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjRf",
+          "title": "LOLLYWOOD HD TV"
+},
+
+
 {
       "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
@@ -271,16 +287,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "SENTINELLE TV"
 },
 
- {
-     "description": "LollyToon télévision est une chaîne généraliste pour le divertissement dès enfants, émettant depuis Lubumbashi en République Démocratique du Congo",
+{
+     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
-            "https://stream.berosat.live/hls/ly-toon/ly-toon.m3u8"
+            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
           ],
-	  "number": "219",
+	  "number": "176",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzk3MTY1NTJfTWxYS0Y",
-          "title": "LOLLYTOON TV"
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
+          "title": "FILAMU TV"
 },
+
 
 {
       "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
@@ -313,17 +330,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDZfOTU1MDk4MzRf",
           "title": "INFO+ HD"
-},
-
-{
-     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
-          ],
-	  "number": "176",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
-          "title": "FILAMU TV"
 },
 
 {
@@ -372,17 +378,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzM0NTU0MDJfeE5Icks",
           "title": "NGUYA TV"
-},
-
-{
-     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
-          ],
-	  "number": "785",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjRf",
-          "title": "LOLLYWOOD HD TV"
 },
 
 {
@@ -489,9 +484,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "BALAFON TV"
 },
 
- { 
-	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjBf", "title": "KIN DIRECT TV" }, 
-
 {
      "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information.",
           "sources": [
@@ -511,6 +503,28 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
  {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8"], "number": "72", "subtitle":"By Channel","thumb":"https://od.lk/thumb/NDNfNDcxMDM2OTlf","title":"ESPOIR TV"},
 
 {"description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.", "sources":["https://video.streamerr.co/hls/sd2db0e477d/live.m3u8"], "number": "75", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title": "POURIM-RTV"},
+
+{
+     "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8"
+          ],
+	  "number": "155",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
+          "title": "MOBA-VISION"
+},
+
+{
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
+          ],
+	  "number": "94",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
+          "title": "NURU RTV"
+},
 
 {
      "description": "Yeshoua Tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
@@ -679,10 +693,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 { "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "http://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
 
-{ 
-	"description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
-Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111", "sources": [ "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8" ], "number": "391", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg", "title": "BARAKA TV" 
-			}
+{
+     "description": "LollyToon télévision est une chaîne généraliste pour le divertissement dès enfants, émettant depuis Lubumbashi en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/ly-toon/ly-toon.m3u8"
+          ],
+	  "number": "219",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzk3MTY1NTJfTWxYS0Y",
+          "title": "LOLLYTOON TV"
+          }
         ] 
      }
   ]
