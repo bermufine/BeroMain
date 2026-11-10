@@ -117,7 +117,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "RT Mwangaza télévision est est la première thématique privee émettant dwouis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
           "sources": [
-            "https://ip-pro.berosat.live/hls/live/MWANGAZA/index.m3u8"
+            "https://stream.berosat.live/hls/mwanza/mwanza.m3u8"
           ],
 	  "number": "219",
           "subtitle": "All Channels",
