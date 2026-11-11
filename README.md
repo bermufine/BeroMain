@@ -102,18 +102,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "KMK TV"
 },
 
-
-{
-     "description": "Congo Débout TV est une Télévision générale et commerciale qui émet à partir de Kinshasa, en République démocratique du Congo.",
-          "sources": [
-            "https://stream.berosat.live/hls/congo-debout/congo-debout.m3u8"
-          ],
-	  "number": "220",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfMTAwMzY1MTM3X0lGMVoz",
-          "title": "CONGO DEBOUT"
-},
-
 {
      "description": "RT Mwangaza télévision est est la première thématique privee émettant dwouis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
           "sources": [
@@ -680,17 +668,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "LES Z'AMOURS"
  }, 
 
- {
-     "description": "Saint Martin est une chaîne de télévision privée basée en Cote d'Ivoire",
-          "sources": [
-            "https://stream.berosat.live/hls/sm-tv/sm-tv.m3u8"
-          ],
-	  "number": "217",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTkxOTMzMzFfdjNjMEk",
-          "title": "S-MARTIN TV"
-},
-
 {
      "description": "OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
           "sources": [
@@ -724,6 +701,28 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
+
+
+ {
+     "description": "Saint Martin est une chaîne de télévision privée basée en Cote d'Ivoire",
+          "sources": [
+            "https://stream.berosat.live/hls/sm-tv/sm-tv.m3u8"
+          ],
+	  "number": "217",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTkxOTMzMzFfdjNjMEk",
+          "title": "S-MARTIN TV"
+},
+{
+     "description": "Congo Débout TV est une Télévision générale et commerciale qui émet à partir de Kinshasa, en République démocratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live/hls/congo-debout/congo-debout.m3u8"
+          ],
+	  "number": "220",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwMzY1MTM3X0lGMVoz",
+          "title": "CONGO DEBOUT"
+},
  {
      "description": "Fondation Tshimanga Télévision est une chaine communautaire qui émet à partir de KINSHASA en République démocratique du Congo",
           "sources": [
