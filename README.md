@@ -242,17 +242,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "ORTOLAN TV"
 },
 
-{
-     "description": "Identite Chretienne TV est une chaîne généraliste nous émettons depuis Kinshasa, en République démocratique du Cong...",
-          "sources": [    
-		  "https://stream.berosat.live/hls/ictv/ictv.m3u8"
-		  ],
-	  "number": "207",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
-          "title": "IC-TV"
-},
-
  { 
 	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjBf", "title": "KIN DIRECT TV" }, 
 
@@ -322,17 +311,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjNf",
           "title": "KINOISERIE TV"
-},
-
- {
-     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-          "sources": [
-            "https://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
-          ],
-	  "number": "144",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTU1MDk4MzRf",
-          "title": "INFO+ HD"
 },
 
 {
@@ -591,17 +569,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "BM TV"
 },
 
- {
-          "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
-          "sources": [
-            "https://live20.bozztv.com/akamaissh101/ssh101/evtele2xrdc/playlist.m3u8"
-          ],
-	  "number": "108",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
-          "title": "EV TELE"
-},
-
 {
      "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
@@ -683,18 +650,26 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "OUAVILA'S TV"
 }, 
 
-{
-     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+ {
+     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
           "sources": [
-            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
+            "https://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8"
           ],
-	  "number": "94",
+	  "number": "144",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
-          "title": "NURU RTV"
+          "thumb": "https://od.lk/thumb/NDZfOTU1MDk4MzRf",
+          "title": "INFO+ HD"
 },
-
-{ "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "http://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
+{
+     "description": "Identite Chretienne TV est une chaîne généraliste nous émettons depuis Kinshasa, en République démocratique du Cong...",
+          "sources": [    
+		  "https://stream.berosat.live/hls/ictv/ictv.m3u8"
+		  ],
+	  "number": "207",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
+          "title": "IC-TV"
+},
 
 {
      "description": "LollyToon télévision est une chaîne généraliste pour le divertissement dès enfants, émettant depuis Lubumbashi en République Démocratique du Congo",
@@ -728,6 +703,30 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NDZfOTkxOTMzMzFfdjNjMEk",
           "title": "S-MARTIN TV"
 },
+{
+     "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/NURU-TV/index.m3u8"
+          ],
+	  "number": "94",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDNfNDcxMDM2Mzhf",
+          "title": "NURU RTV"
+},
+
+ {
+          "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
+          "sources": [
+            "https://live20.bozztv.com/akamaissh101/ssh101/evtele2xrdc/playlist.m3u8"
+          ],
+	  "number": "108",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
+          "title": "EV TELE"
+},
+
+{ "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com", "sources": [ "http://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8" ], "number": "65", "subtitle": "All Channels", "direct": "En Direct", "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg", "title": "EVI TV" },
+
 {
      "description": "Congo Débout TV est une Télévision générale et commerciale qui émet à partir de Kinshasa, en République démocratique du Congo.",
           "sources": [
