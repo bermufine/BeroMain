@@ -144,6 +144,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://tv.berosat.live:8888/NOVELAS/index.m3u8"
+          ],
+	  "number": "09",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
+          "title": "BERO NOVELAS"
+},
+
+{
      "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
           "sources": [    
 		  "https://ip-pro.berosat.live/hls/live/MSTV/index.m3u8"
@@ -196,17 +207,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTQ5MTc3MjY5X3hBb0kw",
           "title": "BSM HD"
-},
-
-{
-     "description": "Bero Novelas télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://pro-iptv.berosat.live/hls/novelas-hd/index.m3u8"
-          ],
-	  "number": "09",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIxOTU1OTNf/BeroNovelas.jpg",
-          "title": "BERO NOVELAS"
 },
 
 {
