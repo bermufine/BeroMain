@@ -231,6 +231,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "CPT TV"
 },
 
+ {
+     "description": "Bosenga ya Peuple télévision est une chaîne socio-politique qui émettantons depuis Kinshasa en République Démocratique du Congo. Nous Sommes sur Youtube, tiktok et Facebook / contact nous+243 824144053",
+          "sources": [
+            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
+          ],
+	  "number": "173",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwODAyNjAyX1ZRUEJs",
+          "title": "BOSENGA YA PEUPLE"
+},
+
 {
      "description": "ORTOLAN TV est une chaîne de télévision généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. À travers une programmation riche et diversifiée, ORTOLAN TV propose à son public des contenus consacrés à l’information, la culture, la société, la politique, le sport, la musique, le divertissement et les grandes questions de l’actualité. Attachée à la valorisation des talents, des initiatives et des réalités de la société congolaise, la chaîne ambitionne de proposer une télévision moderne, dynamique et proche de son audience. ORTOLAN TV se veut également une vitrine des réussites, des potentialités et des initiatives qui contribuent au développement de la communauté. ORTOLAN TV — Le reflet de la grandeur.",
           "sources": [
@@ -1249,16 +1260,7 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumb": "https://od.lk/s/NDZfOTI5OTgxNjZf/Kingdomtv.jpg",
           "title": "KINGDOM TV"
  },
- {
-     "description": "Bosenga Ya Peuple Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
-          ],
-	  "number": "173",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTMwMzY3Mzlf/Bosenga.jpg",
-          "title": "BOSENGA TV"
-},
+
 
  {
      "description": "Étoile du berger Télévision (EDB TV), est une chaîne privée généraliste d'information, de formation et de divertissement.
