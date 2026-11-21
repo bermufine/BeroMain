@@ -117,6 +117,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "RT MWANGAZA"
 },
 
+{
+     "description": "KIVULU TV INFO est une chaîne médiatique congolaise dédiée à l'information et à la valorisation du Kongo Central. Elle diffuse des actualités, reportages, interviews, émissions et débats sur la vie politique, sociale, économique, culturelle et sportive de la province. Elle met en lumière les réalités locales, les initiatives communautaires et les enjeux de développement, tout en donnant la parole à la population. KIVULU TV INFO : la voix du Kongo Central, proche de vous, partout dans le monde.",
+          "sources": [
+            "https://stream.berosat.live/hls/kivulu-tv/kivulu-tv.m3u8"
+          ],
+	  "number": "223",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwOTA4NDAwX25vRXFD",
+          "title": "KIVULU TV INFO"
+},
+
 { 
 	"description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" 
 },
@@ -243,14 +254,14 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "ORTOLAN TV est une chaîne de télévision généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. À travers une programmation riche et diversifiée, ORTOLAN TV propose à son public des contenus consacrés à l’information, la culture, la société, la politique, le sport, la musique, le divertissement et les grandes questions de l’actualité. Attachée à la valorisation des talents, des initiatives et des réalités de la société congolaise, la chaîne ambitionne de proposer une télévision moderne, dynamique et proche de son audience. ORTOLAN TV se veut également une vitrine des réussites, des potentialités et des initiatives qui contribuent au développement de la communauté. ORTOLAN TV — Le reflet de la grandeur.",
+     "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo",
           "sources": [
-            "https://ip-pro.berosat.live/hls/live/ORTOLAN-TV/index.m3u8"
+            "https://tv.berosat.live:8888/COBLA-TV/index.m3u8"
           ],
-	  "number": "212",
+	  "number": "94",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyNDIyX1hQS1N0",
-          "title": "ORTOLAN TV"
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MzA3Mjc3X1VLRzlz",
+          "title": "COBLA TV"
 },
 
  { 
@@ -347,17 +358,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo",
-          "sources": [
-            "https://tv.berosat.live:8888/COBLA-TV/index.m3u8"
-          ],
-	  "number": "94",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTQ5MzA3Mjc3X1VLRzlz",
-          "title": "COBLA TV"
-},
-
-{
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
@@ -405,6 +405,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDZfOTY3MzA0ODRfSW5kNW8",
           "title": "VOX KONGO TV"
+},
+
+{
+     "description": "ORTOLAN TV est une chaîne de télévision généraliste basée à Lubumbashi, dans la province du Haut-Katanga, en République démocratique du Congo. À travers une programmation riche et diversifiée, ORTOLAN TV propose à son public des contenus consacrés à l’information, la culture, la société, la politique, le sport, la musique, le divertissement et les grandes questions de l’actualité. Attachée à la valorisation des talents, des initiatives et des réalités de la société congolaise, la chaîne ambitionne de proposer une télévision moderne, dynamique et proche de son audience. ORTOLAN TV se veut également une vitrine des réussites, des potentialités et des initiatives qui contribuent au développement de la communauté. ORTOLAN TV — Le reflet de la grandeur.",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/ORTOLAN-TV/index.m3u8"
+          ],
+	  "number": "212",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NzNfMTQ4MDQyNDIyX1hQS1N0",
+          "title": "ORTOLAN TV"
 },
 
  {
