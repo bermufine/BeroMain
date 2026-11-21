@@ -120,7 +120,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 {
      "description": "KIVULU TV INFO est une chaîne médiatique congolaise dédiée à l'information et à la valorisation du Kongo Central. Elle diffuse des actualités, reportages, interviews, émissions et débats sur la vie politique, sociale, économique, culturelle et sportive de la province. Elle met en lumière les réalités locales, les initiatives communautaires et les enjeux de développement, tout en donnant la parole à la population. KIVULU TV INFO : la voix du Kongo Central, proche de vous, partout dans le monde.",
           "sources": [
-            "https://stream.berosat.live/hls/kivulu-tv/kivulu-tv.m3u8"
+            "https://stream.berosat.live/hls/kivula-tv/kivula-tv.m3u8"
           ],
 	  "number": "223",
           "subtitle": "All Channels",
