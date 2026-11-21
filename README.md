@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
+          ],
+	  "number": "176",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
+          "title": "FILAMU TV"
+},
+
+{
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
             "https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8"
@@ -9,17 +20,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
           "title": "KMK TV"
-},
-
-{
-     "description": "LollyToon télévision est une chaîne généraliste pour le divertissement dès enfants, émettant depuis Lubumbashi en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/ly-toon/ly-toon.m3u8"
-          ],
-	  "number": "219",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzk3MTY1NTJfTWxYS0Y",
-          "title": "LOLLYTOON TV"
 },
 
 { 
@@ -79,6 +79,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "Radio Télé Puissance est la première chaine chrétienne en République Democratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/rtp-hd/rtp-hd.m3u8"
+          ],
+	  "number": "205",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfOTc0NDc5MTRfb1VOYVo",
+          "title": "RTP"
+},
+
+{
      "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
           "sources": [
             "https://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
@@ -104,17 +115,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 
 { 
   		"description": "=TOUT POUR JSUS=,   Kaka Ysu télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://ip-pro.berosat.live/hls/live/KAKA-YESU/index.m3u8" ], "number": "222", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzk5OTEwMThfMml4RWI", "title": "KAKA YESU TV"
-},
-
-{
-     "description": "RT Mwangaza télévision est est la première thématique privee émettant dwouis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/mwanza/mwanza.m3u8"
-          ],
-	  "number": "219",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTk5ODI1MjJfaHJSdXo",
-          "title": "RT MWANGAZA"
 },
 
 {
@@ -144,14 +144,14 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Radio Télé Puissance est la première chaine chrétienne en République Democratique du Congo",
+     "description": "RT Mwangaza télévision est est la première thématique privee émettant dwouis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live/hls/rtp-hd/rtp-hd.m3u8"
+            "https://stream.berosat.live/hls/mwanza/mwanza.m3u8"
           ],
-	  "number": "205",
+	  "number": "219",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTc0NDc5MTRfb1VOYVo",
-          "title": "RTP"
+          "thumb": "https://od.lk/thumb/NDZfOTk5ODI1MjJfaHJSdXo",
+          "title": "RT MWANGAZA"
 },
 
 {
@@ -188,6 +188,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "LollyToon télévision est une chaîne généraliste pour le divertissement dès enfants, émettant depuis Lubumbashi en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/ly-toon/ly-toon.m3u8"
+          ],
+	  "number": "219",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzk3MTY1NTJfTWxYS0Y",
+          "title": "LOLLYTOON TV"
+},
+
+{
      "description": "Biso Kids TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sources": [
             "https://video.streamerr.co/hls/sefef62043d/live.m3u8"
@@ -197,6 +208,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NDZfOTk4MTc3MjFfQlpjVU8",
           "title": "BISO KIDS"
 },
+
+{
+     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
+          ],
+	  "number": "104",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
+          "title": "GPLUS TV"
+}, 
 
 {
      "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
@@ -291,18 +313,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
-          ],
-	  "number": "176",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
-          "title": "FILAMU TV"
-},
-
-
-{
       "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
@@ -356,17 +366,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NDZfOTg5MDcyMTlfRFFSdmk",
           "title": "LRTV"
 },
-
-{
-     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
-          ],
-	  "number": "104",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
-          "title": "GPLUS TV"
-}, 
 
 { 
     "description":"champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.", "sources": [ "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8" ], "number": "50", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQyXw", "title": "CHAMPION TV" 
@@ -475,17 +474,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU1Xw",
           "title": "S-MEDIAS TV 3"
 },
-
- {
-     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
-          ],
-	  "number": "118",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
-          "title": "ESPEC TV"
- },
 
 {
      "description": "Balafon TV est une chaîne de télévision camerounaise qui propose une programmation riche, dynamique et proche des réalités du public. Elle met en avant l’actualité, la culture, le divertissement, la musique, les débats et les grands événements qui rythment la vie du Cameroun. À travers ses émissions et ses productions, Balafon TV donne la parole aux acteurs de la société, aux artistes, aux personnalités publiques et aux différents talents camerounais. La chaîne s’inscrit dans une vision moderne de la télévision, en développant des contenus accessibles, interactifs et adaptés aux nouvelles habitudes de consommation audiovisuelle. Balafon TV, c’est une télévision camerounaise proche de son public, qui informe, divertit, valorise la culture et met en lumière les talents et les réalités du Cameroun.",
@@ -725,7 +713,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
-
+{
+     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "sources": [
+            "https://stream.berosat.live/hls/espec-tv/espec-tv.m3u8"
+          ],
+	  "number": "118",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
+          "title": "ESPEC TV"
+ },
  {
      "description": "Saint Martin est une chaîne de télévision privée basée en Cote d'Ivoire",
           "sources": [
