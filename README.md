@@ -31,7 +31,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "RT Mwangaza télévision est est la première thématique privee émettant dwouis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
+     "description": "RT Mwangaza télévision est la première chaine thématique privee émettant depuis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
           "sources": [
             "http://ip-pro.berosat.live/hls/live/MWANGAZA/index.m3u8"
           ],
@@ -208,6 +208,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
           "title": "GPLUS TV"
 }, 
+
+{
+     "description": "Karibu télévision est une chaine generaliste émettant depuis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
+          "sources": [
+            "https://5caf24a595d94.streamlock.net:1937/8090/8090/playlist.m3u8"
+          ],
+	  "number": "224",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zNDAxODkxMzlfN1Nxdzg",
+          "title": "KARIBU TV"
+},
 
 {
      "description": "La Voix du Réveil télévision est une chaine culturelle émettant depuis la République démocratique du Congo",
