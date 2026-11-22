@@ -37,7 +37,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           ],
 	  "number": "219",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfOTk5ODI1MjJfaHJSdXo",
+          "thumb": "https://od.lk/thumb/NDZfMTAwOTQwNzE4X29sNVNE",
           "title": "RT MWANGAZA"
 },
 
@@ -100,16 +100,9 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "RTP"
 },
 
-{
-     "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
-          "sources": [
-            "https://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
-          ],
-	  "number": "172",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTBf",
-          "title": "RTBA"
-},
+{ 
+	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDZfMTAwOTQwNzE2XzRFYWhy", "title": "KIN DIRECT TV" },
+
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
@@ -122,10 +115,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg3ODhf",
           "title": "MUSIC NA BISO"
-},
-
-{ 
-  		"description": "=TOUT POUR JSUS=,   Kaka Ysu télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://ip-pro.berosat.live/hls/live/KAKA-YESU/index.m3u8" ], "number": "222", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzk5OTEwMThfMml4RWI", "title": "KAKA YESU TV"
 },
 
 {
@@ -232,6 +221,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
+     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+          "sources": [
+            "https://stream.berosat.live/hls/c-one/c-one.m3u8"
+          ],
+	  "number": "417",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwOTQwNzE3X2NncXZp",
+          "title": "C-ONE TV"
+ },
+
+{
      "description": "BSM TV (La Bonne Semence dans le Monde Télévision) est ume chaîne chrétienne émettant depuis Kinshasa en République Démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/bsm-hd/bsm-hd.m3u8"
@@ -284,10 +284,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTQ5MzA3Mjc3X1VLRzlz",
           "title": "COBLA TV"
-},
-
- { 
-	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDNfNDcxMDM2MjBf", "title": "KIN DIRECT TV" }, 
+}, 
 
 {
      "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
@@ -310,6 +307,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NDZfOTk4MTc3MjRfaEwzSGQ",
           "title": "SENTINELLE TV"
+},
+
+{
+     "description": "Radio tele buisson ardent d’information générale qui  émet à partir de KINSHASA en République démocratique du Congo",
+          "sources": [
+            "https://ip-pro.berosat.live/hls/live/RTBA/index.m3u8"
+          ],
+	  "number": "172",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTBf",
+          "title": "RTBA"
 },
 
 {
@@ -427,6 +435,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
           "title": "PRO TV"
 },
+
+{ 
+  		"description": "=TOUT POUR JSUS=,   Kaka Ysu télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://ip-pro.berosat.live/hls/live/KAKA-YESU/index.m3u8" ], "number": "222", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzk5OTEwMThfMml4RWI", "title": "KAKA YESU TV"
+},
+
 
 {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
@@ -681,26 +694,16 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NDZfOTU1MDk4MzRf",
           "title": "INFO+ HD"
 },
-{
-     "description": "Identite Chretienne TV est une chaîne généraliste nous émettons depuis Kinshasa, en République démocratique du Cong...",
-          "sources": [    
-		  "https://stream.berosat.live/hls/ictv/ictv.m3u8"
-		  ],
-	  "number": "207",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
-          "title": "IC-TV"
-},
 
 {
-     "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
+     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
-            "https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8"
+            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
           ],
-	  "number": "08",
+	  "number": "176",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
-          "title": "KMK TV"
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
+          "title": "FILAMU TV"
           }
         ] 
      }
@@ -713,6 +716,18 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 
 
 
+
+
+{
+     "description": "Identite Chretienne TV est une chaîne généraliste nous émettons depuis Kinshasa, en République démocratique du Cong...",
+          "sources": [    
+		  "https://stream.berosat.live/hls/ictv/ictv.m3u8"
+		  ],
+	  "number": "207",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
+          "title": "IC-TV"
+},
 {
      "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
@@ -960,16 +975,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/NDZfOTc1NTk3MTVfY2tqMjA",
           "title": "RTAE HD"
 },
-{
-     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
-          "sources": [
-            "https://stream.berosat.live/hls/c-one/c-one.m3u8"
-          ],
-	  "number": "417",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQzXw",
-          "title": "C-ONE TV"
- },
 
 {
      "description": "Liberty Télévision, la chaîne d'expression.",
