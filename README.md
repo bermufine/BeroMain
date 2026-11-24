@@ -1,6 +1,17 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
 {
+     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
+          ],
+	  "number": "104",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
+          "title": "GPLUS TV"
+}, 
+
+{
      "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
           "sources": [
             "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
@@ -67,6 +78,9 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "CITE DE DAVID"
 },
 
+{ 
+	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDZfMTAwOTQwNzE2XzRFYWhy", "title": "KIN DIRECT TV" },
+
 {
      "description": "Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo",
           "sources": [
@@ -99,10 +113,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NDZfOTc0NDc5MTRfb1VOYVo",
           "title": "RTP"
 },
-
-{ 
-	"description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières", "sources": [ "https://stream.berosat.live/hls/kin-direct/kin-direct.m3u8" ], "number": "60", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NDZfMTAwOTQwNzE2XzRFYWhy", "title": "KIN DIRECT TV" },
-
 
 { "description": "Le Monde en 24H, l'autoroute de l'information ", "sources": [ "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8" ], "number": "52", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDU3Xw", "title": "LE MONDE EN 24H" },
 
@@ -197,17 +207,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NDZfOTk4MTc3MjFfQlpjVU8",
           "title": "BISO KIDS"
 },
-
-{
-     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
-          ],
-	  "number": "104",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
-          "title": "GPLUS TV"
-}, 
 
 {
      "description": "Karibu télévision est une chaine generaliste émettant depuis Haut-Katanga / Lubumbashi en République Démocratique du Congo",
@@ -413,6 +412,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 { "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live/hls/der-tv/der-tv.m3u8" ], "number": "64", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ0Xw", "title": "DER-TV" },
+
+{
+     "description": "𝐖𝐀𝐙𝐈 𝐖𝐀𝐙𝐈 𝐌𝐞𝐝𝐢𝐚 𝐞𝐬𝐭 𝐮𝐧𝐞 𝐚𝐠𝐞𝐧𝐜𝐞 𝐝𝐞 𝐩𝐫𝐞𝐬𝐬𝐞 𝐛𝐚𝐬é à 𝐋𝐮𝐛𝐮𝐦𝐛𝐚𝐬𝐡𝐢 𝐞𝐧 𝐑é𝐩𝐮𝐛𝐥𝐢𝐪𝐮𝐞 𝐃é𝐦𝐨𝐜𝐫𝐚𝐭𝐢𝐪𝐮𝐞 𝐝𝐮 𝐂𝐨𝐧𝐠𝐨. 𝐍𝐨𝐮𝐬 𝐭𝐫𝐚𝐢𝐭𝐨𝐧𝐬 𝐞𝐭 𝐝𝐢𝐟𝐟𝐮𝐬𝐢𝐨𝐧 𝐥𝐞𝐬 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧𝐬 𝐠é𝐧é𝐫𝐚𝐥𝐞𝐬 𝐞𝐧 𝐭𝐨𝐮𝐭𝐞 𝐜𝐥𝐚𝐫𝐭é 𝐞𝐭 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐢𝐥𝐢𝐭é.",
+          "sources": [
+            "https://stream.berosat.live/hls/wazi-tv/wazi-tv.m3u8"
+          ],
+	  "number": "213",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAxMDI5MDY4X01rYVVQ",
+          "title": "WAZI-WAZI TV"
+},
 
 {
      "description": "VOX KONGO TV est une Television d’information générale qui  émet à partir deLubumbashi, Province du Haut-Katanga, en République démocratique du Congo.",
@@ -707,14 +717,14 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
 {
-     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+     "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
-            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
+            "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
           ],
-	  "number": "176",
+	  "number": "104",
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
-          "title": "FILAMU TV"
+          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
+          "title": "GPLUS TV"
           }
         ] 
      }
@@ -826,16 +836,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 { "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
 { "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "102", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
-{
-     "description": "Bienvenue sur Vasa Vasorum Club, votre chaîne dédiée à la santé et à la sensibilisation médicale. Notre mission est de rendre les connaissances médicales simples, claires et accessibles à tous. Nous abordons différents sujets de santé, notamment la prévention des maladies, les symptômes, les traitements et les bonnes pratiques, afin de vous aider à mieux comprendre votre santé et à adopter les bons réflexes. Inspiré par les vasa vasorum, ces petits vaisseaux essentiels qui nourrissent les parois des grandes artères, notre objectif est de nourrir vos connaissances médicales grâce à des contenus clairs, précis et fondés sur les données scientifiques actuelles. Restez connecetz dès maintenant à Vasa Vasorum Club et prenez votre santé en main !",
-          "sources": [
-            "https://stream.berosat.live/hls/vasa-vasorum/vasa-vasorum.m3u8"
-          ],
-	  "number": "213",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzc3NTk4NTJfb0NRd2c",
-          "title": "VASA VASORUM"
-},
+
 {
      "description": "Lapana tv, est une chaîne généraliste  et nous émettons depuis la ville de Kinshasa en République démocratique du Congo .  Nous sommes un média centré sur les actualités politiques et culturelles.  Nous organisons des reportages dans le seul but d informer, divertir et former la masse. Vos suggestions et remarques au  numéro +243893616911.",
           "sources": [
