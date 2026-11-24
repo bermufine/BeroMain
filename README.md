@@ -231,17 +231,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
-          "sources": [
-            "https://stream.berosat.live/hls/c-one/c-one.m3u8"
-          ],
-	  "number": "417",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfMTAwOTQwNzE3X2NncXZp",
-          "title": "C-ONE TV"
- },
-
-{
      "description": "BSM TV (La Bonne Semence dans le Monde Télévision) est ume chaîne chrétienne émettant depuis Kinshasa en République Démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/bsm-hd/bsm-hd.m3u8"
@@ -250,17 +239,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/NzNfMTQ5MTc3MjY5X3hBb0kw",
           "title": "BSM HD"
-},
-
-{
-     "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
-          "sources": [
-            "https://stream.berosat.live/hls/elan-tv/elan-tv.m3u8"
-          ],
-	  "number": "165",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjFf",
-          "title": "ELAN TV"
 },
 
 {
@@ -331,17 +309,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
 },
 
 {
-      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
-          ],
-	  "number": "166",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
-          "title": "AMANI TV"
- }, 
-
- {
       "description": "RT Afrika Telema TV est une chaîne de télévision généraliste émettant depuis République démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/afrika-index/afrika-index.m3u8"
@@ -456,11 +423,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NDNfNDcxMTY2NzFf",
           "title": "PRO TV"
 },
-
-{ 
-  		"description": "=TOUT POUR JSUS=,   Kaka Ysu télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://ip-pro.berosat.live/hls/live/KAKA-YESU/index.m3u8" ], "number": "222", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzk5OTEwMThfMml4RWI", "title": "KAKA YESU TV"
-},
-
 
 {
      "description": "Afri TV est une chaîne généraliste  qui diffuse que des predications, des informations, musiques, magazine et autres  émettant depuis la République démocratique du Congo.",
@@ -717,6 +679,38 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
 {
+      "description": "Amani TV est une chaîne généraliste émettant depuis République démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/amani-tv/amani-tv.m3u8"
+          ],
+	  "number": "166",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MThf",
+          "title": "AMANI TV"
+ }, 
+ {
+     "description": "Elan TV est une Télévision est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo. Pour tout contact : garcialdj0@gmail.com",
+          "sources": [
+            "https://stream.berosat.live/hls/elan-tv/elan-tv.m3u8"
+          ],
+	  "number": "165",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjFf",
+          "title": "ELAN TV"
+},
+
+{
+     "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+          "sources": [
+            "https://stream.berosat.live/hls/c-one/c-one.m3u8"
+          ],
+	  "number": "417",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwOTQwNzE3X2NncXZp",
+          "title": "C-ONE TV"
+ },
+
+{
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
             "https://stream.berosat.live/hls/gplus-tv/gplus-tv.m3u8"
@@ -749,6 +743,11 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/M18zMzY4NzQzMzdfUnYyR2s",
           "title": "IC-TV"
 },
+
+{ 
+  		"description": "=TOUT POUR JSUS=,   Kaka Ysu télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.", "sources": [ "https://ip-pro.berosat.live/hls/live/KAKA-YESU/index.m3u8" ], "number": "222", "subtitle": "All Channels", "thumb": "https://od.lk/thumb/M18zMzk5OTEwMThfMml4RWI", "title": "KAKA YESU TV"
+},
+
 {
      "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "sources": [
