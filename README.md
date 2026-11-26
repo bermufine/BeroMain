@@ -1,7 +1,7 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
  {
-      "description": "RTVA est une chaîne chrétienne pour l'édification le l'église corps du Christ,  Nous émettons depuis Kinshasa en République Démocratique du Congo",
+      "description": "La Radio Télévision la Voix de l'Aigle (RTVA ) en sigle est une chaîne chrétienne qui diffuse le message du temps de la fin prêché par le prophète de Dieu William Marion Branham.   Avec comme promoteur le reverend Baruti Kasongo Leonard.  La RTVA diffuse fondée en 2003 et émettant depuis la ville province de Kinshasa en République Démocratique du Congo. Pour tout contact : +243 81 22 99 775",
           "sources": [
             "https://stream.berosat.live/hls/rtva/rtva.m3u8"
           ],
