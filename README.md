@@ -1,5 +1,16 @@
 # BeroMain
 { "categories": [ { "name": "Movies", "videos": [
+ {
+      "description": "RTVA est une chaîne chrétienne pour l'édification le l'église corps du Christ,  Nous émettons depuis Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live/hls/rtva/rtva.m3u8"
+          ],
+	  "number": "174",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAxMTMzMjgzX0VZV0Ns",
+          "title": "RTVA"
+},
+
 {
      "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
           "sources": [
@@ -127,19 +138,19 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "MUSIC NA BISO"
 },
 
-{
-     "description": "KIVULU TV INFO est une chaîne médiatique congolaise dédiée à l'information et à la valorisation du Kongo Central. Elle diffuse des actualités, reportages, interviews, émissions et débats sur la vie politique, sociale, économique, culturelle et sportive de la province. Elle met en lumière les réalités locales, les initiatives communautaires et les enjeux de développement, tout en donnant la parole à la population. KIVULU TV INFO : la voix du Kongo Central, proche de vous, partout dans le monde.",
-          "sources": [
-            "https://stream.berosat.live/hls/kivula-tv/kivula-tv.m3u8"
-          ],
-	  "number": "223",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfMTAwOTA4NDAwX25vRXFD",
-          "title": "KIVULU TV INFO"
-},
-
 { 
 	"description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.", "sources": [ "https://stream.berosat.live/hls/live-tv/live-tv.m3u8" ], "number": "58", "subtitle": "All Channels", "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp", "title": "BALADE MONDE TV" 
+},
+
+{
+     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
+          "sources": [
+            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
+          ],
+	  "number": "170",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
+          "title": "SAFINA TV"
 },
 
 {
@@ -306,6 +317,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTBf",
           "title": "RTBA"
+},
+
+{
+     "description": "KIVULU TV INFO est une chaîne médiatique congolaise dédiée à l'information et à la valorisation du Kongo Central. Elle diffuse des actualités, reportages, interviews, émissions et débats sur la vie politique, sociale, économique, culturelle et sportive de la province. Elle met en lumière les réalités locales, les initiatives communautaires et les enjeux de développement, tout en donnant la parole à la population. KIVULU TV INFO : la voix du Kongo Central, proche de vous, partout dans le monde.",
+          "sources": [
+            "https://stream.berosat.live/hls/kivula-tv/kivula-tv.m3u8"
+          ],
+	  "number": "223",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwOTA4NDAwX25vRXFD",
+          "title": "KIVULU TV INFO"
 },
 
 {
@@ -930,16 +952,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
 },
 
 
-{
-     "description": "Safina television est une chaîne généraliste émettant depuis la commune de Fungurume en Republique Democratique du Congo",
-          "sources": [
-            "http://ip-pro.berosat.live/hls/live/SAFINA-TV/index.m3u8"
-          ],
-	  "number": "170",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg3OTFf",
-          "title": "SAFINA TV"
- },
+
   { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "99", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC SD" },	
 
  {
@@ -1131,17 +1144,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjBf",
           "title": "AUAPAJR TV"
  },
- 
- {
-      "description": "Esakola télévision est une chaîne généraliste communautaire émettant à  depuis Kimpese en République Démocratique du Congo",
-          "sources": [
-            "https://stream.berosat.live/hls/no-signal/no-signal.m3u8"
-          ],
-	  "number": "174",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDNfNDcxMDMwODlf",
-          "title": "ESAKOLA TV"
-},
 
  {
      "description": "Alliance TV est une Télévision  est une chaîne generaliste pour vos divertissement avec sport. film évasion, musique, émissions.cultes etc... Nous Émettons depuis la République Démocratique du Congo",
