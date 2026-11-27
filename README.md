@@ -23,17 +23,6 @@
 }, 
 
 {
-     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
-          "sources": [
-            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
-          ],
-	  "number": "176",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
-          "title": "FILAMU TV"
-},
-
-{
      "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
           "sources": [
             "https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8"
@@ -77,6 +66,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
           "title": "ESAIE 45 TELE"
  },
+
+ {
+     "description": "Filamu TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
+          "sources": [
+            "https://stream.berosat.live/hls/filamu-tv/filamu-tv.m3u8"
+          ],
+	  "number": "176",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjJf",
+          "title": "FILAMU TV"
+},
  
 {
      "description": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
@@ -263,17 +263,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "CPT TV"
 },
 
- {
-     "description": "Bosenga ya Peuple télévision est une chaîne socio-politique qui émettantons depuis Kinshasa en République Démocratique du Congo. Nous Sommes sur Youtube, tiktok et Facebook / contact nous+243 824144053",
-          "sources": [
-            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
-          ],
-	  "number": "173",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/thumb/NDZfMTAwODAyNjAyX1ZRUEJs",
-          "title": "BOSENGA YA PEUPLE"
-},
-
 {
      "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo",
           "sources": [
@@ -294,6 +283,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle": "All Channels",
           "thumb": "https://od.lk/thumb/M18zMzA5NDg0MjRf",
           "title": "LOLLYWOOD HD TV"
+},
+
+{ 
+      "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
+	   "sources": [
+            "https://stream.berosat.live/hls/destiny-channel/destiny-channel.m3u8"
+          ],
+          "subtitle": "All Channels",
+		  "number": "88",
+          "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
+          "title": "DESTINY CHANNEL"
 },
 
 
@@ -340,6 +340,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/thumb/NzNfMTQ5MjY1MTgwX2w2SXRX",
           "title": "RT AFRIKA TELEMA"
  },
+
+  {
+     "description": "Bosenga ya Peuple télévision est une chaîne socio-politique qui émettantons depuis Kinshasa en République Démocratique du Congo. Nous Sommes sur Youtube, tiktok et Facebook / contact nous+243 824144053",
+          "sources": [
+            "https://stream.berosat.live/hls/bosenga-tv/bosenga-tv.m3u8"
+          ],
+	  "number": "173",
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/thumb/NDZfMTAwODAyNjAyX1ZRUEJs",
+          "title": "BOSENGA YA PEUPLE"
+},
 
  {
      "description": "Kinoiserie TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries. Elle met en lumière les talents à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture, diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
@@ -1361,16 +1372,7 @@ Nous émettons depuis la ville de Matadi en République Démocratique du Congo. 
           "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
           "title": "SV TV"
 },
-{ 
-      "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autress",
-	   "sources": [
-            "https://stream.berosat.live/hls/destiny-channel/destiny-channel.m3u8"
-          ],
-          "subtitle": "All Channels",
-		  "number": "88",
-          "thumb": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
-          "title": "DESTINY CHANNEL"
-},
+
   {
      "description": "Siloe TV Monde.",
           "sources": [
